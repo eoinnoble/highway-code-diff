@@ -1,0 +1,5 @@
+aiofiles
+beautifulsoup4
+httpx
+markdownify
+python-dateutil

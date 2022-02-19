@@ -1,0 +1,25 @@
+*~
+__pycache__
+*.pyc
+*.secret.*
+.tox
+ourns.egg-info
+.python-version
+.mypy_cache
+
+# IDE related files
+.idea
+.coverage
+cov.xml
+.cov.xml
+.environment
+.ipython
+.userid
+.vscode/
+*.sublime-*
+
+# Temporary storage
+.cache/
+.DS_Store
+.pytest_cache/
+dist/
