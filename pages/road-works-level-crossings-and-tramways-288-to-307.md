@@ -55,7 +55,7 @@ A level crossing is where a road crosses a railway or tramway line. Approach and
 
 **Overhead electric lines.** It is dangerous to touch overhead electric lines. You **MUST** obey the safe height warning road signs and you should not continue forward onto the railway if your vehicle touches any height barrier or bells. The clearance available is usually 5 metres (16 feet 6 inches) but may be lower.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD reg 17(5)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/17/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 2 part 7](https://www.legislation.gov.uk/uksi/2002/3113/schedule/2/made)**
 
 ### Rule 293
 
@@ -70,7 +70,7 @@ A level crossing is where a road crosses a railway or tramway line. Approach and
 * Never zig-zag around half-barriers, they lower automatically because a train is approaching.
 * At crossings where there are no barriers, a train is approaching when the lights show.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) & [40](http://www.legislation.gov.uk/uksi/2002/3113/regulation/40/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 14 parts 1 and 4](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
 
 ![Rule 293: Stop when the traffic lights show](../images/the-highway-code-rule-293.jpg)
 
@@ -78,7 +78,7 @@ Rule 293: Stop when the traffic lights show### Rule 294
 
 **Railway telephones.** If you are driving a large or slow- moving vehicle, a long, low vehicle with a risk of grounding, or herding animals, a train could arrive before you are clear of the crossing. You **MUST** obey any sign instructing you to use the railway telephone to obtain permission to cross. You **MUST** also telephone when clear of the crossing if requested to do so.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) & [16(1)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/16/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
 
 ### Rule 295
 
@@ -92,7 +92,7 @@ Rule 293: Stop when the traffic lights show### Rule 294
 * check that the green light is still on and cross quickly
 * close the gates or barriers when you are clear of the crossing.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) & [52(2)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/52/made)**
+**Laws [TWA 1992 sect 55](https://www.legislation.gov.uk/ukpga/1992/42/section/55) & [PC(SB)R 1996](http://www.legislation.gov.uk/uksi/1996/1786/contents/made)**
 
 ### Rule 297
 

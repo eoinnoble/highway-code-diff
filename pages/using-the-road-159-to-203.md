@@ -26,7 +26,7 @@ Rule 159: Check the blind spot before moving off### Rule 160
 * keep to the left, unless road signs or markings indicate otherwise. The exceptions are when you want to overtake, turn right or pass parked vehicles or pedestrians in the road
 * keep well to the left on right-hand bends. This will improve your view of the road and help avoid the risk of colliding with traffic approaching from the opposite direction
 * drive or ride with both hands on the wheel or handlebars where possible. This will help you to remain in full control of the vehicle at all times. You may use driver assistance systems while you are driving. Make sure you use any system according to the manufacturer’s instructions.
-* be aware of other road users, especially cycles and motorcycles who may be filtering through the traffic. These are more difficult to see than larger vehicles and their riders are particularly vulnerable. Give them plenty of room, especially if you are driving a long vehicle or towing a trailer
+* be aware of other road users, especially cycles and motorcycles who may be filtering through the traffic. These are more difficult to see than larger vehicles and their riders are particularly vulnerable. Give them plenty of room, especially if you are driving a long vehicle or towing a trailer. You should give way to cyclists when you are changing direction or lane – do not cut across them.
 * select a lower gear before you reach a long downhill slope. This will help to control your speed
 * when towing, remember the extra length will affect overtaking and manoeuvring. The extra weight will also affect the braking and acceleration.
 
@@ -63,8 +63,13 @@ Overtaking (rules 162 to 169)
 * take extra care at night and in poor visibility when it is harder to judge speed and distance
 * give way to oncoming vehicles before passing parked vehicles or other obstructions on your side of the road
 * only overtake on the left if the vehicle in front is signalling to turn right, and there is room to do so
-* stay in your lane if traffic is moving slowly in queues. If the queue on your right is moving more slowly than you are, you may pass on the left
-* give motorcyclists, cyclists and horse riders at least as much room as you would when overtaking a car (see [Rules 211 to 215](/pages/road-users-requiring-extra-care-204-to-225.md#motorcyclists-and-cyclists-rules-211-to-213)).
+* stay in your lane if traffic is moving slowly in queues. If the queue on your right is moving more slowly than you are, you may pass on the left. Cyclists may pass slower moving or stationary traffic on their right or left and should proceed with caution as the driver may not be able to see you. Be careful about doing so, particularly on the approach to junctions, and especially when deciding whether it is safe to pass lorries or other large vehicles.
+* give motorcyclists, cyclists and horse riders and horse drawn vehicles at least as much room as you would when overtaking a car (see [Rules 211 to 215](/pages/road-users-requiring-extra-care-204-to-225.md#motorcyclists-and-cyclists-rules-211-to-213)). As a guide:
+	+ leave at least 1.5 metres when overtaking cyclists at speeds of up to 30mph, and give them more space when overtaking at higher speeds
+	+ pass horse riders and horse-drawn vehicles at speeds under 10 mph and allow at least 2 metres of space
+	+ allow at least 2 metres of space and keep to a low speed when passing a pedestrian who is walking in the road (for example, where there is no pavement)
+	+ take extra care and give more space when overtaking motorcyclists, cyclists, horse riders, horse drawn vehicles and pedestrians in bad weather (including high winds) and at night
+	+ you should wait behind the motorcyclist, cyclist, horse rider, horse drawn vehicle or pedestrian and not overtake if it is unsafe or not possible to meet these clearances.
 
 **Remember: Mirrors – Signal – Manoeuvre**
 
@@ -90,7 +95,7 @@ You **MUST NOT** overtake
 * if you would have to enter a lane reserved for buses, trams or cycles during its hours of operation
 * after a ‘No Overtaking’ sign and until you pass a sign cancelling the restriction.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36), [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made), [22, 23 & 24](http://www.legislation.gov.uk/uksi/2002/3113/part/I/crossheading/warning-regulatory-and-informatory-traffic-signs/made), & [ZPPPCRGD reg 24](http://www.legislation.gov.uk/uksi/1997/2400/regulation/24/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 1](https://www.legislation.gov.uk/uksi/2002/3113/schedule/1/made), [schedule 9 part 7](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made), [schedule 14 part 1](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
 
 ### Rule 166
 
@@ -107,12 +112,15 @@ You **MUST NOT** overtake
 * approaching or at a road junction on either side of the road
 * where the road narrows
 * when approaching a school crossing patrol
+* on the approach to crossing facilities
+* where a vehicle ahead is slowing to stop for a pedestrian that is crossing from a pedestrian island (see [Rule 165](/pages/using-the-road-159-to-203.md#rule-165))
 * between the kerb and a bus or tram when it is at a stop
 * where traffic is queuing at junctions or road works
 * when you would force another road user to swerve or slow down
 * at a level crossing
 * when a road user is indicating right, even if you believe the signal should have been cancelled. Do not take a risk; wait for the signal to be cancelled
-* stay behind if you are following a cyclist approaching a roundabout or junction, and you intend to turn left
+* stay behind if you are following a cyclist approaching a roundabout or junction, and you intend to turn left. Do not cut across cyclists going ahead, including those using cycle lanes and cycle tracks (see [Rule H3](/pages/introduction.md#rule-h3))
+* stay behind if you are following a horse rider or horse drawn vehicle approaching a roundabout or junction, and you intend to turn left. Do not cut across a horse rider or horse drawn vehicle going ahead
 * when a tram is standing at a kerbside tram stop and there is no clearly marked passing lane for other traffic.
 
 ### Rule 168
@@ -130,8 +138,9 @@ Road junctions (rules 170 to 183)
 
 Take extra care at junctions. You should
 
-* watch out for cyclists, motorcyclists, powered wheelchairs/mobility scooters and pedestrians as they are not always easy to see. Be aware that they may not have seen or heard you if you are approaching from behind
-* watch out for pedestrians crossing a road into which you are turning. If they have started to cross they have priority, so give way
+* watch out for cyclists, motorcyclists and pedestrians including powered wheelchairs/mobility scooter users as they are not always easy to see. Be aware that they may not have seen or heard you if you are approaching from behind
+* give way to pedestrians crossing or waiting to cross a road into which or from which you are turning. If they have started to cross they have priority, so give way (see [Rule H2](/pages/introduction.md#rule-h2))
+* remain behind cyclists, horse riders, horse drawn vehicles and motorcyclists at junctions even if they are waiting to turn and are positioned close to the kerb
 * watch out for long vehicles which may be turning at a junction ahead; they may have to use the whole width of the road to make the turn (see [Rule 221](/pages/road-users-requiring-extra-care-204-to-225.md#rule-221))
 * watch out for horse riders who may take a different line on the road from that which you would expect
 * not assume, when waiting at a junction, that a vehicle coming from the right and signalling left will actually turn. Wait and make sure
@@ -143,13 +152,13 @@ Rule 170: Give way to pedestrians who have started to cross### Rule 171
 
 You **MUST** stop behind the line at a junction with a ‘Stop’ sign and a solid white line across the road. Wait for a safe gap in the traffic before you move off.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) & [16](http://www.legislation.gov.uk/uksi/2002/3113/regulation/16/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
 
 ### Rule 172
 
 The approach to a junction may have a ‘Give Way’ sign or a triangle marked on the road. You **MUST** give way to traffic on the main road when emerging from a junction with broken white lines across the road.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10(1)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made),[16(1)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/16/made) & [25](http://www.legislation.gov.uk/uksi/2002/3113/regulation/25/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
 
 ### Rule 173
 
@@ -164,7 +173,7 @@ Rule 173: Assess your vehicle’s length and do not obstruct traffic### Rule 174
 
 **Box junctions.** These have criss-cross yellow lines painted on the road (see ‘[Road markings](/pages/road-markings.md)’). You **MUST NOT** enter the box until your exit road or lane is clear. However, you may enter the box and wait when you want to turn right, and are only stopped from doing so by oncoming traffic, or by other vehicles waiting to turn right. At signalled roundabouts you **MUST NOT** enter the box unless you can cross over it completely without stopping.
 
-**Law [TSRGD regs 10(1)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) & [29(2)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/29/made)**
+**Law [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
 
 ![Rule 174: Enter a box junction only if your exit road is clear](../images/the-highway-code-rule-174b.jpg)
 
@@ -174,13 +183,13 @@ Rule 174: Enter a box junction only if your exit road is clear### Junctions cont
 
 You **MUST** stop behind the white ‘Stop’ line across your side of the road unless the light is green. If the amber light appears you may go on only if you have already crossed the stop line or are so close to it that to stop might cause a collision.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) & [36](http://www.legislation.gov.uk/uksi/2002/3113/regulation/36/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 14 parts 1 and 4](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
 
 ### Rule 176
 
 You **MUST NOT** move forward over the white line when the red light is showing. Only go forward when the traffic lights are green if there is room for you to clear the junction safely or you are taking up a position to turn right. If the traffic lights are not working, treat the situation as you would an unmarked junction and proceed with great care.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) & [36](http://www.legislation.gov.uk/uksi/2002/3113/regulation/36/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 14 parts 1 and 4](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
 
 ### Rule 177
 
@@ -188,9 +197,11 @@ You **MUST NOT** move forward over the white line when the red light is showing.
 
 ### Rule 178
 
-**Advanced stop lines.** Some signal-controlled junctions have advanced stop lines to allow cycles to be positioned ahead of other traffic. Motorists, including motorcyclists, **MUST** stop at the first white line reached if the lights are amber or red and should avoid blocking the way or encroaching on the marked area at other times, e.g. if the junction ahead is blocked. If your vehicle has proceeded over the first white line at the time that the signal goes red, you **MUST** stop at the second white line, even if your vehicle is in the marked area. Allow cyclists time and space to move off when the green signal shows.
+**Advanced stop lines.** Some signal-controlled junctions have advanced stop lines to allow cyclists to be positioned ahead of other traffic. Motorists, including motorcyclists, **MUST** stop at the first white line reached if the lights are amber or red and should avoid blocking the way or encroaching on the marked area at other times, e.g. if the junction ahead is blocked. If your vehicle has proceeded over the first white line at the time that the signal goes red, you should stop as soon as possible and **MUST** stop at the second white line. Allow cyclists, including any moving or waiting alongside you, enough time and space to move off when the green signal shows.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made), [36(1)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/36/made) & [43(2)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/43/made)**
+Drivers of large vehicles should stop sufficiently far behind the first white line so that they can see the whole area where cyclists may be waiting, allowing for any blind spot in front of the vehicle.
+
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD Schedule 14 part 1](http://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
 ![Rule 178: Do not unnecessarily encroach on the cyclists waiting area](../images/rule-178-advanced-stop-lines-cycles.jpg)
 
@@ -235,7 +246,7 @@ Rule 182: Do not cut in on cyclists### Rule 183
 When turning
 
 * keep as close to the left as is safe and practicable
-* give way to any vehicles using a bus lane, cycle lane or tramway from either direction.
+* give way to any vehicles using a bus lane, cycle lane, cycle track or tramway from either direction, including when they are passing slow moving or stationary vehicles on either side.
 
 Roundabouts (rules 184 to 190)
 -------------------------------
@@ -285,6 +296,10 @@ When taking any intermediate exit, unless signs or markings indicate otherwise
 
 When there are more than three lanes at the entrance to a roundabout, use the most appropriate lane on approach and through it.
 
+You should give priority to cyclists on the roundabout. They will be travelling more slowly than motorised traffic. Give them plenty of room and do not attempt to overtake them within their lane. Allow them to move across your path as they travel around the roundabout.
+
+Cyclists, horse riders and horse drawn vehicles may stay in the left-hand lane when they intend to continue across or around the roundabout and should signal right to show you they are not leaving the roundabout. Drivers should take extra care when entering a roundabout to ensure that they do not cut across cyclists, horse riders or horse drawn vehicles in the left-hand lane, who are continuing around the roundabout.
+
 ### Rule 187
 
 **In all cases watch out for** and give plenty of room to
@@ -293,14 +308,13 @@ When there are more than three lanes at the entrance to a roundabout, use the mo
 * traffic crossing in front of you on the roundabout, especially vehicles intending to leave by the next exit
 * traffic which may be straddling lanes or positioned incorrectly
 * motorcyclists
-* cyclists and horse riders who may stay in the left-hand lane and signal right if they intend to continue round the roundabout. Allow them to do so
 * long vehicles (including those towing trailers). These might have to take a different course or straddle lanes either approaching or on the roundabout because of their length. Watch out for their signals.
 
 ### Rule 188
 
 **Mini-roundabouts.** Approach these in the same way as normal roundabouts. All vehicles **MUST** pass round the central markings except large vehicles which are physically incapable of doing so. Remember, there is less space to manoeuvre and less time to signal. Avoid making U-turns at mini-roundabouts. Beware of others doing this.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10(1)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) & [16(1)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/16/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
 
 ### Rule 189
 
@@ -321,11 +335,11 @@ Pedestrian crossings (rules 191 to 199)
 
 You **MUST NOT** park on a crossing or in the area covered by the zig-zag lines. You **MUST NOT** overtake the moving vehicle nearest the crossing or the vehicle nearest the crossing which has stopped to give way to pedestrians.
 
-**Laws [ZPPPCRGD regs 18](http://www.legislation.gov.uk/uksi/1997/2400/regulation/18/made), [20](http://www.legislation.gov.uk/uksi/1997/2400/regulation/20/made) & [24](http://www.legislation.gov.uk/uksi/1997/2400/regulation/24/made), [RTRA sect 25(5)](http://www.legislation.gov.uk/ukpga/1984/27/section/25) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made), [27 & 28](http://www.legislation.gov.uk/uksi/2002/3113/part/I/crossheading/road-markings/made)**
+**Laws [RTRA sect 25(5)](https://www.legislation.gov.uk/ukpga/1984/27/section/25) & [TSRGD schedule 14 parts 1 and 5](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
 
 ### Rule 192
 
-In queuing traffic, you should keep the crossing clear.
+In slow-moving and queuing traffic you should keep crossings completely clear, as blocking these makes it difficult and dangerous for pedestrians to cross. You should not enter a pedestrian crossing if you are unable to completely clear the crossing. Nor should you block advanced stop lines for cycles.
 
 ![Rule 192: Keep the crossing clear](../images/the-highway-code-rule-192.jpg)
 
@@ -339,17 +353,33 @@ Allow pedestrians plenty of time to cross and do not harass them by revving your
 
 ### Rule 195
 
-**Zebra crossings.** As you approach a zebra crossing
+**Zebra and parallel crossings.** As you approach a zebra crossing
 
 * look out for pedestrians waiting to cross and be ready to slow down or stop to let them cross
+* you should give way to pedestrians waiting to cross
 * you **MUST** give way when a pedestrian has moved onto a crossing
 * allow more time for stopping on wet or icy roads
-* do not wave or use your horn to invite pedestrians across; this could be dangerous if another vehicle is approaching
+* do not wave, flash your lights or use your horn to invite pedestrians across; this could be dangerous if another vehicle is approaching
+* be patient, do not sound your horn or rev your engine as this can be intimidating
 * be aware of pedestrians approaching from the side of the crossing.
 
-A zebra crossing with a central island is two separate crossings (see [Rules 19](/pages/rules-for-pedestrians-1-to-35.md#rule-19) and [20](guidance/the-highway-code/rules-for-pedestrians-1-to-35#rule-20)).
+A zebra crossing with a central island is two separate crossings (see [Rules 19](/pages/rules-for-pedestrians-1-to-35.md#rule-19) and [20](/pages/rules-for-pedestrians-1-to-35.md#rule-20)).
 
-**Law [ZPPPCRGD reg 25](http://www.legislation.gov.uk/uksi/1997/2400/contents/made)**
+Parallel crossings are similar to zebra crossings, but include a cycle route alongside the black and white stripes.
+
+As you approach a parallel crossing
+
+* look out for pedestrians or cyclists waiting to cross and slow down or stop
+* you should give way to pedestrians or cyclists waiting to cross
+* you **MUST** give way when a pedestrian or cyclist has moved onto a crossing
+* allow more time for stopping on wet or icy roads
+* do not wave, flash your lights or use your horn to invite pedestrians or cyclists across; this could be dangerous if another vehicle is approaching
+* be patient, do not sound your horn or rev your engine as this can be intimidating
+* be aware of pedestrians or cyclists approaching from the side of the crossing.
+
+A parallel crossing with a central island is two separate crossings (see [Rules 19](/pages/rules-for-pedestrians-1-to-35.md#rule-19) and [20](/pages/rules-for-pedestrians-1-to-35.md#rule-20)).
+
+**Law [TSRGD schedule 14 part 5](http://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
 ### Signal-controlled crossings
 
@@ -357,7 +387,7 @@ A zebra crossing with a central island is two separate crossings (see [Rules 19]
 
 **Pelican crossings.** These are signal-controlled crossings where flashing amber follows the red ‘Stop’ light. You **MUST** stop when the red light shows. When the amber light is flashing, you **MUST** give way to any pedestrians on the crossing. If the amber light is flashing and there are no pedestrians on the crossing, you may proceed with caution.
 
-**Laws [ZPPPCRGD regs 23](http://www.legislation.gov.uk/uksi/1997/2400/regulation/23/made) & [26](http://www.legislation.gov.uk/uksi/1997/2400/regulation/26/made), & [RTRA sect 25(5)](http://www.legislation.gov.uk/ukpga/1984/27/section/25)**
+**Laws [TSRGD reg 14](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made) & [RTRA sect 25(5)](https://www.legislation.gov.uk/ukpga/1984/27/section/25)**
 
 ![Rule 196: Allow pedestrians to cross when the amber light is flashing](../images/the-highway-code-rule-196.jpg)
 
@@ -365,7 +395,7 @@ Rule 196: Allow pedestrians to cross when the amber light is flashing### Rule 19
 
 Pelican crossings which go straight across the road are one crossing, even when there is a central island. You **MUST** wait for pedestrians who are crossing from the other side of the island.
 
-**Laws [ZPPPCRGD reg 26](http://www.legislation.gov.uk/uksi/1997/2400/regulation/26/made) & [RTRA sect 25(5)](http://www.legislation.gov.uk/ukpga/1984/27/section/25)**
+**Law [TSRGD reg 14](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
 
 ### Rule 198
 
@@ -373,7 +403,7 @@ Give way to anyone still crossing after the signal for vehicles has changed to g
 
 ### Rule 199
 
-**Toucan, puffin and equestrian crossings.** These are similar to pelican crossings, but there is no flashing amber phase; the light sequence for traffic at these three crossings is the same as at traffic lights. If the signal-controlled crossing is not working, proceed with extreme caution.
+**Toucan, puffin and equestrian crossings.** These are similar to pelican crossings, but there is no flashing amber phase; the light sequence for traffic at these three crossings is the same as at traffic lights. If the signal-controlled crossing is not working, proceed with extreme caution. Do not enter the crossing if you are unable to completely clear it, to avoid obstructing pedestrians, cyclists or horse riders.
 
 Reversing (200 to 203)
 -----------------------

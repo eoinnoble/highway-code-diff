@@ -1,7 +1,7 @@
 Annex 7. First aid on the road
 ==============================
 
-Information about first aid on the road, including dealing with danger, getting help, helping those involved, and providing emergency care.
+Information about first aid on the road, including dealing with danger, getting help, helping those involved, and providing emergency care. 
 
 The following information was compiled with the help of St John Ambulance, the British Heart Foundation and the British Red Cross. It’s intended as a general guide for those without first-aid training but shouldn’t be considered a substitute for proper training. Any first aid given at the scene of an incident should be looked on only as a temporary measure until the emergency services arrive.
 

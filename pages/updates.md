@@ -1,6 +1,266 @@
 Updates: The Highway Code
 =========================
 
+2022
+----
+
+### 
+29 January 2022 published amendments
+
+[Introduction](/pages/introduction.md)
+
+Updated the information about the aim of The Highway Code.
+  
+
+  
+Added a new section about the ‘hierarchy of road users’.
+  
+
+  
+Added a new rule H1 about the importance of knowing The Highway Code, being considerate to other road users, and the responsibility of road users to reduce the danger they pose to others.
+  
+
+  
+Added a new rule H2 about giving way to pedestrians.
+  
+
+  
+Added a new rule H3 about not cutting across cyclists, and not turning at a junction if to do so would cause a cyclist going straight ahead to stop or swerve.
+
+  
+
+[Rules for pedestrians (1 to 35)](/pages/rules-for-pedestrians-1-to-35.md)
+
+Updated rule 1 to include reference to footways, and to add guidance about remaining aware of your environment and avoiding unnecessary distractions.
+  
+
+  
+Updated rule 5 to include organised parades as well as organised walks.
+  
+
+  
+Updated rule 8 to clarify other traffic should give way when pedestrians are waiting to cross at a junction. Added guidance about crossing at a place where pedestrians can be seen by drivers.
+  
+
+  
+Updated rule 13 to give examples of features that might separate routes shared with cyclists. Added guidance about what should happen when there are no features to separate pedestrians and cyclists. Added guidance about spaces that pedestrians also share with horse riders and horse-drawn vehicles.
+  
+
+  
+Updated rule 19 to clarify that drivers and riders should give way to pedestrians waiting to cross a zebra crossing, and MUST give way to pedestrians on a zebra crossing. Clarified that a zebra crossing with a central island is 2 separate crossings.
+
+  
+
+[Rules about animals (47 to 58)](/pages/rules-about-animals-47-to-58.md) 
+
+Updated rule 52 to include horse-drawn vehicles. Added guidance for inexperienced riders and people who have not ridden for a while to consider taking the Ride Safe Award from the British Horse Society.
+
+  
+
+[Rules for cyclists (59 to 82)](/pages/rules-for-cyclists-59-to-82.md)
+
+Updated rule 59 to explain that evidence suggests that wearing a correctly fitted helmet will reduce your risk of sustaining a head injury in certain circumstances.
+  
+
+  
+Updated rule 61 to include cycle lanes. The previous rule 63 (about cycle lanes) has been merged into this rule.
+
+Updated rule 62 to give a description of cycle tracks.
+  
+
+  
+Changed rule 63 to be about cycling in spaces shared with pedestrians, horse riders and horse drawn vehicles. The previous rule 63 has been merged into rule 61.
+  
+
+  
+Updated rule 66 to clarify that cyclists can ride two abreast when they consider it safer to do so but should be considerate of the needs of other road users when riding in groups. Added guidance about being considerate of horse riders.
+
+Updated rule 67 to clarify guidance on manoeuvring, including that you should only pass to the left of large vehicles when they are stationary or slow moving and you should proceed with caution.
+  
+
+  
+Updated rule 69 to update the abbreviated reference to the legislation.
+  
+
+  
+Updated rule 71 to reference cycle-only crossing with traffic lights, and to update the guidance about advanced stop lines.
+  
+
+  
+Changed rule 72 to be about safe road positioning. The previous rule 72 about turning on the left has moved to rule 74.
+  
+
+  
+Changed rule 73 to be about junctions. The previous rule 73 about long vehicles has moved to rule 76.
+  
+
+  
+Renumbered rule 74 about turning at a junction (it was previously rule 72). Added guidance about turning right at junctions. The previous rule 74 (about turning right at junctions) has been merged into this rule.
+  
+
+  
+Changed rule 75 to be about two-stage turns. The previous rule 75 about dual carriageways has moved to rule 77.
+  
+
+  
+Changed rule 76 to be about going straight ahead at a junction. It includes guidance about long vehicles from the previous rule 73. The previous rule 76 about the correct procedure at roundabouts has moved to rule 78.
+  
+
+  
+Changed rule 77 to be about busy roads and included guidance from the previous rule 75 about dual carriageways. The previous rule 77 about roundabouts has moved to rule 79.
+  
+
+  
+Renumbered rule 78 about the correct procedure at roundabouts (it was previously rule 76). Added guidance about watching out for vehicles crossing your path to leave or join the roundabout.
+  
+
+  
+Changed rule 79 to be about turning right at roundabouts. The previous rule 79 about equestrian, pelican, puffin and zebra crossings has been renumbered to rule 81.
+  
+
+  
+Renumbered rule 80 about giving plenty of room to long vehicles on roundabouts (it was previously rule 78).
+  
+
+  
+Renumbered rule 81 about equestrian, pelican, puffin and zebra crossing (it was previously rule 79).
+  
+
+  
+Changed rule 82 to be about crossings, including toucan crossings (the previous rule 80), cycle track crossings (the previous rule 81) and level crossings and tramways (the previous rule 82).
+
+  
+
+[General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md) 
+
+Updated rule 125 to explain that unsafe speed increases the chances of causing a collision, as well as its severity, and that inappropriate speeds are intimidating, deterring people from walking, cycling or riding horses. Updated the list of road users you should reduce your speed when sharing the road with to include older adults, disabled people and horse drawn vehicles.
+  
+
+  
+Updated rule 140 to include references to cycle tracks. Added guidance about giving way to cyclists in a cycle lane or using a cycle track.
+  
+
+  
+Updated rule 144 to include guidance about avoiding driving dangerously or travelling too fast.
+  
+
+  
+Updated rule 151 about driving in slow-moving traffic to say you should allow pedestrians and cyclists to cross in front of you.
+
+  
+
+[Using the road (159 to 203)](/pages/using-the-road-159-to-203.md)
+
+Updated rule 160 to add guidance about giving way to cyclists when you are changing direction or lane.
+  
+
+  
+Updated rule 163 on overtaking to advise that cyclists may pass slower-moving or stationary traffic on the right or left. Added guidance on safe overtaking distances and speeds when overtaking cyclists, horse riders and horse drawn vehicles and pedestrians.
+  
+
+  
+Updated rule 167 to advise drivers not to overtake on the approach to crossing facilities, where a vehicle ahead is slowing to stop for a pedestrian that is crossing from a pedestrian island, and also not to cut across cyclists going ahead, including those using cycle lanes and cycle tracks.
+  
+
+  
+Updated rule 170 on junctions to advise drivers and riders to give way to pedestrians waiting to cross and to remain behind cyclists and motorcyclists at junctions even if they are waiting to turn and are positioned close to the kerb.
+  
+
+  
+Updated rule 178 on advanced stop lines to advise drivers of large vehicles to stop sufficiently far behind the first white line so that they can see the whole area where cyclists may be waiting, allowing for any blind spot in front of the vehicle.
+  
+
+  
+Updated rule 183 on turning to reference cycle tracks.
+  
+
+  
+Updated rule 186 on signals and position at roundabouts to give priority to cyclists in certain situations.
+  
+
+  
+Updated rule 187 to remove references to cyclists and horse riders using roundabouts, as this guidance has moved to rule 186.
+  
+
+  
+Updated rule 192 to reference slow-moving traffic. Added guidance about keeping crossings completely clear, as blocking these makes it difficult and dangerous for pedestrians to cross. Added guidance about not blocking Advanced Stop Lines for cycles.
+  
+
+  
+Updated rule 195 on zebra crossings to include parallel crossings. Updated the guidance to reinforce the advice to give way to pedestrians waiting to cross at a zebra crossing, and to give way to pedestrians and cyclists waiting to cross a parallel crossing.
+  
+
+  
+Updated rule 199 on toucan, puffin and equestrian crossings to advise that drivers do not enter the crossing if they are unable to completely clear it to avoid obstructing pedestrians, cyclists or horse riders.
+
+  
+
+[Road users requiring extra care (204 to 225)](/pages/road-users-requiring-extra-care-204-to-225.md) 
+
+Updated rule 204 to include information on the hierarchy of road users.
+  
+
+  
+Updated rule 206 on driving carefully and slowly to include a reference to needing to cross a cycle lane. Added guidance about taking care when driving through road works or past roadside rescue and recovery vehicles. Added guidance on driving carefully and slowly when approaching zebra and parallel crossings, and when approaching pedestrians who have started to cross the road at a junction.
+  
+
+  
+Updated rule 211 to tell drivers not to turn at a junction if it would cause a cyclist going straight ahead to stop or swerve. Added guidance about turning right across a line of slow-moving or stationary traffic to give way to cyclists and motorcyclists on the inside of traffic you are crossing.
+  
+
+  
+Updated rule 212 to give more guidance on giving motorcyclists, cyclists, horse riders, horse drawn vehicles and pedestrians walking in the road plenty of space when overtaking.
+  
+
+  
+Updated rule 213 to explain that cyclists may sometimes ride in the centre of the lane, and that it can be safer for groups of cyclists to ride 2 abreast. Added guidance to explain that on narrow sections of road, horse riders may ride in the centre of the lane.
+  
+
+  
+Updated rule 215 to add guidance about passing horse riders and horse drawn vehicles with care, giving them plenty of space, while recognising that horses can be unpredictable.
+
+  
+
+[Waiting and parking (238 to 252)](/pages/waiting-and-parking-238-to-252.md) 
+
+Updated rule 239 to recommend a new technique (sometimes called the ‘Dutch Reach’) for opening vehicle doors. Added guidance about using electric vehicle charge points.
+
+  
+
+[Annex 1. You and your bicycle](/pages/annex-1-you-and-your-bicycle.md) 
+
+Added that you should be sure that the bicycle wheels spin freely.
+  
+
+  
+Updated to clarify that you should fit a bell to your cycle.
+  
+
+  
+Updated to clarify that you MUST have white front and red rear lights lit when cycling at night.
+  
+
+  
+Updated the information about cycle training with guidance about Bikeability.
+
+  
+
+[Annex 6. Vehicle maintenance, safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md)
+
+Updated the vehicle maintenance section to add audible warning systems to the list of vehicle features that you should make sure are working.
+
+Added information about daily walkaround checks for commercial vehicles.
+
+  
+
+[Index](/pages/index.md)
+
+Updated references to reflect all the changes made to The Highway Code on 29 January 2022.
+
+  
+
+ 
+
 2021
 ----
 
@@ -598,6 +858,14 @@ New section added.
 
   
 
+[Annex 5. Penalties](/pages/annex-5-penalties.md)
+
+New section added.
+
+5 June 2015: Updated the penalty table to remove the £5,000 limit on fines for the most serious offences.
+
+  
+
 [Breakdowns and incidents (274 to 287)](/pages/breakdowns-and-incidents-274-to-287.md) 
 
 New section added.
@@ -717,11 +985,3 @@ New section added.
 [Annex 7. First aid on the road](/pages/annex-7-first-aid-on-the-road.md)
 
 New section added.
-
-  
-
-[Annex 5. Penalties](/pages/annex-5-penalties.md)
-
-New section added.
-
-5 June 2015: Updated the penalty table to remove the £5,000 limit on fines for the most serious offences.

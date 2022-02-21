@@ -43,10 +43,12 @@ Rule 50: Help yourself to be seen### Rule 51
 
 ### Rule 52
 
-Before you take a horse on to a road, you should
+Before you take a horse or horse drawn vehicle on to the road, you should
 
 * ensure all tack fits well and is in good condition
 * make sure you can control the horse.
+
+If you are an inexperienced horse rider or have not ridden for a while, consider taking the Ride Safe Award from the British Horse Society. The Ride Safe Award provides a foundation for any horse rider to be safe and knowledgeable when riding in all environments but particularly on the road. For more information, see [www.bhs.org.uk](https://www.bhs.org.uk/)
 
 Always ride with other, less nervous horses if you think that your horse will be nervous of traffic. Never ride a horse without both a saddle and bridle.
 

@@ -26,6 +26,7 @@ Useful websites
 * [St John Ambulance](http://www.sja.org.uk)
 * [St Andrew’s First Aid](http://www.firstaid.org.uk)
 * [British Red Cross](http://www.redcross.org.uk)
+* [National Highways](http://www.nationalhighways.co.uk)
 * [Highways England](http://www.highwaysengland.co.uk)
 * [Transport Scotland](http://www.transport.gov.scot)
 * [Transport Wales](http://www.gov.wales/roads-driving)
@@ -86,5 +87,5 @@ Further information about the use of special types of vehicles under the authori
 Further information about towing safely can be found at
 
 * [Tow a trailer with a car: safety checks](https://www.gov.uk/guidance/tow-a-trailer-with-a-car-safety-checks)
-* [Towing a trailer with a car or van: the basics](https://www.gov.uk/government/publications/towing-a-trailer-with-a-car-or-van)
+* [Towing with a car](https://www.gov.uk/towing-with-car)
 * [Requirements for towing trailers in Great Britain](https://www.gov.uk/government/publications/inf30-requirements-for-towing-trailers-in-great-britain)
