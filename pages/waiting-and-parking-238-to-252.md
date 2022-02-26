@@ -24,7 +24,8 @@ Use off-street parking areas, or bays marked out with white lines on the road as
 * do not stop too close to a vehicle displaying a Blue Badge: remember, the occupant may need more room to get in or out
 * you **MUST** switch off the engine, headlights and fog lights
 * you **MUST** apply the handbrake before leaving the vehicle
-* you **MUST** ensure you do not hit anyone when you open your door. Check for cyclists or other traffic
+* you **MUST** ensure you do not hit anyone when you open your door. Check for cyclists or other traffic by looking all around and using your mirrors
+* where you are able to do so, you should open the door using your hand on the opposite side to the door you are opening; for example, use your left hand to open a door on your right-hand side. This will make you turn your head to look over your shoulder. You are then more likely to avoid causing injury to cyclists or motorcyclists passing you on the road, or to people on the pavement
 * it is safer for your passengers (especially children) to get out of the vehicle on the side next to the kerb
 * put all valuables out of sight and make sure your vehicle is secure
 * lock your vehicle.
@@ -32,6 +33,8 @@ Use off-street parking areas, or bays marked out with white lines on the road as
 Before using a hand-held device to help you to park, you **MUST** make sure it is safe to do so. Then, you should move the vehicle into the parking space in the safest way, and by the shortest route possible.
 
 When you use a hand-held device to help you to park, you **MUST** remain in control of the vehicle at all times. Do not use the hand-held device for anything else while you are using it to help you park, and do not put anyone in danger. Use the hand-held device according to the manufacturer’s instructions.
+
+When using an electric vehicle charge point, you should park close to the charge point and avoid creating a trip hazard for pedestrians from trailing cables. Display a warning sign if you can. After using the charge point, you should return charging cables and connectors neatly to minimise the danger to pedestrians and avoid creating an obstacle for other road users.
 
 **Laws [CUR regs 98](http://www.legislation.gov.uk/uksi/1986/1078/regulation/98/made), [105](http://www.legislation.gov.uk/uksi/1986/1078/regulation/105/made), [107](http://www.legislation.gov.uk/uksi/1986/1078/regulation/107/made) & [110](http://www.legislation.gov.uk/uksi/2018/592/regulation/2/made#f00003), [RVLR reg 27](http://www.legislation.gov.uk/uksi/1989/1796/regulation/27/made) & [RTA 1988 sect 42](http://www.legislation.gov.uk/ukpga/1988/52/section/42)**
 
@@ -51,7 +54,7 @@ You **MUST NOT** stop or park on
 * a cycle track
 * red lines, in the case of specially designated ‘red routes’, unless otherwise indicated by signs. Any vehicle may enter a bus lane to stop, load or unload where this is not prohibited (see [Rule 141](https://www.gov.uk/guidance/the-highway-code/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158#rule-141)).
 
-**Laws [MT(E&W)R regs 7](https://www.legislation.gov.uk/uksi/1982/1163/regulation/7/made) & [9](https://www.legislation.gov.uk/uksi/1982/1163/regulation/9/made) as amended by [MT(E&W)(A)(E)R](https://www.legislation.gov.uk/uksi/2015/392/contents/made), [MT(S)R regs 6](http://www.legislation.gov.uk/uksi/1995/2507/regulation/6/made) & [8](http://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made), [RTRA sects 5](http://www.legislation.gov.uk/ukpga/1984/27/section/5), [6](http://www.legislation.gov.uk/ukpga/1984/27/section/6) & [8](http://www.legislation.gov.uk/ukpga/1984/27/section/8), [TSRGD 2016 reg 3](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/3/made) and [scheds 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/3/made), [7](https://www.legislation.gov.uk/uksi/2016/362/schedule/7/made), [9](https://www.legislation.gov.uk/uksi/2016/362/schedule/9/made) & [14](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made), & [RTA 1988 sects 21(1)](http://www.legislation.gov.uk/ukpga/1988/52/section/21) & [36](http://www.legislation.gov.uk/ukpga/1988/52/section/36)**
+**Laws [MT(E&W)R regs 7](https://www.legislation.gov.uk/uksi/1982/1163/regulation/7/made) & [9](https://www.legislation.gov.uk/uksi/1982/1163/regulation/9/made) as amended by [MT(E&W)(A)(E)R](https://www.legislation.gov.uk/uksi/2015/392/contents/made), [MT(S)R regs 6](http://www.legislation.gov.uk/uksi/1995/2507/regulation/6/made) & [8](http://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made), [RTRA sects 5](http://www.legislation.gov.uk/ukpga/1984/27/section/5), [6](http://www.legislation.gov.uk/ukpga/1984/27/section/6) and [8](http://www.legislation.gov.uk/ukpga/1984/27/section/8), [TSRGD schedule 7 parts 2, 3, 4, 5 and 7](https://www.legislation.gov.uk/uksi/2002/3113/schedule/7/made), [schedule 9 part 6](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made), [schedule 14 parts 1 and 5](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
 
 ### Rule 241
 
@@ -154,6 +157,6 @@ Decriminalised Parking Enforcement (DPE)
 
 DPE is becoming increasingly common as more authorities take on this role. The local traffic authority assumes responsibility for enforcing many parking contraventions in place of the police. Further details on DPE may be found at the following websites:
 
-[Traffic Penalty Tribunal](http://www.trafficpenaltytribunal.gov.uk) (outside London)
+[Traffic Penalty Tribunal](http://www.trafficpenaltytribunal.gov.uk) (outside London)  
 
 [London Tribunals](http://www.londontribunals.gov.uk) (inside London)

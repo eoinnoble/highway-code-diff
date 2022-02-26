@@ -1,7 +1,7 @@
 Signals to other road users
 ===========================
 
-Signals used to other road users, including direction indicator signals, brake light signals, reversing light signals and arm signals.
+Signals used to other road users, including direction indicator signals, brake light signals, reversing light signals and arm signals. 
 
 [Download ‘Signals to other road users’ (PDF, 100KB)](https://assets.digital.cabinet-office.gov.uk/media/560aa58be5274a036c00001a/the-highway-code-signals-to-other-road-users.pdf)
 

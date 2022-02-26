@@ -71,7 +71,7 @@ You **MUST** then pull over and stop as soon as it is safe to do so. Then switch
 
 **Traffic light signals and traffic signs.** You **MUST** obey all traffic light signals (see ‘[Light signals controlling traffic](/pages/light-signals-controlling-traffic.md)’) and traffic signs giving orders, including temporary signals & signs (see ‘[Traffic signs](/pages/traffic-signs.md)’). Make sure you know, understand and act on all other traffic and information signs and road markings (see ‘[Traffic signs](/pages/traffic-signs.md)’, ‘[Road markings](/pages/road-markings.md)’ and ‘[Vehicle markings](/pages/vehicle-markings.md)’).
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made), [15](http://www.legislation.gov.uk/uksi/2002/3113/regulation/15/made), [16](http://www.legislation.gov.uk/uksi/2002/3113/regulation/16/made), [25](http://www.legislation.gov.uk/uksi/2002/3113/regulation/25/made), [26](http://www.legislation.gov.uk/uksi/2002/3113/regulation/26/made), [27](http://www.legislation.gov.uk/uksi/2002/3113/regulation/27/made), [28](http://www.legislation.gov.uk/uksi/2002/3113/regulation/28/made), [29](http://www.legislation.gov.uk/uksi/2002/3113/regulation/29/made), [36](http://www.legislation.gov.uk/uksi/2002/3113/regulation/36/made), [38](http://www.legislation.gov.uk/uksi/2002/3113/regulation/38/made) & [40](http://www.legislation.gov.uk/uksi/2002/3113/regulation/40/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 3 part 4](https://www.legislation.gov.uk/uksi/2002/3113/schedule/3/made), [schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made), [schedule 14 parts 1 and 5](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made), [schedule 7 part 6](https://www.legislation.gov.uk/uksi/2002/3113/schedule/7/made), [schedule 15 part 1](https://www.legislation.gov.uk/uksi/2002/3113/schedule/15/made)**
 
 ### Rule 110
 
@@ -215,10 +215,10 @@ Rule 124: Examples of speed enforcement![](../images/Rule_124b.jpg)
 
 Rule 124: Examples of speed enforcement### Rule 125
 
-The speed limit is the absolute maximum and does not mean it is safe to drive at that speed irrespective of conditions. Driving at speeds too fast for the road and traffic conditions is dangerous. You should always reduce your speed when
+The speed limit is the absolute maximum and does not mean it is safe to drive at that speed irrespective of conditions. Unsafe speed increases the chances of causing a collision (or being unable to avoid one), as well as its severity. Inappropriate speeds are also intimidating, deterring people from walking, cycling or riding horses. Driving at speeds too fast for the road and traffic conditions is dangerous. You should always reduce your speed when
 
 * the road layout or condition presents hazards, such as bends
-* sharing the road with pedestrians, cyclists and horse riders, particularly children, and motorcyclists
+* sharing the road with pedestrians, particularly children, older adults or disabled people, cyclists and horse riders, horse drawn vehicles and motorcyclists
 * weather conditions make it safer to do so
 * driving at night as it is more difficult to see other road users.
 
@@ -261,7 +261,7 @@ See ‘[Road markings](/pages/road-markings.md)’ to see diagrams of all lines.
 
 **Double white lines where the line nearest you is solid.** This means you **MUST NOT** cross or straddle it unless it is safe and you need to enter adjoining premises or a side road. You may cross the line if necessary, provided the road is clear, to pass a stationary vehicle, or overtake a pedal cycle, horse or road maintenance vehicle, if they are travelling at 10 mph (16 km/h) or less.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) & [26](http://www.legislation.gov.uk/uksi/2002/3113/regulation/26/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 part 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
 
 ### Rule 130
 
@@ -270,7 +270,7 @@ See ‘[Road markings](/pages/road-markings.md)’ to see diagrams of all lines.
 * If the area is bordered by a broken white line, you should not enter the area unless it is necessary and you can see that it is safe to do so.
 * If the area is marked with chevrons and bordered by solid white lines you **MUST NOT** enter it except in an emergency.
 
-**Laws [MT(E&W)R regs 5](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [9](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [10](http://www.legislation.gov.uk/uksi/1982/1163/contents/made) & [16](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [MT(S)R regs 4](http://www.legislation.gov.uk/uksi/1995/2507/regulation/4/made), [8](http://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made), [9](http://www.legislation.gov.uk/uksi/1995/2507/regulation/9/made) & [14](http://www.legislation.gov.uk/uksi/1995/2507/regulation/14/made), [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD reg 10(1)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made)**
+**Laws [MT(E&W)R regs 5](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [9](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [10](http://www.legislation.gov.uk/uksi/1982/1163/contents/made) & [16](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [MT(S)R regs 4](http://www.legislation.gov.uk/uksi/1995/2507/regulation/4/made), [8](http://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made), [9](http://www.legislation.gov.uk/uksi/1995/2507/regulation/9/made) & [14](http://www.legislation.gov.uk/uksi/1995/2507/regulation/14/made), [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 part 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
 
 ### Rule 131
 
@@ -334,7 +334,15 @@ On a dual carriageway with three or more lanes, you may use the middle lanes or 
 
 ### Rule 140
 
-**Cycle lanes.** These are shown by road markings and signs. You **MUST NOT** drive or park in a cycle lane marked by a solid white line during its times of operation. Do not drive or park in a cycle lane marked by a broken white line unless it is unavoidable. You **MUST NOT** park in any cycle lane whilst waiting restrictions apply.
+**Cycle lanes and cycle tracks**. Cycle lanes are shown by road markings and signs. You **MUST NOT** drive or park in a cycle lane marked by a solid white line during its times of operation. Do not drive or park in a cycle lane marked by a broken white line unless it is unavoidable. You **MUST NOT** park in any cycle lane whilst waiting restrictions apply.
+
+You should give way to any cyclists in a cycle lane, including when they are approaching from behind you – do not cut across them when you are turning or when you are changing lane (see [Rule H3](/pages/introduction.md#rule-h3)). Be prepared to stop and wait for a safe gap in the flow of cyclists before crossing the cycle lane.
+
+Cycle tracks are routes for cyclists that are physically protected or located away from motor traffic, other than where they cross side roads. Cycle tracks may be shared with pedestrians.
+
+You should give way to cyclists approaching or using the cycle track when you are turning into or out of a junction (see [Rule H3](/pages/introduction.md#rule-h3)). Be prepared to stop and wait for a safe gap in the flow of cyclists before crossing the cycle track, which may be used by cyclists travelling in both directions.
+
+Bear in mind that cyclists are not obliged to use cycle lanes or cycle tracks.
 
 **Law [RTRA sects 5](http://www.legislation.gov.uk/ukpga/1984/27/section/5) & [8](http://www.legislation.gov.uk/ukpga/1984/27/section/8)**
 
@@ -375,6 +383,8 @@ You **MUST NOT**
 * drive dangerously
 * drive without due care and attention
 * drive without reasonable consideration for other road users.
+
+Driving requires focus and attention at all times. Remember, you may be driving dangerously or travelling too fast even if you don’t mean to.
 
 **Law [RTA 1988 sects 2 & 3](http://www.legislation.gov.uk/ukpga/1988/52) as amended by [RTA 1991](http://www.legislation.gov.uk/ukpga/1991/40/contents)**
 
@@ -449,6 +459,7 @@ As the driver, you are still responsible for the vehicle if you use a driver ass
 * leave enough space to be able to manoeuvre if the vehicle in front breaks down or an emergency vehicle needs to get past
 * not change lanes to the left to overtake
 * allow access into and from side roads, as blocking these will add to congestion
+* allow pedestrians and cyclists to cross in front of you
 * be aware of cyclists and motorcyclists who may be passing on either side.
 
 ![Rule 151: Do not block access to a side road](../images/the-highway-code-rule-151.jpg)
@@ -498,4 +509,4 @@ Certain motorised vehicles do not meet the construction and technical requiremen
 
 Certain models of motorcycles, motor tricycles and quadricycles, also called quad bikes, are suitable only for off-road use and do not meet legal standards for use on roads. Vehicles that do not meet these standards **MUST NOT** be used on roads. They **MUST NOT** be used on pavements, footpaths, cycle paths or bridleways either. You **MUST** make sure that any motorcycle, motor tricycle, quadricycle or any other motor vehicle meets legal standards and is properly registered, taxed and insured before using it on the roads. Even when registered, taxed and insured for the road, vehicles **MUST NOT** be used on pavements.
 
-**Laws [RTA 1988 sects 34](http://www.legislation.gov.uk/ukpga/1988/52/section/34), [41a](http://www.legislation.gov.uk/ukpga/1988/52/section/41A), [42](http://www.legislation.gov.uk/ukpga/1988/52/section/42), [47](http://www.legislation.gov.uk/ukpga/1988/52/section/47), [63](http://www.legislation.gov.uk/ukpga/1988/52/section/63), [66](http://www.legislation.gov.uk/ukpga/1988/52/section/66) & [156](http://www.legislation.gov.uk/ukpga/1988/52/section/156), [HA 1835 sect 72](http://www.legislation.gov.uk/ukpga/Will4/5-6/50/section/72), [R(S)A sect 129](http://www.legislation.gov.uk/ukpga/1984/54/section/129), & [VERA sects 1](http://www.legislation.gov.uk/ukpga/1994/22/section/1), [29](http://www.legislation.gov.uk/ukpga/1994/22/section/29), [31A](http://www.legislation.gov.uk/ukpga/1994/22/section/31A) & [43A](http://www.legislation.gov.uk/ukpga/1994/22/section/43A)**
+**Laws [RTA 1988 sects 34](http://www.legislation.gov.uk/ukpga/1988/52/section/34), [41a](http://www.legislation.gov.uk/ukpga/1988/52/section/41A), [42](http://www.legislation.gov.uk/ukpga/1988/52/section/42), [47](http://www.legislation.gov.uk/ukpga/1988/52/section/47), [63](http://www.legislation.gov.uk/ukpga/1988/52/section/63), [66](http://www.legislation.gov.uk/ukpga/1988/52/section/66) & [156](http://www.legislation.gov.uk/ukpga/1988/52/section/156), [HA 1835 sect 72](http://www.legislation.gov.uk/ukpga/Will4/5-6/50/section/72), [R(S)A sect 129](http://www.legislation.gov.uk/ukpga/1984/54/section/129) & [VERA sects 1](http://www.legislation.gov.uk/ukpga/1994/22/section/1), [29](http://www.legislation.gov.uk/ukpga/1994/22/section/29), [31A](http://www.legislation.gov.uk/ukpga/1994/22/section/31A) & [43A](http://www.legislation.gov.uk/ukpga/1994/22/section/43A)**

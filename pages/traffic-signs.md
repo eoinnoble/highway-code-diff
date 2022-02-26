@@ -248,7 +248,7 @@ On approaches to junctions (junction number on black background)![Route confirma
 
 Route confirmatory sign after junction![Downward pointing arrows mean ‘Get in lane’ The left-hand lane leads to a different destination from the other lanes.](../images/direction-sign-blue-get-in-lane.jpg)
 
-Downward pointing arrows mean ‘Get in lane’
+Downward pointing arrows mean ‘Get in lane’ 
 The left-hand lane leads to a different destination from the other lanes.![The panel with the inclined arrow indicates the destinations which can be reached by leaving the motorway at the next junction](../images/direction-sign-blue-destination-leaving-motorway.jpg)
 
 The panel with the inclined arrow indicates the destinations which can be reached by leaving the motorway at the next junction### Signs on primary routes - green backgrounds

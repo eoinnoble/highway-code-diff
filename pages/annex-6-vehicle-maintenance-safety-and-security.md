@@ -6,7 +6,7 @@ Information and rules about vehicle maintenance, safety and security.
 Vehicle maintenance
 --------------------
 
-Take special care that lights, brakes, steering, exhaust system, seat belts, demisters, wipers and washers are all working. Also
+Take special care that lights, brakes, steering, exhaust system, seat belts, demisters, wipers, washers and any audible warning systems are all working. Also
 
 * lights, indicators, reflectors, and number plates **MUST** be kept clean and clear
 * windscreens and windows **MUST** be kept clean and free from obstructions to vision
@@ -68,7 +68,7 @@ Your brakes and steering will be adversely affected by under-inflated or over-in
 * continues to bounce after pushing down on the front or rear, its shock absorbers are worn. Worn shock absorbers can seriously affect the operation of a vehicle and should be replaced
 * smells of anything unusual such as burning rubber, petrol or an electrical fault; investigate immediately. Do not risk a fire.
 
-**Overheated engines or fire.** Most engines are water-cooled. If your engine overheats you should wait until it has cooled naturally. Only then remove the coolant filler cap and add water or other coolant.
+**Overheated engines or fire.** Most engines are water-cooled. If your engine overheats, you should wait until it has cooled naturally. Only then remove the coolant filler cap and add water or other coolant.
 
 If your vehicle catches fire, get the occupants out of the vehicle quickly and to a safe place. Do not attempt to extinguish a fire in the engine compartment, as opening the bonnet will make the fire flare. Call the fire brigade.
 
@@ -77,11 +77,13 @@ If your vehicle catches fire, get the occupants out of the vehicle quickly and t
 * you do not overfill your fuel tank
 * the fuel cap is fastened securely
 * the seal in the cap is not torn, perished or missing
-* there is no visual damage to the cap or the fuel tank
+* there is no visual damage to the cap or the fuel tank.
 
 Emergency fuel caps, if fitted, should form a good seal.
 
 Never smoke, or use a mobile phone, on the forecourt of petrol stations as these are major fire risks and could cause an explosion.
+
+Undertake all aspects of the daily walkaround checks for commercial vehicles, as recommended by DVSA ([www.gov.uk/dvsa/commercial-vehicle-safety](https://www.gov.uk/dvsa/commercial-vehicle-safety)) and the Fleet Operator Recognition Scheme ([www.fors-online.org.uk](http://www.fors-online.org.uk)).
 
 Vehicle security
 -----------------

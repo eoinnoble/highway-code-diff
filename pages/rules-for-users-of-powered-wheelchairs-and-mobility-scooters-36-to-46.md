@@ -69,4 +69,4 @@ All normal parking restrictions should be observed. Your vehicle should not be l
 
 These vehicles **MUST NOT** be used on motorways (see [Rule 253](/pages/motorways-253-to-273.md#rule-253)). They should not be used on unrestricted dual carriageways where the speed limit exceeds 50 mph (80 km/h) but if they are used on these dual carriageways, they **MUST** have a flashing amber beacon. A flashing amber beacon should be used on all other dual carriageways (see [Rule 220](/pages/road-users-requiring-extra-care-204-to-225.md#rule-220)).
 
-**Laws [RTRA sect 17(2) & (3)](http://www.legislation.gov.uk/ukpga/1984/27/section/17), & [RVLR regs 17(1)](http://www.legislation.gov.uk/uksi/1989/1796/regulation/17/made) & [26](http://www.legislation.gov.uk/uksi/1989/1796/regulation/26/made)**
+**Laws [RTRA sects 17(2) & (3)](http://www.legislation.gov.uk/ukpga/1984/27/section/17), & [RVLR regs 17(1)](http://www.legislation.gov.uk/uksi/1989/1796/regulation/17/made) & [26](http://www.legislation.gov.uk/uksi/1989/1796/regulation/26/made)**

@@ -19,6 +19,7 @@ Acts and regulations are available as enacted or as amended at [www.legislation.
 Acts and regulations prior to 1988
 -----------------------------------
 
+| --- | --- |
 | Chronically Sick & Disabled Persons Act 1970 | CSDPA |
 | Functions of Traffic Wardens Order 1970 | FTWO |
 | Greater London (General Powers) Act 1974 | GL(GP)A |
@@ -34,6 +35,7 @@ Acts and regulations prior to 1988
 Acts and regulations from 1988 onwards
 ---------------------------------------
 
+| --- | --- |
 | [Environmental Protection Act 1990](http://www.legislation.gov.uk/ukpga/1990/43/contents) | EPA |
 | [Horses (Protective Headgear for Young Riders) Act 1990](http://www.legislation.gov.uk/ukpga/1990/25/contents) | H(PHYR)A |
 | [Horses (Protective Headgear for Young Riders) Regulations 1992](http://www.legislation.gov.uk/uksi/1992/1201/contents/made) | H(PHYR)R |
@@ -52,6 +54,7 @@ Acts and regulations from 1988 onwards
 | [Pedal Cycles (Construction & Use) Regulations 1983](http://www.legislation.gov.uk/uksi/1983/1176/made) | PCUR |
 | [Powers of Criminal Courts (Sentencing) Act 2000](http://www.legislation.gov.uk/ukpga/2000/6/contents/made) | PCC(S)A |
 | [Police Reform Act 2002](http://www.legislation.gov.uk/ukpga/2002/30/contents) | PRA |
+| [Private Crossings (Signs and Barriers) Regulations](https://www.legislation.gov.uk/uksi/1996/1786/contents/made) | PC(SB)R |
 | [Prohibition of Smoking in Certain Premises (Scotland) Regulations 2006. Scottish SI 2006/No 90](http://www.legislation.gov.uk/ssi/2006/90/contents/made) | TPSCP(S)R* |
 | [Road Safety Act 2006](http://www.legislation.gov.uk/ukpga/2006/49/contents) | RSA |
 | [Road Traffic Act 1984](http://www.legislation.gov.uk/ukpga/1984/27/contents), [1988](http://www.legislation.gov.uk/ukpga/1988/52/contents/enacted) or [1991](http://www.legislation.gov.uk/ukpga/1991/40/contents) as indicated | RTA |

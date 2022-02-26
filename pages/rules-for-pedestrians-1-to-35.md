@@ -8,7 +8,7 @@ General guidance (rules 1 to 6)
 
 ### Rule 1
 
-**Pavements** (including any path along the side of a road) should be used if provided. Where possible, avoid being next to the kerb with your back to the traffic. If you have to step into the road, look both ways first. Always show due care and consideration for others.
+**Pavements and footways** (including any path along the side of a road) should be used if provided. Where possible, avoid being next to the kerb with your back to the traffic. If you have to step into the road, look both ways first. Always remain aware of your environment and avoid unnecessary distractions. Always show due care and consideration for others.
 
 ### Rule 2
 
@@ -31,7 +31,7 @@ Rule 3: Help yourself to be seen### Rule 4
 
 ### Rule 5
 
-**Organised walks.** Large groups of people walking together should use a pavement if available; if one is not, they should keep to the left. Look-outs should be positioned at the front and back of the group, and they should wear fluorescent clothes in daylight and reflective clothes in the dark. At night, the look-out in front should show a white light and the one at the back a red light. People on the outside of large groups should also carry lights and wear reflective clothing.
+**Organised walks or parades** involving large groups of people walking along a road should use a pavement if available; if one is not available, they should keep to the left. Look-outs should be positioned at the front and back of the group, and they should wear fluorescent clothes in daylight and reflective clothes in the dark. At night, the look-out in front should show a white light and the one at the back a red light. People on the outside of large groups should also carry lights and wear reflective clothing.
 
 ### Rule 6
 
@@ -60,7 +60,7 @@ Rule 7: Look all around and listen for traffic before crossing**B Stop just befo
 
 ### Rule 8
 
-**At a junction.** When crossing the road, look out for traffic turning into the road, especially from behind you. If you have started crossing and traffic wants to turn into the road, you have priority and they should give way (see [Rule 170](/pages/using-the-road-159-to-203.md#rule-170)).
+**At a junction.** When you are crossing or waiting to cross the road, other traffic should give way. Look out for traffic turning into the road, especially from behind you, and cross at a place where drivers can see you. If you have started crossing and traffic wants to turn into the road, you have priority and they should give way (see [Rules H2](/pages/introduction.md#rule-h2) and [170](/pages/using-the-road-159-to-203.md#rule-170)).
 
 ### Rule 9
 
@@ -80,7 +80,11 @@ Rule 7: Look all around and listen for traffic before crossing**B Stop just befo
 
 ### Rule 13
 
-**Routes shared with cyclists.** Some cycle tracks run alongside footpaths or pavements, using a segregating feature to separate cyclists from people on foot. Segregated routes may also incorporate short lengths of tactile paving to help visually impaired people stay on the correct side. On the pedestrian side this will comprise a series of flat-topped bars running across the direction of travel (ladder pattern). On the cyclist side the same bars are orientated in the direction of travel (tramline pattern). Not all routes which are shared with cyclists are segregated. Take extra care where this is so (see [Rule 62](/pages/rules-for-cyclists-59-to-82.md#rule-62)).
+**Routes shared with cyclists.** Cycle tracks may run alongside footpaths or pavements and be separated from them by a feature such as a change of material, a verge, a kerb or a white line. Such routes may also incorporate short lengths of tactile paving to help visually impaired people stay on the correct side. On the pedestrian side this may comprise a series of flat-topped bars running across the direction of travel (ladder pattern). On the cyclist side the same bars are orientated in the direction of travel (tramline pattern).
+
+Some routes shared with cyclists will not be separated by such a feature allowing cyclists and pedestrians to share the same space. Cyclists should respect your safety (see [Rule 62](/pages/rules-for-cyclists-59-to-82.md#rule-62)) but you should also take care not to obstruct or endanger them. Always remain aware of your environment and avoid unnecessary distractions.
+
+Where signs indicate, some routes are shared between pedestrians, cyclists, horse riders and horse drawn vehicles. Cyclists, horse riders and drivers of horse drawn vehicles should respect your safety, but you should take care not to obstruct or endanger them. Always remain aware of your environment and avoid unnecessary distractions.
 
 ### Rule 14
 
@@ -112,15 +116,19 @@ Crossings (rules 18 to 30)
 
 You **MUST NOT** loiter on any type of crossing.
 
-**Laws [ZPPPCRGD reg 19](http://www.legislation.gov.uk/uksi/1997/2400/regulation/19/made) & [RTRA sect 25(5)](http://www.legislation.gov.uk/ukpga/1984/27/section/25)**
+**Laws [TSRGD Schedule 14 part 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made) and [RTRA sect 25(5)](http://www.legislation.gov.uk/ukpga/1984/27/section/25)**
 
 ### Rule 19
 
-**Zebra crossings.** Give traffic plenty of time to see you and to stop before you start to cross. Vehicles will need more time when the road is slippery. Wait until traffic has stopped from both directions or the road is clear before crossing. Remember that traffic does not have to stop until someone has moved onto the crossing. Keep looking both ways, and listening, in case a driver or rider has not seen you and attempts to overtake a vehicle that has stopped.
+**Zebra crossings.** Give traffic plenty of time to see you and to stop before you start to cross. Vehicles will need more time when the road is slippery. Wait until traffic has stopped from both directions or the road is clear before crossing. Remember that traffic does not have to stop until someone has moved onto the crossing. Drivers and riders should give way to pedestrians waiting to cross and **MUST** give way to pedestrians on a zebra crossing (see [Rule H2](/pages/introduction.md#rule-h2)). Keep looking both ways, and listening, in case a driver or rider has not seen you and attempts to overtake a vehicle that has stopped.
 
 ![Rule 19: Zebra crossings have flashing beacons](../images/the-highway-code-rule-19.jpg)
 
-Rule 19: Zebra crossings have flashing beacons### Rule 20
+Rule 19: Zebra crossings have flashing beaconsA zebra crossing with a central island is two separate crossings (see [Rule 20](#rule-20)).
+
+**Law [TSRGD Schedule 14 part 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
+
+### Rule 20
 
 Where there is an island in the middle of a zebra crossing, wait on the island and follow [Rule 19](#rule-19) before you cross the second half of the road - it is a separate crossing.
 
@@ -193,7 +201,7 @@ Situations needing extra care (rules 31 to 35)
 
 **Railway level crossings.** You **MUST NOT** cross or pass a stop line when the red lights show, (including a red pedestrian figure). Also do not cross if an alarm is sounding or the barriers are being lowered. The tone of the alarm may change if another train is approaching. If there are no lights, alarms or barriers, stop, look both ways and listen before crossing. A tactile surface comprising rounded bars running across the direction of pedestrian travel may be installed on the footpath approaching a level crossing to warn visually impaired people of its presence. The tactile surface should extend across the full width of the footway and should be located at an appropriate distance from the barrier or projected line of the barrier.
 
-**Law [TSRGD reg 52](http://www.legislation.gov.uk/uksi/2002/3113/regulation/52/made)**
+**Law [TSRGD schedule 14 part 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
 ### Rule 35
 

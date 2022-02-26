@@ -142,11 +142,12 @@ Seat belts and child restraints (rules 99 to 102)
 
 You **MUST** wear a seat belt in cars, vans and other goods vehicles if one is fitted (see table below). Adults, and children aged 14 years and over, **MUST** use a seat belt or child restraint, where fitted, when seated in minibuses, buses and coaches. Exemptions are allowed for the holders of medical exemption certificates and those making deliveries or collections in goods vehicles when travelling less than 50 metres (approx 162 feet).
 
-**Laws [RTA 1988 sects 14](http://www.legislation.gov.uk/ukpga/1988/52/section/14) & [15](http://www.legislation.gov.uk/ukpga/1988/52/section/15), [MV(WSB)R](http://www.legislation.gov.uk/uksi/1993/176/contents/made), [MV(WSBCFS)R](http://www.legislation.gov.uk/uksi/1993/31/contents/made) & MV(WSB)(A)R [2005](http://www.legislation.gov.uk/uksi/2005/27/contents/made) and [2006](http://www.legislation.gov.uk/uksi/2006/1892/contents/made)**
+**Laws [RTA 1988 sects 14](http://www.legislation.gov.uk/ukpga/1988/52/section/14) & [15](http://www.legislation.gov.uk/ukpga/1988/52/section/15), [MV(WSB)R](http://www.legislation.gov.uk/uksi/1993/176/contents/made), [MV(WSBCFS)R](http://www.legislation.gov.uk/uksi/1993/31/contents/made) & [MV(WSB)(A)R 2005](http://www.legislation.gov.uk/uksi/2005/27/contents/made) & [2006](http://www.legislation.gov.uk/uksi/2006/1892/contents/made)**
 
 **Seat belt requirements.** This table summarises the main legal requirements for wearing seat belts in cars, vans and other goods vehicles.
 
 |  | Front seat | Rear seat | Who is responsible? |
+| --- | --- | --- | --- |
 | **Driver** | Seat belt **MUST** be worn if fitted | - | **Driver** |
 | **Child** under 3 years of age | Correct child restraint **MUST** be used | Correct child restraint **MUST** be used. If one is not available in a taxi, may travel unrestrained. | **Driver** |
 | **Child** from 3rd birthday up to 1.35 metres in height (or 12th birthday, whichever they reach first) | Correct child restraint **MUST** be used | Correct child restraint **MUST** be used where seat belts fitted. **MUST** use adult belt if correct child restraint is not available in a licensed taxi or private hire vehicle, or for reasons of unexpected necessity over a short distance, or if two occupied restraints prevent fitment of a third. | **Driver** |
@@ -157,7 +158,7 @@ You **MUST** wear a seat belt in cars, vans and other goods vehicles if one is f
 
 The driver **MUST** ensure that all children under 14 years of age in cars, vans and other goods vehicles wear seat belts or sit in an approved child restraint where required (see table above). If a child is under 1.35 metres (approx 4 feet 5 inches) tall, a baby seat, child seat, booster seat or booster cushion **MUST** be used suitable for the child’s weight and fitted to the manufacturer’s instructions.
 
-**Laws [RTA 1988 sects 14](http://www.legislation.gov.uk/ukpga/1988/52/section/14) & [15](http://www.legislation.gov.uk/ukpga/1988/52/section/15), [MV(WSB)R](http://www.legislation.gov.uk/uksi/1993/176/contents/made), [MV(WSBCFS)R](http://www.legislation.gov.uk/uksi/1993/31/contents/made) & MV(WSB)(A)R [2005](http://www.legislation.gov.uk/uksi/2005/27/contents/made) and [2006](http://www.legislation.gov.uk/uksi/2006/1892/contents/made)**
+**Laws [RTA 1988 sects 14](http://www.legislation.gov.uk/ukpga/1988/52/section/14) & [15](http://www.legislation.gov.uk/ukpga/1988/52/section/15), [MV(WSB)R](http://www.legislation.gov.uk/uksi/1993/176/contents/made), [MV(WSBCFS)R](http://www.legislation.gov.uk/uksi/1993/31/contents/made) & [MV(WSB)(A)R 2006](http://www.legislation.gov.uk/uksi/2006/1892/contents/made)**
 
 ![Rule 100: Make sure that a child uses a suitable restraint which is correctly adjusted](../images/the-highway-code-rule-100.jpg)
 
@@ -165,7 +166,7 @@ Rule 100: Make sure that a child uses a suitable restraint which is correctly ad
 
 A rear-facing baby seat **MUST NOT** be fitted into a seat protected by an active frontal airbag, as in a crash it can cause serious injury or death to the child.
 
-**Laws [RTA 1988 sects 14](http://www.legislation.gov.uk/ukpga/1988/52/section/14) & [15](http://www.legislation.gov.uk/ukpga/1988/52/section/15), [MV(WSB)R](http://www.legislation.gov.uk/uksi/1993/176/contents/made), [MV(WSBCFS)R](http://www.legislation.gov.uk/uksi/1993/31/contents/made) & MV(WSB)(A)R [2005](http://www.legislation.gov.uk/uksi/2005/27/contents/made) and [2006](http://www.legislation.gov.uk/uksi/2006/1892/contents/made)**
+**Laws [RTA 1988 sects 14](http://www.legislation.gov.uk/ukpga/1988/52/section/14) & [15](http://www.legislation.gov.uk/ukpga/1988/52/section/15), [MV(WSB)R](http://www.legislation.gov.uk/uksi/1993/176/contents/made), [MV(WSBCFS)R](http://www.legislation.gov.uk/uksi/1993/31/contents/made) & [MV(WSB)(A)R 2006](http://www.legislation.gov.uk/uksi/2006/1892/contents/made)**
 
 ### Rule 102
 

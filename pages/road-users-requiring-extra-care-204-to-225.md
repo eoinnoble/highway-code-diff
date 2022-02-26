@@ -8,7 +8,7 @@ Overview (rule 204)
 
 ### Rule 204
 
-The most vulnerable road users are pedestrians, cyclists, motorcyclists and horse riders. It is particularly important to be aware of children, older and disabled people, and learner and inexperienced drivers and riders.
+The road users most at risk from road traffic are pedestrians, in particular children, older adults and disabled people, cyclists, horse riders and motorcyclists. It is particularly important to be aware of children, older adults and disabled people, and learner and inexperienced drivers and riders. In any interaction between road users, those who can cause the greatest harm have the greatest responsibility to reduce the danger or threat they pose to others.
 
 Pedestrians (rules 205 to 210)
 -------------------------------
@@ -24,11 +24,16 @@ There is a risk of pedestrians, especially children, stepping unexpectedly into 
 * in crowded shopping streets, Home Zones and Quiet Lanes (see [Rule 218](/pages/road-users-requiring-extra-care-204-to-225.md#rule-218)) or residential areas
 * driving past bus and tram stops; pedestrians may emerge suddenly into the road
 * passing parked vehicles, especially ice cream vans; children are more interested in ice cream than traffic and may run into the road unexpectedly
-* needing to cross a pavement or cycle track; for example, to reach or leave a driveway. Give way to pedestrians and cyclists on the pavement
+* needing to cross a pavement, cycle lane or cycle track; for example, to reach or leave a driveway or private access. Give way to pedestrians on the pavement and cyclists using a cycle lane or cycle track
 * reversing into a side road; look all around the vehicle and give way to any pedestrians who may be crossing the road
-* turning at road junctions; give way to pedestrians who are already crossing the road into which you are turning
+* turning at road junctions; you should give way to pedestrians who are crossing or waiting to cross the road into which or from which you are turning
+* going through road works or when passing roadside rescue and recovery vehicles, as there may be people working in or at the side of the road
 * the pavement is closed due to street repairs and pedestrians are directed to use the road
-* approaching pedestrians on narrow rural roads without a footway or footpath. Always slow down and be prepared to stop if necessary, giving them plenty of room as you drive past.
+* approaching pedestrians on narrow rural roads without a footway or footpath. Always slow down and be prepared to stop if necessary, giving them plenty of room as you drive past
+* approaching zebra and parallel crossings as you **MUST** give way to pedestrians and cyclists on the crossing (see [Rule 195](/pages/using-the-road-159-to-203.md#rule-195))
+* approaching pedestrians who have started to cross the road ahead of you. They have priority when crossing at a junction or side road so you should give way (see [Rule H2](/pages/introduction.md#rule-h2)).
+
+**[Law TSRGD schedule 14 Part 5](http://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
 ![Rule 206: Watch out for children in busy areas](../images/the-highway-code-rule-206.jpg)
 
@@ -63,17 +68,25 @@ Motorcyclists and cyclists (rules 211 to 213)
 
 ### Rule 211
 
-It is often difficult to see motorcyclists and cyclists, especially when they are coming up from behind, coming out of junctions, at roundabouts, overtaking you or filtering through traffic. Always look out for them before you emerge from a junction; they could be approaching faster than you think. When turning right across a line of slow-moving or stationary traffic, look out for cyclists or motorcyclists on the inside of the traffic you are crossing. Be especially careful when turning, and when changing direction or lane. Be sure to check mirrors and blind spots carefully.
+It is often difficult to see motorcyclists and cyclists, especially when they are waiting alongside you, coming up from behind, coming out of or moving off from junctions, at roundabouts, overtaking you or filtering through traffic. Always look out for them before you emerge from a junction; they could be approaching faster than you think.
+
+Do not turn at a junction if to do so would cause the cyclist going straight ahead to stop or swerve, just as you would do with a motor vehicle.
+
+When turning right across a line of slow-moving or stationary traffic, look out for and give way to cyclists or motorcyclists on the inside of the traffic you are crossing. Be especially careful when moving off, turning, and when changing direction or lane. Be sure to check mirrors and blind spots carefully.
 
 ![Rule 211: Look out for motorcyclists and cyclists at junctions](../images/the-highway-code-rule-211.jpg)
 
 Rule 211: Look out for motorcyclists and cyclists at junctions### Rule 212
 
-When passing motorcyclists and cyclists, give them plenty of room (see [Rules 162 to 167](/pages/using-the-road-159-to-203.md#rule-162)). If they look over their shoulder it could mean that they intend to pull out, turn right or change direction. Give them time and space to do so.
+Give motorcyclists, cyclists, horse riders, horse drawn vehicles and pedestrians walking in the road (for example, where there is no pavement), at least as much room as you would when overtaking a car (see [Rules 162 to 167](/pages/using-the-road-159-to-203.md#rule-162)). Drivers should take extra care and give more space when overtaking motorcyclists, cyclists, horse riders, horse drawn vehicles and pedestrians in bad weather (including high winds) and at night. If the rider looks over their shoulder it could mean that they intend to pull out, turn right or change direction. Give them time and space to do so.
 
 ### Rule 213
 
-Motorcyclists and cyclists may suddenly need to avoid uneven road surfaces and obstacles such as drain covers or oily, wet or icy patches on the road. Give them plenty of room and pay particular attention to any sudden change of direction they may have to make.
+On narrow sections of road, on quiet roads or streets, at road junctions and in slower-moving traffic, cyclists may sometimes ride in the centre of the lane, rather than towards the side of the road. It can be safer for groups of cyclists to ride two abreast in these situations. Allow them to do so for their own safety, to ensure they can see and be seen. Cyclists are also advised to ride at least a door’s width or 1 metre from parked cars for their own safety.
+
+On narrow sections of road, horse riders may ride in the centre of the lane. Allow them to do so for their own safety to ensure they can see and be seen.
+
+Motorcyclists, cyclists, horse riders and horse drawn vehicles may suddenly need to avoid uneven road surfaces and obstacles such as drain covers or oily, wet or icy patches on the road. Give them plenty of room and pay particular attention to any sudden change of direction they may have to make.
 
 Other road users (rules 214 to 218)
 ------------------------------------
@@ -84,7 +97,11 @@ Other road users (rules 214 to 218)
 
 ### Rule 215
 
-**Horse riders and horse-drawn vehicles.** Be particularly careful of horse riders and horse-drawn vehicles especially when overtaking. Always pass wide and slowly. Horse riders are often children, so take extra care and remember riders may ride in double file when escorting a young or inexperienced horse or rider. Look out for horse riders’ and horse drivers’ signals and heed a request to slow down or stop. Take great care and treat all horses as a potential hazard; they can be unpredictable, despite the efforts of their rider/driver.
+**Horse riders and horse-drawn vehicles.** Be particularly careful of horse riders and horse-drawn vehicles especially when approaching, overtaking, passing or moving away. Always pass wide and slowly. When you see a horse on a road, you should slow down to a maximum of 10 mph. Be patient, do not sound your horn or rev your engine. When safe to do so, pass wide and slow, allowing at least 2 metres of space.
+
+Feral or semi feral ponies found in areas such as the New Forest, Exmoor and Dartmoor require the same consideration as ridden horses when approaching or passing.
+
+Horse riders are often children, so take extra care and remember riders may ride in double file when escorting a young or inexperienced horse or rider. Look out for horse riders’ and horse drivers’ signals and heed a request to slow down or stop. Take great care and treat all horses as a potential hazard; they can be unpredictable, despite the efforts of their rider/driver. Remember there are three brains at work when you pass a horse; the rider’s, the driver’s and the horse’s. Do not forget horses are flight animals and can move incredibly quickly if startled.
 
 ### Rule 216
 
