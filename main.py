@@ -26,6 +26,8 @@ class CustomMarkdownConverter(MarkdownConverter):
         underline = ""
 
         if not el.previous_sibling and el.parent.name in ["table", "tbody"]:
+            if not el.parent.previous_sibling or el.parent.previous_sibling.name != "thead":
+                overline += "|" * len(cells) + "\n"
             overline += "| " + " | ".join(["---"] * len(cells)) + " |" + "\n"
 
         return overline + "|" + text + "\n" + underline
@@ -101,8 +103,6 @@ async def save_images(markdown: str, client: httpx.AsyncClient) -> str:
 
 
 async def process_page(filename: str, client: httpx.AsyncClient):
-    page_pattern = r"<article(.*)>([\S\s]*)</article>"
-
     response = await client.get(URL_ROOT + filename, follow_redirects=True)
     response.raise_for_status()
     print(filename)
@@ -110,7 +110,9 @@ async def process_page(filename: str, client: httpx.AsyncClient):
     converter = CustomMarkdownConverter()
 
     async with aiofiles.open(f"pages/{filename}.md", "w") as fh:
+        page_pattern = r"<article(.*)>([\S\s]*)</article>"
         sub_page = re.search(page_pattern, response.text)
+
         if sub_page and sub_page.groups():
             markdown = converter.convert(sub_page.groups()[1])
             cleaned_markdown = clean_markdown(markdown)
@@ -130,6 +132,24 @@ async def create_and_update_pages(client: httpx.AsyncClient):
 async def main():
     async with httpx.AsyncClient() as client:
         await create_and_update_pages(client)
+
+
+def markdown_printer(index: int) -> None:
+    """Helper function for quick local testing of markwdown changes. `index` is the index of the
+    desired section of the Highway Code (`sections`) you want to print"""
+    page = httpx.get(URL_ROOT, follow_redirects=True)
+    sections_pattern = r"\"\/guidance\/the-highway-code\/(.*)\""
+    sections = re.findall(sections_pattern, page.text)
+    filename = sections[index]
+
+    page_pattern = r"<article(.*)>([\S\s]*)</article>"
+    response = httpx.get(URL_ROOT + filename, follow_redirects=True)
+
+    converter = CustomMarkdownConverter()
+    sub_page = re.search(page_pattern, response.text)
+    markdown = converter.convert(sub_page.groups()[1])
+
+    print(markdown)
 
 
 if __name__ == "__main__":
