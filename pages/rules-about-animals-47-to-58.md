@@ -4,7 +4,9 @@ Rules about animals (47 to 58)
 Rules about animals, including horse-drawn vehicles, horse riders and other animals.
 
 Horse-drawn vehicles (rules 47 to 48)
---------------------------------------
+-------------------------------------
+
+ 
 
 ### Rule 47
 
@@ -16,8 +18,12 @@ Horse-drawn vehicles used on the highway should be operated and maintained in ac
 
 **Law [RVLR reg 4](http://www.legislation.gov.uk/uksi/1989/1796/regulation/4/made)**
 
+ 
+
 Horse riders (rules 49 to 55)
-------------------------------
+-----------------------------
+
+ 
 
 ### Rule 49
 
@@ -81,8 +87,12 @@ Avoid roundabouts wherever possible. If you use them, you should
 * signal right when riding across exits to show you are not leaving
 * signal left just before you leave the roundabout.
 
+ 
+
 Other animals (rules 56 to 58)
--------------------------------
+------------------------------
+
+ 
 
 ### Rule 56
 

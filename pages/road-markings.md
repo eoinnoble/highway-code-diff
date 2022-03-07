@@ -6,7 +6,9 @@ Road markings used, including those across the carriageway, along the carriagewa
 [Download ‘Road markings’ (PDF, 715KB)](https://assets.digital.cabinet-office.gov.uk/media/560aa6c7ed915d035900001a/the-highway-code-road-markings.pdf)
 
 Across the carriageway
------------------------
+----------------------
+
+ 
 
 ![Stop line at signals or police control](../images/across-carriageway-stop-line-signals-or-police.jpg)
 
@@ -22,8 +24,12 @@ Give way to traffic from the right at a roundabout![Give way to traffic from the
 
 Give way to traffic from the right at a mini-roundabout
 
+ 
+
 Along the carriageway
-----------------------
+---------------------
+
+ 
 
 ![Edge line](../images/along-carriageway-edge-line.jpg)
 
@@ -51,8 +57,12 @@ Edge line![Centre line See Rule 127](../images/along-carriageway-centre-line.jpg
 
  Lane line See [Rule 131](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-131)
 
+ 
+
 Along the edge of the carriageway
-----------------------------------
+---------------------------------
+
+ 
 
 ### Waiting restrictions
 
@@ -91,8 +101,12 @@ Parking is limited to the duration specified during the days and times shown![ ]
 
 Only loading may take place at the times shown for up to a maximum duration of 20 mins
 
+ 
+
 On the kerb or at the edge of the carriageway
-----------------------------------------------
+---------------------------------------------
+
+ 
 
 ### Loading restrictions on roads other than Red Routes
 
@@ -116,8 +130,12 @@ No loading or unloading at the times shown![ ](../images/on-kerb-loading-only-si
 
 Loading bay
 
+ 
+
 Other road markings
---------------------
+-------------------
+
+ 
 
 ![Keep entrance clear of stationary vehicles, even if picking up or setting down children](../images/other-road-markings-school-keep-clear.jpg)
 

@@ -4,7 +4,9 @@ Annex 6. Vehicle maintenance, safety and security
 Information and rules about vehicle maintenance, safety and security.
 
 Vehicle maintenance
---------------------
+-------------------
+
+ 
 
 Take special care that lights, brakes, steering, exhaust system, seat belts, demisters, wipers, washers and any audible warning systems are all working. Also
 
@@ -85,8 +87,12 @@ Never smoke, or use a mobile phone, on the forecourt of petrol stations as these
 
 Undertake all aspects of the daily walkaround checks for commercial vehicles, as recommended by DVSA ([www.gov.uk/dvsa/commercial-vehicle-safety](https://www.gov.uk/dvsa/commercial-vehicle-safety)) and the Fleet Operator Recognition Scheme ([www.fors-online.org.uk](http://www.fors-online.org.uk)).
 
+ 
+
 Vehicle security
------------------
+----------------
+
+ 
 
 **When you leave your vehicle** you should
 

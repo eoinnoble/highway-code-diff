@@ -4,8 +4,9 @@ Updates: The Highway Code
 2022
 ----
 
-### 
-29 January 2022 published amendments
+### 29 January 2022 published amendments
+
+ 
 
 [Introduction](/pages/introduction.md)
 
@@ -264,8 +265,9 @@ Updated references to reflect all the changes made to The Highway Code on 29 Jan
 2021
 ----
 
-### 
-14 September 2021 published amendments
+### 14 September 2021 published amendments
+
+ 
 
 [Rules for drivers and motorcyclists (89 to 102)](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md)
 
@@ -583,8 +585,11 @@ Additional references to ensure that readers understand where to find informatio
 
   
 
-### 
-23 March 2021 published amendments
+ 
+
+### 23 March 2021 published amendments
+
+ 
 
 [Annex 6. Vehicle maintenance, safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md)
 
@@ -597,8 +602,9 @@ Updated the vehicle maintenance section to add information about the ages of tyr
 2019
 ----
 
-### 
-20 August 2019 published amendments
+### 20 August 2019 published amendments
+
+ 
 
 [Annex 7. First aid on the road](/pages/annex-7-first-aid-on-the-road.md)
 
@@ -606,8 +612,11 @@ Changed the information on cooling burns for at least 10 minutes to say they sho
 
   
 
-### 
-25 July 2019 published amendments
+ 
+
+### 25 July 2019 published amendments
+
+ 
 
 [Motorways (253 to 273)](/pages/motorways-253-to-273.md)
 
@@ -615,8 +624,11 @@ Updated rule 258 to clarify that if red lights flash on a signal and a red â€œXâ
 
   
 
-### 
-21 March 2019 published amendments
+ 
+
+### 21 March 2019 published amendments
+
+ 
 
 [Using the road (159 to 203)](/pages/using-the-road-159-to-203.md)
 
@@ -629,8 +641,9 @@ Updated rule 160 to make it clear that you should ride with both hands on the ha
 2018
 ----
 
-### 
-30 November 2018 published amendments
+### 30 November 2018 published amendments
+
+ 
 
 [General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md) 
 
@@ -650,8 +663,11 @@ Updated rule 239 with information about using a hand-held device to help you to 
 
   
 
-### 
-27 June 2018 published amendments
+ 
+
+### 27 June 2018 published amendments
+
+ 
 
 [General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md) 
 
@@ -671,8 +687,11 @@ The change made to rule 239 on 3 June 2018 about using remote control parking ha
 
   
 
-### 
- 3 June 2018 published amendments
+ 
+
+###  3 June 2018 published amendments
+
+ 
 
 [General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md) 
 
@@ -698,8 +717,11 @@ Updated rule 253 with information about provisional licence holders driving on t
 
   
 
-### 
-19 May 2018 published amendments
+ 
+
+### 19 May 2018 published amendments
+
+ 
 
 [Annex 3. Motor vehicle documentation and learner driver requirements](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md)
 
@@ -707,8 +729,11 @@ Updated the rule about vehicles that need an MOT, as cars, vans, motorcycles and
 
   
 
-### 
-26 April 2018 published amendments
+ 
+
+### 26 April 2018 published amendments
+
+ 
 
 [General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md) 
 
@@ -721,8 +746,9 @@ Update rule 108 to make it clear that traffic officers have powers to stop vehic
 2017
 ----
 
-### 
-28 July 2017 published amendments
+### 28 July 2017 published amendments
+
+ 
 
 [Annex 7. First aid on the road](/pages/annex-7-first-aid-on-the-road.md)
 
@@ -730,8 +756,11 @@ Updated the guidance on providing emergency care with the help of St John Ambula
 
   
 
-### 
- 1 March 2017 published amendments
+ 
+
+###  1 March 2017 published amendments
+
+ 
 
 [Annex 5. Penalties](/pages/annex-5-penalties.md)
 
@@ -744,8 +773,9 @@ Updated the penalty table to increase penalty points for using a hand-held mobil
 2016
 ----
 
-### 
- 5 December 2016 published amendments
+###  5 December 2016 published amendments
+
+ 
 
 [General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md) 
 
@@ -753,8 +783,11 @@ Rule 148 updated to include the information on it being offence in Scotland for 
 
   
 
-### 
-26 October 2016 published amendments
+ 
+
+### 26 October 2016 published amendments
+
+ 
 
 [Annex 8. Safety code for new drivers](/pages/annex-8-safety-code-for-new-drivers.md)
 
@@ -762,8 +795,11 @@ Updated the Pass Plus email address to passplus@dvsa.gov.uk
 
   
 
-### 
-27 September 2016 published amendments
+ 
+
+### 27 September 2016 published amendments
+
+ 
 
 [Index](/pages/index.md)
 
@@ -771,8 +807,11 @@ New section added.
 
   
 
-### 
- 3 February 2016 published amendments
+ 
+
+###  3 February 2016 published amendments
+
+ 
 
 [Road users requiring extra care (204 to 225)](/pages/road-users-requiring-extra-care-204-to-225.md) 
 
@@ -785,8 +824,9 @@ Updated Rule 209 to add an image of the school bus road sign.
 2015
 ----
 
-### 
- 1 October 2015 published amendments
+###  1 October 2015 published amendments
+
+ 
 
 [Rules for cyclists (59 to 82)](/pages/rules-for-cyclists-59-to-82.md)
 

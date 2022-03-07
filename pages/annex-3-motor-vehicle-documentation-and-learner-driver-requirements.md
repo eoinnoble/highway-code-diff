@@ -4,7 +4,9 @@ Annex 3. Motor vehicle documentation and learner driver requirements
 Information and rules about motor vehicle documentation and learner driver requirements.
 
 Documents
-----------
+---------
+
+ 
 
 **Driving licence.** You **MUST** have a valid driving licence for the category of motor vehicle you are driving. You **MUST** inform the Driver and Vehicle Licensing Agency (DVLA) if you change your name and/or address.
 
@@ -57,8 +59,12 @@ The types of cover available are indicated below:
 
 **Law [RTA 1988 sects 164](http://www.legislation.gov.uk/ukpga/1988/52/section/164) & [165](http://www.legislation.gov.uk/ukpga/1988/52/section/165)**
 
+ 
+
 Learner drivers
-----------------
+---------------
+
+ 
 
 Learners driving a car **MUST** hold a valid provisional licence. They **MUST** be supervised by someone at least 21 years old who holds a full EC/EEA licence for that type of car (automatic or manual) and has held one for at least three years.
 

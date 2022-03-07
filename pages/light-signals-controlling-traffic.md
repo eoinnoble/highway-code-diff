@@ -6,7 +6,9 @@ Light signals used to control traffic, including traffic light signals, flashing
 [Download ‘Light signals controlling traffic’ (PDF, 80KB)](https://assets.digital.cabinet-office.gov.uk/media/560aa3f9e5274a036900001c/the-highway-code-light-signals-controlling-traffic.pdf)
 
 Traffic light signals
-----------------------
+---------------------
+
+ 
 
 ![RED means ‘Stop’. Wait behind the stop line on the carriageway](../images/traffic-light-red.jpg)
 
@@ -20,15 +22,23 @@ AMBER means ‘Stop’ at the stop line. You may go on only if the AMBER appears
 
 A GREEN ARROW may be provided in addition to the full green signal if movement in a certain direction is allowed before or after the full green phase. If the way is clear you may go but only in the direction shown by the arrow. You may do this whatever other lights may be showing. White light signals may be provided for trams
 
+ 
+
 Flashing red lights
---------------------
+-------------------
+
+ 
 
 ![Alternately flashing red lights mean YOU MUST STOP](../images/flashing-red-lights.jpg)
 
 Alternately flashing red lights mean YOU MUST STOPAt level crossings, lifting bridges, airfields, fire stations, etc.
 
+ 
+
 Motorway signals
------------------
+----------------
+
+ 
 
 These signals are also used on other high-speed roads.
 
@@ -50,8 +60,12 @@ Temporary maximum speed advised![End of restriction](../images/motorway-signal-e
 
 End of restrictionYou **MUST NOT** enter or proceed in the left lane, temporary mandatory maximum speed limit and information message
 
+ 
+
 Lane control signals
----------------------
+--------------------
+
+ 
 
 ![ ](../images/lane-control-signals.jpg)
 

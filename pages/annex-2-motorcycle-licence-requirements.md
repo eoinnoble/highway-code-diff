@@ -4,7 +4,9 @@ Annex 2. Motorcycle licence requirements
 Information and rules about motorcycle licence requirements.
 
 Motorcycle licence requirements
---------------------------------
+-------------------------------
+
+ 
 
 If you have a provisional motorcycle licence, you **MUST** satisfactorily complete a Compulsory Basic Training (CBT) course.
 
@@ -30,8 +32,12 @@ You **MUST** first pass the theory test for motorcycles and then the moped pract
 
 **Law [RTA 1988 sect 97(3)](http://www.legislation.gov.uk/ukpga/1988/52/section/97)**
 
+ 
+
 Licence categories for mopeds and motorcycles
-----------------------------------------------
+---------------------------------------------
+
+ 
 
 **Category AM** (moped) – minimum age 16
 

@@ -4,7 +4,9 @@ Other information
 Metric conversions, useful websites, further reading, the blue badge scheme and code of practice horse-drawn vehicles.
 
 Metric conversions
--------------------
+------------------
+
+ 
 
 The conversions given throughout **The Highway Code** are rounded but a detailed conversion chart is shown below.
 
@@ -19,8 +21,12 @@ The conversions given throughout **The Highway Code** are rounded but a detailed
 | 30.00 | 48.28 | 70.00 | 112.65 |
 | 35.00 | 56.33 | - | - |
 
+ 
+
 Useful websites
-----------------
+---------------
+
+ 
 
 * [GOV.UK](http://www.gov.uk)
 * [St John Ambulance](http://www.sja.org.uk)
@@ -41,8 +47,12 @@ Useful websites
 * [European Commission – road safety abroad](http://ec.europa.eu/transport/road_safety/going_abroad/index_en.htm)
 * [European New Car Assessment Programme](http://www.euroncap.com/en)
 
+ 
+
 Further reading
-----------------
+---------------
+
+ 
 
 ### Best practice
 

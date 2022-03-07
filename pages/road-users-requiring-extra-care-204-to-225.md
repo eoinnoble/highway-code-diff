@@ -4,14 +4,20 @@ Road users requiring extra care (204 to 225)
 Rules for road users requiring extra care, including pedestrians, motorcyclists and cyclists, other road users and other vehicles.
 
 Overview (rule 204)
---------------------
+-------------------
+
+ 
 
 ### Rule 204
 
 The road users most at risk from road traffic are pedestrians, in particular children, older adults and disabled people, cyclists, horse riders and motorcyclists. It is particularly important to be aware of children, older adults and disabled people, and learner and inexperienced drivers and riders. In any interaction between road users, those who can cause the greatest harm have the greatest responsibility to reduce the danger or threat they pose to others.
 
+ 
+
 Pedestrians (rules 205 to 210)
--------------------------------
+------------------------------
+
+ 
 
 ### Rule 205
 
@@ -63,8 +69,12 @@ You **MUST** stop when a school crossing patrol shows a ‘Stop for children’ 
 
 **Law [RTRA sect 28](http://www.legislation.gov.uk/ukpga/1984/27/section/28)**
 
+ 
+
 Motorcyclists and cyclists (rules 211 to 213)
-----------------------------------------------
+---------------------------------------------
+
+ 
 
 ### Rule 211
 
@@ -88,8 +98,12 @@ On narrow sections of road, horse riders may ride in the centre of the lane. All
 
 Motorcyclists, cyclists, horse riders and horse drawn vehicles may suddenly need to avoid uneven road surfaces and obstacles such as drain covers or oily, wet or icy patches on the road. Give them plenty of room and pay particular attention to any sudden change of direction they may have to make.
 
+ 
+
 Other road users (rules 214 to 218)
-------------------------------------
+-----------------------------------
+
+ 
 
 ### Rule 214
 
@@ -117,8 +131,12 @@ Horse riders are often children, so take extra care and remember riders may ride
 
 ![](../images/the-highway-code-rule-218.jpg)
 
+ 
+
 Other vehicles (rules 219 to 225)
-----------------------------------
+---------------------------------
+
+ 
 
 ### Rule 219
 
