@@ -34,11 +34,15 @@ class CustomMarkdownConverter(MarkdownConverter):
 
 
 def clean_markdown(markdown: str) -> str:
-    cleaned = markdown.replace("\n" * 20, "\n\n")
+    # Trailing whitespace
+    cleaned = re.sub(r" +\n", "\n")
 
+    # Excess line breaks
+    cleaned = markdown.replace("\n" * 20, "\n\n")
     for i in range(19, 2, -1):
         cleaned = cleaned.replace("\n" * i, "\n\n")
 
+    # Unicode characters that Github won't render
     bad_characters = ["\u2028"]
     for character in bad_characters:
         cleaned = cleaned.replace(character, "")
@@ -135,7 +139,7 @@ async def main():
 
 
 def markdown_printer(index: int) -> None:
-    """Helper function for quick local testing of markwdown changes. `index` is the index of the
+    """Helper function for quick local testing of markdown changes. `index` is the index of the
     desired section of the Highway Code (`sections`) you want to print"""
     page = httpx.get(URL_ROOT, follow_redirects=True)
     sections_pattern = r"\"\/guidance\/the-highway-code\/(.*)\""
