@@ -26,7 +26,10 @@ class CustomMarkdownConverter(MarkdownConverter):
         underline = ""
 
         if not el.previous_sibling and el.parent.name in ["table", "tbody"]:
-            if not el.parent.previous_sibling or el.parent.previous_sibling.name != "thead":
+            if (
+                not el.parent.previous_sibling
+                or el.parent.previous_sibling.name != "thead"
+            ):
                 overline += "|" * len(cells) + "\n"
             overline += "| " + " | ".join(["---"] * len(cells)) + " |" + "\n"
 
@@ -35,7 +38,7 @@ class CustomMarkdownConverter(MarkdownConverter):
 
 def clean_markdown(markdown: str) -> str:
     # Trailing whitespace
-    cleaned = re.sub(r" +\n", "\n")
+    cleaned = re.sub(r" +\n", "\n", markdown)
 
     # Excess line breaks
     cleaned = markdown.replace("\n" * 20, "\n\n")
