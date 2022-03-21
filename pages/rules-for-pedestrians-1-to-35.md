@@ -4,7 +4,9 @@ Rules for pedestrians (1 to 35)
 Rules for pedestrians, including general guidance, crossing the road, crossings, and situations needing extra care.
 
 General guidance (rules 1 to 6)
---------------------------------
+-------------------------------
+
+ 
 
 ### Rule 1
 
@@ -39,8 +41,12 @@ Rule 3: Help yourself to be seen### Rule 4
 
 **Laws [RTRA sect 17](https://www.legislation.gov.uk/ukpga/1984/27/section/17), [MT(E&W)R reg 15(1)(b)](https://www.legislation.gov.uk/uksi/1982/1163/regulation/15/made) & [MT(S)R reg 13](https://www.legislation.gov.uk/uksi/1995/2507/regulation/13/made)**
 
+ 
+
 Crossing the road (rules 7 to 17)
-----------------------------------
+---------------------------------
+
+ 
 
 ### Rule 7
 
@@ -104,8 +110,12 @@ Where signs indicate, some routes are shared between pedestrians, cyclists, hors
 
 **At night.** Wear something reflective to make it easier for others to see you (see [Rule 3](#rule-3)). If there is no pedestrian crossing nearby, cross the road near a street light so that traffic can see you more easily.
 
+ 
+
 Crossings (rules 18 to 30)
----------------------------
+--------------------------
+
+ 
 
 ### Rule 18
 
@@ -182,8 +192,12 @@ Rule 28: Staggered crossings (with an island in the middle) are two separate cro
 
 Where there are no controlled crossing points available it is advisable to cross where there is an island in the middle of the road. Use the Green Cross Code (see [Rule 7](/pages/rules-for-pedestrians-1-to-35.md#rule-7)) to cross to the island and then stop and use it again to cross the second half of the road.
 
+ 
+
 Situations needing extra care (rules 31 to 35)
------------------------------------------------
+----------------------------------------------
+
+ 
 
 ### Rule 31
 

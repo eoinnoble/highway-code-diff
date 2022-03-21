@@ -4,14 +4,20 @@ Rules for drivers and motorcyclists (89 to 102)
 Rules for drivers and motorcyclists, including vehicle condition, fitness to drive, alcohol and drugs, what to do before setting off, vehicle towing and loading, and seat belts and child restraints.
 
 Vehicle condition (rule 89)
-----------------------------
+---------------------------
+
+ 
 
 ### Rule 89
 
 **Vehicle condition.** You **MUST** ensure your vehicle and trailer comply with the full requirements of the Road Vehicles (Construction and Use) Regulations and Road Vehicles Lighting Regulations (see ‘[The road user and the law](/pages/annex-4-the-road-user-and-the-law.md)’).
 
+ 
+
 Fitness to drive (rules 90 to 94)
-----------------------------------
+---------------------------------
+
+ 
 
 ### Rule 90
 
@@ -42,8 +48,12 @@ Slow down, and if necessary stop, if you are dazzled by bright sunlight.
 
 At night or in poor visibility, do not use tinted glasses, lenses or visors if they restrict your vision.
 
+ 
+
 Alcohol and drugs (rules 95 to 96)
------------------------------------
+----------------------------------
+
+ 
 
 ### Rule 95
 
@@ -73,8 +83,12 @@ You **MUST NOT** drive if you have illegal drugs or certain medicines in your bl
 
 **Law [RTA 1988 sects 4](http://www.legislation.gov.uk/ukpga/1988/52/section/4) & [5](http://www.legislation.gov.uk/ukpga/1988/52/section/5)**
 
+ 
+
 Before setting off (rule 97)
------------------------------
+----------------------------
+
+ 
 
 ### Rule 97
 
@@ -103,8 +117,12 @@ It is recommended for emergency use that
 
 Rule 97: Make sure head restraints are properly adjusted
 
+ 
+
 Vehicle towing and loading (rule 98)
--------------------------------------
+------------------------------------
+
+ 
 
 ### Rule 98
 
@@ -135,8 +153,12 @@ For additional advice about towing safely, see [Further reading](/pages/other-in
 
 **Laws [CUR regs 27](https://www.legislation.gov.uk/uksi/1986/1078/regulation/27/made), [33](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/made), [86a](https://www.legislation.gov.uk/uksi/1986/1078/regulation/86/made) & [100](https://www.legislation.gov.uk/uksi/1986/1078/regulation/100/made), [RVLR reg 18](https://www.legislation.gov.uk/uksi/1989/1796/regulation/18/made), [MT(E&W)R reg 12](https://www.legislation.gov.uk/uksi/1982/1163/regulation/12/made) & [MV(DL)R reg 6](https://www.legislation.gov.uk/uksi/1999/2864/regulation/6/made), [7](https://www.legislation.gov.uk/uksi/1999/2864/regulation/7/made), [76](https://www.legislation.gov.uk/uksi/1999/2864/regulation/76/made) & [sched 2](https://www.legislation.gov.uk/uksi/1999/2864/schedule/2/made)**
 
+ 
+
 Seat belts and child restraints (rules 99 to 102)
---------------------------------------------------
+-------------------------------------------------
+
+ 
 
 ### Rule 99
 

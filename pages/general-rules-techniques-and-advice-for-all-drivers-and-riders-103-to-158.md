@@ -6,7 +6,9 @@ Signals, stopping procedures, lighting, control of the vehicle, speed limits, st
 This section should be read by all drivers, motorcyclists, cyclists and horse riders. The rules in **The Highway Code** do not give you the right of way in any circumstance, but they advise you when you should give way to others. Always give way if it can help to avoid an incident.
 
 Signals (rules 103 to 106)
----------------------------
+--------------------------
+
+ 
 
 ### Rule 103
 
@@ -42,8 +44,12 @@ You **MUST** then pull over and stop as soon as it is safe to do so. Then switch
 
 **Law [RTA 1988 sect 163](http://www.legislation.gov.uk/ukpga/1988/52/section/163/enacted)**
 
+ 
+
 Other stopping procedures (rules 107 to 112)
----------------------------------------------
+--------------------------------------------
+
+ 
 
 ### Rule 107
 
@@ -92,8 +98,12 @@ Never assume that flashing headlights is a signal inviting you to proceed. Use y
 
 **Law [CUR reg 99](http://www.legislation.gov.uk/uksi/1986/1078/regulation/99/made)**
 
+ 
+
 Lighting requirements (rules 113 to 116)
------------------------------------------
+----------------------------------------
+
+ 
 
 ### Rule 113
 
@@ -132,8 +142,12 @@ You should also
 
 **Law [RVLR reg 27](http://www.legislation.gov.uk/uksi/1989/1796/regulation/27/made)**
 
+ 
+
 Control of the vehicle (rules 117 to 126)
-------------------------------------------
+-----------------------------------------
+
+ 
 
 ### Braking
 
@@ -244,8 +258,12 @@ Rule 126: Use a fixed point such as a sign to help measure a two-second gap**Tai
 
 Tailgating is dangerous, intimidating and can cause collisions, especially when driving at speed. Keeping a safe distance from the vehicle in front gives you time to react and stop if necessary. Dangerous and careless driving offences, such as tailgating, are enforced by the police.
 
+ 
+
 Lines and lane markings on the road (rules 127 to 132)
--------------------------------------------------------
+------------------------------------------------------
+
+ 
 
 See ‘[Road markings](/pages/road-markings.md)’ to see diagrams of all lines.
 
@@ -290,8 +308,12 @@ See ‘[Road markings](/pages/road-markings.md)’ to see diagrams of all lines.
 
 Rule 132: Reflective road studs mark the lanes and edge of the carriageway
 
+ 
+
 Multi-lane carriageways (rules 133 to 143)
--------------------------------------------
+------------------------------------------
+
+ 
 
 ### Lane discipline
 
@@ -373,8 +395,12 @@ Where HOV lanes are in operation, they **MUST ONLY** be used by
 
 **Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [RTRA sects 5](http://www.legislation.gov.uk/ukpga/1984/27/section/5) & [8](http://www.legislation.gov.uk/ukpga/1984/27/section/8)**
 
+ 
+
 General advice (rules 144 to 158)
-----------------------------------
+---------------------------------
+
+ 
 
 ### Rule 144
 

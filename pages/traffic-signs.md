@@ -10,7 +10,9 @@ The signs illustrated in **The Highway Code** are not all drawn to the same scal
 [Download ‘Traffic signs’ (PDF, 821KB)](https://assets.publishing.service.gov.uk/media/58170307ed915d61c5000000/the-highway-code-traffic-signs.pdf)
 
 Signs giving orders
---------------------
+-------------------
+
+ 
 
 **Signs with red circles are mostly prohibitive. Plates below signs qualify their message.**
 
@@ -114,8 +116,12 @@ Contra-flow bus lane![With-flow pedal cycle lane](../images/sign-giving-order-wi
 
 With-flow pedal cycle lane
 
+ 
+
 Warning signs
---------------
+-------------
+
+ 
 
 ### Mostly triangular
 
@@ -233,8 +239,12 @@ Quayside or river bank![Risk of grounding](../images/warning-sign-risk-of-ground
 
 Risk of grounding
 
+ 
+
 Direction signs
-----------------
+---------------
+
+ 
 
 ### Mostly rectangular
 
@@ -318,8 +328,12 @@ Symbols showing emergency diversion route for motorway and other main road traff
 
 Diversion route
 
+ 
+
 Information signs
-------------------
+-----------------
+
+ 
 
 ### All rectangular
 
@@ -377,8 +391,12 @@ Area in which cameras are used to enforce traffic regulations![Bus lane on road 
 
 Bus lane on road at junction ahead
 
+ 
+
 Road work signs
-----------------
+---------------
+
+ 
 
 ![Road works](../images/road-work-sign-road-works.jpg)
 

@@ -6,7 +6,9 @@ Rules for cyclists, including an overview, road junctions, roundabouts and cross
 These rules are in addition to those in the following sections, which apply to all vehicles (except the [motorway section](/pages/motorways-253-to-273.md)). See also [You and your bicycle](/pages/annex-1-you-and-your-bicycle.md).
 
 Overview (rules 59 to 71)
---------------------------
+-------------------------
+
+ 
 
 ### Rule 59
 
@@ -110,8 +112,12 @@ Some junctions have an advanced stop line to enable you to position yourself ahe
 
 **Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD Schedule 14 part 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
+ 
+
 Road junctions (rules 72 to 75)
---------------------------------
+-------------------------------
+
+ 
 
 ### Rule 72
 
@@ -149,8 +155,12 @@ Stage 1: When the traffic lights turn green, cyclists wishing to make the turn s
 
 Stage 2: When the traffic lights on the far side of the junction, now facing the cyclists, turn green, they should then complete the manoeuvre
 
+ 
+
 Roundabouts (rules 76 to 80)
------------------------------
+----------------------------
+
+ 
 
 ### Rule 76
 
@@ -188,8 +198,12 @@ Where a roundabout has separate cycle facilities, you should use these facilitie
 
 Give plenty of room to long vehicles on the roundabout as they need more space to manoeuvre. Do not ride in the space they need to get round the roundabout. It may be safer to wait until they have cleared the roundabout.
 
+ 
+
 Crossing the road (rules 81 to 82)
------------------------------------
+----------------------------------
+
+ 
 
 ### Rule 81
 

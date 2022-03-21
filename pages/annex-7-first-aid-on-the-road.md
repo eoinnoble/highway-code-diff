@@ -6,23 +6,37 @@ Information about first aid on the road, including dealing with danger, getting 
 The following information was compiled with the help of St John Ambulance, the British Heart Foundation and the British Red Cross. It’s intended as a general guide for those without first-aid training but shouldn’t be considered a substitute for proper training. Any first aid given at the scene of an incident should be looked on only as a temporary measure until the emergency services arrive.
 
 1. Deal with danger
---------------------
+-------------------
+
+ 
 
 Further collisions and fire are the main dangers following a crash. Approach any vehicle involved with care, watching out for spilt oil or broken glass. Switch off all engines and, if possible, warn other traffic. If you have a vehicle, switch on your hazard warning lights. Stop anyone from smoking, and put on the gloves from your first-aid kit if you have one.
 
+ 
+
 2. Get help
-------------
+-----------
+
+ 
 
 If you can do so safely, try to get the help of bystanders. Get someone to call the appropriate emergency services on 999 or 112 as soon as possible. They’ll need to know the exact location
 of the incident (including the direction of traffic, for example, northbound) and the number of vehicles involved. Try to give information about the condition of any casualties, for example, if anyone is having difficulty breathing, is bleeding heavily, is trapped in a vehicle or doesn’t respond when spoken to.
 
+ 
+
 3. Help those involved
------------------------
+----------------------
+
+ 
 
 **DO NOT** move casualties from their vehicles unless there’s the threat of further danger. **DO NOT** remove a motorcyclist’s helmet unless it’s essential. **DO** try to keep casualties warm, dry and as comfortable as you can. **DO** give reassurance confidently and try not to leave them alone or let them wander into the path of other traffic. **DO NOT** give them anything to eat or drink.
 
+ 
+
 4. Provide emergency care
---------------------------
+-------------------------
+
+ 
 
 Remember the letters **D** **R** **A** **B** **C**:
 

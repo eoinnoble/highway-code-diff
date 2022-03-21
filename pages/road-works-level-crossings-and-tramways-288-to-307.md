@@ -4,7 +4,9 @@ Road works, level crossings and tramways (288 to 307)
 Rules for road works (including on motorways and other high-speed roads), level crossings and tramways.
 
 Road works (rule 288)
-----------------------
+---------------------
+
+ 
 
 ### Rule 288
 
@@ -23,8 +25,12 @@ When the ‘Road Works Ahead’ sign is displayed, take extra care and look for 
 
 **Law [RTRA sect 16](http://www.legislation.gov.uk/ukpga/1984/27/section/16)**
 
+ 
+
 Additional rules for high-speed roads (rules 289 to 290)
----------------------------------------------------------
+--------------------------------------------------------
+
+ 
 
 ### Rule 289
 
@@ -44,8 +50,12 @@ Road works may contain features that require extra care.
 * **Contraflow systems**. These mean that you may be travelling in a narrower lane than normal and with no permanent barrier between you and oncoming traffic. At the start and finish of contraflows, you should slow down and increase the distance to the vehicle in front because changes in the camber of the road may affect vehicle stability.
 * **Breakdown advice.** If your vehicle breaks down in road works, follow Rules 275, 277 and 278 but be aware that areas marked off by cones contain significant hazards. Where available, you should move your vehicle into a signed road works refuge location. Signs indicate where dedicated recovery services are provided.
 
+ 
+
 Level crossings (rules 291 to 299)
------------------------------------
+----------------------------------
+
+ 
 
 ### Rule 291
 
@@ -110,8 +120,12 @@ If there are no lights, follow the procedure in [Rule 296](#rule-296). Stop, loo
 * use a railway telephone if available to tell the signal operator. Follow the instructions you are given
 * move the vehicle clear of the crossing if there is time before a train arrives. If the alarm sounds, or the amber light comes on, leave the vehicle and get clear of the crossing immediately.
 
+ 
+
 Tramways (rules 300 to 307)
-----------------------------
+---------------------------
+
+ 
 
 ### Rule 300
 
