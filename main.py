@@ -41,7 +41,7 @@ def clean_markdown(markdown: str) -> str:
     cleaned = re.sub(r" +\n", "\n", markdown)
 
     # Excess line breaks
-    cleaned = markdown.replace("\n" * 20, "\n\n")
+    cleaned = cleaned.replace("\n" * 20, "\n\n")
     for i in range(19, 2, -1):
         cleaned = cleaned.replace("\n" * i, "\n\n")
 
