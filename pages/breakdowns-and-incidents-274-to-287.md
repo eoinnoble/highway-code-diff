@@ -4,7 +4,7 @@ Breakdowns and incidents (275 to 287)
 Rules for breakdowns and incidents, including rules for motorways, obstructions, incidents, incidents involving dangerous goods and documents.
 
 Place of relative safety (rule 275)
-------------------------------------
+-----------------------------------
 
 ### Rule 275
 
@@ -21,7 +21,7 @@ Be aware that hard shoulders provide less protection than other places of relati
 You and your passengers should, where possible, keep well away from your vehicle and moving traffic. Otherwise moving traffic could collide with your vehicle, forcing it into you and your passengers.
 
 Breakdowns (rule 276)
-----------------------
+---------------------
 
 ### Rule 276
 
@@ -36,7 +36,7 @@ If your vehicle breaks down, think first of all other road users and
 * at night or in poor visibility do not stand where you will prevent other road users seeing your lights
 
 Additional rules for motorways (rules 277 to 278)
---------------------------------------------------
+-------------------------------------------------
 
 ### Rule 277
 
@@ -91,6 +91,7 @@ Rule 277: Keep well away from your vehicle and moving traffic**Get help**
 
 **Communicating your location.** How to identify your location to the emergency services.
 
+||
 | --- | --- |
 | **eCall**. Press the SOS button if your vehicle has one. | ![](../images/Rule_277c__1_.png) |
 | **App**. Use a mobile telephone mapping application. | ![](../images/Rule_277d__1_.png) |
@@ -120,7 +121,7 @@ Rule 278: Emergency area information sign**Law [RTA 1988 sect 36](https://www.le
 If you are deaf, hard of hearing or speech impaired, it is recommended that you register for the 999 text service (emergencySMS.net) before making a journey.
 
 Obstructions (rule 280)
-------------------------
+-----------------------
 
 ### Rule 280
 
@@ -129,7 +130,7 @@ If anything falls from a vehicle on to a motorway or other high-speed road, **DO
 On other roads, you should only remove obstructions if it is safe to do so.
 
 Incidents (rules 281 to 283)
------------------------------
+----------------------------
 
 ### Rule 281
 
@@ -163,7 +164,7 @@ If you are involved in an incident or collision or stop to give assistance
 If you are involved in any other medical emergency, you should contact the emergency services in the same way.
 
 Incidents involving dangerous goods (rules 284 to 285)
--------------------------------------------------------
+------------------------------------------------------
 
 ### Rule 284
 
@@ -178,7 +179,7 @@ If an incident involves a vehicle containing dangerous goods, follow the advice 
 * call the emergency services and give as much information as possible about the labels and markings on the vehicle. **DO NOT** use a mobile phone close to a vehicle carrying flammable loads.
 
 Documentation (rules 286 to 287)
----------------------------------
+--------------------------------
 
 ### Rule 286
 

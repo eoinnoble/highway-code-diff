@@ -1,12 +1,12 @@
 Motorways (253 to 274)
 ======================
 
-Rules for motorways, including rules for signals, joining the motorway, driving on the motorway, lane discipline, overtaking, stopping and leaving the motorway. A number of the rules for motorways also apply to other high-speed roads. 
+Rules for motorways, including rules for signals, joining the motorway, driving on the motorway, lane discipline, overtaking, stopping and leaving the motorway. A number of the rules for motorways also apply to other high-speed roads.
 
 A number of the rules for motorways also apply to other high-speed roads. Many other Rules apply to motorway driving, either wholly or in part: Rules [46](/pages/rules-for-users-of-powered-wheelchairs-and-mobility-scooters-36-to-46.md#rule-46), [57](/pages/rules-about-animals-47-to-58.md#rule-57), [83](/pages/rules-for-motorcyclists-83-to-88.md#rule-83) to [126](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-126), [130](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-130) to [134](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-134) , [139](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-139), [144](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-144), [146](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-146) to [151](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-151), [160](/pages/using-the-road-159-to-203.md#rule-160), [161](/pages/using-the-road-159-to-203.md#rule-161), [219](/pages/road-users-requiring-extra-care-204-to-225.md#rule-219), [221](/pages/road-users-requiring-extra-care-204-to-225.md#rule-221) to [222](/pages/road-users-requiring-extra-care-204-to-225.md#rule-222), [225](/pages/road-users-requiring-extra-care-204-to-225.md#rule-225), [226 to 237](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-226), [274](/pages/breakdowns-and-incidents-274-to-287.md#rule-274) to [278](/pages/breakdowns-and-incidents-274-to-287.md#rule-278), [280](/pages/breakdowns-and-incidents-274-to-287.md#rule-280) and [281](/pages/breakdowns-and-incidents-274-to-287.md#rule-281) to [290](/pages/road-works-level-crossings-and-tramways-288-to-307.md#rule-290).
 
 General (rules 253 to 254)
----------------------------
+--------------------------
 
 ### Rule 253
 
@@ -21,7 +21,7 @@ Laws [HA 1980 sects 16](https://www.legislation.gov.uk/ukpga/1980/66/section/16)
 Traffic on motorways usually travels faster than on other roads, so you have less time to react. It is especially important to use your mirrors earlier and look much further ahead than you would on other roads.
 
 Motorway signals (rules 255 to 258)
-------------------------------------
+-----------------------------------
 
 ### Rule 255
 
@@ -75,7 +75,7 @@ Rule 258: signals and signs indicating lane closuresLane and road closures indic
 **Laws [RTA 1988 sects 35](https://www.legislation.gov.uk/ukpga/1988/52/section/35) & [36](https://www.legislation.gov.uk/ukpga/1988/52/section/36) as amended by [TMA sect 6](https://www.legislation.gov.uk/ukpga/2004/18/section/6), [TSRGD reg 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/3/made) and [sched 15](https://www.legislation.gov.uk/uksi/2016/362/schedule/15/made), [MT(E&W)R reg 9](https://www.legislation.gov.uk/uksi/1982/1163/regulation/9/made) & [MT(S)R reg 8](https://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made).**
 
 Joining the motorway (rule 259)
---------------------------------
+-------------------------------
 
 ### Rule 259
 
@@ -88,7 +88,7 @@ Joining the motorway (rule 259)
 * remain in the left-hand lane long enough to adjust to the speed of traffic before considering overtaking.
 
 On the motorway (rules 260 to 263)
------------------------------------
+----------------------------------
 
 ### Rule 260
 
@@ -127,7 +127,7 @@ If you have missed your exit, or have taken the wrong route, carry on to the nex
 **Laws [RTA 1988 sect 35](https://www.legislation.gov.uk/ukpga/1988/52/section/35) as amended by [TMA sect 6](https://www.legislation.gov.uk/ukpga/2004/18/section/6), [MT(E&W)R regs 6](https://www.legislation.gov.uk/uksi/1982/1163/regulation/6/made), [8](https://www.legislation.gov.uk/uksi/1982/1163/regulation/8/made) & [10](https://www.legislation.gov.uk/uksi/1982/1163/regulation/10/made), & [MT(S)R regs 4](https://www.legislation.gov.uk/uksi/1995/2507/regulation/4/made), [5](https://www.legislation.gov.uk/uksi/1995/2507/regulation/5/made), [7](https://www.legislation.gov.uk/uksi/1995/2507/regulation/7/made) & [9](https://www.legislation.gov.uk/uksi/1995/2507/regulation/9/made)**
 
 Lane discipline (rules 264 to 266)
------------------------------------
+----------------------------------
 
 ### Rule 264
 
@@ -153,7 +153,7 @@ The right-hand lane of a motorway with three or more lanes **MUST NOT** be used 
 **Approaching a junction.** Look well ahead for signals, signs and road markings. Direction signs may be placed over the road. If you need to, you should change lanes well ahead of a junction. At some junctions, a lane may lead directly off the road. Only get in that lane if you wish to go in the direction indicated by signs or road markings.
 
 Overtaking (rules 267 to 269)
-------------------------------
+-----------------------------
 
 ### Rule 267
 
@@ -191,7 +191,7 @@ Where the hard shoulder is being used as an extra lane, emergency areas are prov
 **Laws [MT(E&W)R regs 5](https://www.legislation.gov.uk/uksi/1995/2507/regulation/9/made) & [9](https://www.legislation.gov.uk/uksi/1982/1163/regulation/9/made), [MT(S)R regs 4](https://www.legislation.gov.uk/uksi/1995/2507/regulation/4/made) & [8](https://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made), & [RTA 1988 sects 35](https://www.legislation.gov.uk/ukpga/1988/52/section/35) & [36](https://www.legislation.gov.uk/ukpga/1988/52/section/36) as amended by [TMA sect 6](https://www.legislation.gov.uk/ukpga/2004/18/section/6)**
 
 Stopping (rules 270 to 271)
-----------------------------
+---------------------------
 
 ### Rule 270
 
@@ -225,7 +225,7 @@ You **MUST NOT** pick up or set down anyone, or walk on a motorway, except in an
 **Laws [RTRA sect 17](https://www.legislation.gov.uk/ukpga/1984/27/section/17) & [MT(E&W)R reg 15](https://www.legislation.gov.uk/uksi/1982/1163/regulation/15/made)**
 
 Leaving the motorway (rules 273 to 274)
-----------------------------------------
+---------------------------------------
 
 ### Rule 273
 

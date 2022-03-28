@@ -4,7 +4,7 @@ Driving in adverse weather conditions (226 to 237)
 Rules for driving in adverse weather conditions, including wet weather, icy and snowy weather, windy weather, fog and hot weather.
 
 Overview (rule 226)
---------------------
+-------------------
 
 ### Rule 226
 
@@ -13,7 +13,7 @@ You **MUST** use headlights when visibility is seriously reduced, generally when
 **Law [RVLR regs 25](http://www.legislation.gov.uk/uksi/1989/1796/regulation/25/made) & [27](http://www.legislation.gov.uk/uksi/1989/1796/regulation/27/made)**
 
 Wet weather (rule 227)
------------------------
+----------------------
 
 ### Rule 227
 
@@ -26,7 +26,7 @@ Wet weather (rule 227)
 * take extra care around pedestrians, cyclists, motorcyclists and horse riders.
 
 Icy and snowy weather (rules 228 to 231)
------------------------------------------
+----------------------------------------
 
 ### Rule 228
 
@@ -66,7 +66,7 @@ Rule 229: Make sure your windscreen is completely clear### Rule 230
 * check your grip on the road surface when there is snow or ice by choosing a safe place to brake gently. If the steering feels unresponsive this may indicate ice and your vehicle losing its grip on the road. When travelling on ice, tyres make virtually no noise.
 
 Windy weather (rules 232 to 233)
----------------------------------
+--------------------------------
 
 ### Rule 232
 
@@ -77,7 +77,7 @@ High-sided vehicles are most affected by windy weather, but strong gusts can als
 In very windy weather your vehicle may be affected by turbulence created by large vehicles. Motorcyclists are particularly affected, so keep well back from them when they are overtaking a high-sided vehicle.
 
 Fog (rules 234 to 236)
------------------------
+----------------------
 
 ### Rule 234
 
@@ -105,7 +105,7 @@ You **MUST NOT** use front or rear fog lights unless visibility is seriously red
 **Law [RVLR regs 25](http://www.legislation.gov.uk/uksi/1989/1796/regulation/25/made) & [27](http://www.legislation.gov.uk/uksi/1989/1796/regulation/27/made)**
 
 Hot weather (rule 237)
------------------------
+----------------------
 
 ### Rule 237
 
