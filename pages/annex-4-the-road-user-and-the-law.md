@@ -4,7 +4,7 @@ Annex 4. The road user and the law
 Information about the road user and the law, including acts and regulations.
 
 Road traffic law
------------------
+----------------
 
 The following list can be found abbreviated throughout the Code. It is not intended to be a comprehensive guide, but a guide to some of the important points of law. For the precise wording of the law, please refer to the various Acts and Regulations (as amended) indicated in the Code. Abbreviations are listed below.
 
@@ -17,8 +17,9 @@ The reference to ‘emergency area’ in the Code is an ‘emergency refuge area
 Acts and regulations are available as enacted or as amended at [www.legislation.gov.uk](http://www.legislation.gov.uk) and are available in their original print format from [The Stationery Office.](http://www.tsoshop.co.uk/bookstore.asp?FO=1160005)
 
 Acts and regulations prior to 1988
------------------------------------
+----------------------------------
 
+||
 | --- | --- |
 | Chronically Sick & Disabled Persons Act 1970 | CSDPA |
 | Functions of Traffic Wardens Order 1970 | FTWO |
@@ -33,8 +34,9 @@ Acts and regulations prior to 1988
 | Roads (Scotland) Act 1984 | R(S)A |
 
 Acts and regulations from 1988 onwards
----------------------------------------
+--------------------------------------
 
+||
 | --- | --- |
 | [Environmental Protection Act 1990](http://www.legislation.gov.uk/ukpga/1990/43/contents) | EPA |
 | [Horses (Protective Headgear for Young Riders) Act 1990](http://www.legislation.gov.uk/ukpga/1990/25/contents) | H(PHYR)A |

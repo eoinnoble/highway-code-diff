@@ -6,7 +6,7 @@ Signals used by authorised persons, including police officers, arm signals to pe
 [Download ‘Signals by authorised persons’ (PDF, 468KB)](https://assets.digital.cabinet-office.gov.uk/media/560aa62bed915d035c00001b/the-highway-code-signals-by-authorised-persons.pdf)
 
 Police officers
-----------------
+---------------
 
 ### Stop
 
@@ -27,7 +27,7 @@ From the front![From behind*](../images/police-officer-beckon-from-behind.jpg)
 From behind**In Wales, bilingual signs appear on emergency services vehicles and clothing
 
 Arm signals to persons controlling traffic
--------------------------------------------
+------------------------------------------
 
 ![I want to go straight on](../images/car-arm-signal-straight-on.jpg)
 
@@ -38,7 +38,7 @@ I want to turn left; use either hand![I want to turn right](../images/car-arm-si
 I want to turn right
 
 Driver and Vehicle Standards Agency officers and traffic officers
-------------------------------------------------------------------
+-----------------------------------------------------------------
 
 ![Traffic officer](../images/traffic-officer-car.jpg)
 
@@ -48,7 +48,7 @@ DVSA officerThese officers now have new powers to stop/direct vehicles and will 
 signals similar to those used by police. You **MUST** obey any signals given (see [Rules 107](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-107) and [108](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-108)).
 
 School crossing patrols
-------------------------
+-----------------------
 
 ![Not ready to cross pedestrians](../images/school-crossing-patrol-not-ready.jpg)
 

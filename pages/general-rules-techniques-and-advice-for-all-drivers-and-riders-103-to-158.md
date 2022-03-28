@@ -6,7 +6,7 @@ Signals, stopping procedures, lighting, control of the vehicle, speed limits, st
 This section should be read by all drivers, motorcyclists, cyclists and horse riders. The rules in **The Highway Code** do not give you the right of way in any circumstance, but they advise you when you should give way to others. Always give way if it can help to avoid an incident.
 
 Signals (rules 103 to 106)
----------------------------
+--------------------------
 
 ### Rule 103
 
@@ -43,7 +43,7 @@ You **MUST** then pull over and stop as soon as it is safe to do so. Then switch
 **Law [RTA 1988 sect 163](http://www.legislation.gov.uk/ukpga/1988/52/section/163/enacted)**
 
 Other stopping procedures (rules 107 to 112)
----------------------------------------------
+--------------------------------------------
 
 ### Rule 107
 
@@ -93,7 +93,7 @@ Never assume that flashing headlights is a signal inviting you to proceed. Use y
 **Law [CUR reg 99](http://www.legislation.gov.uk/uksi/1986/1078/regulation/99/made)**
 
 Lighting requirements (rules 113 to 116)
------------------------------------------
+----------------------------------------
 
 ### Rule 113
 
@@ -133,7 +133,7 @@ You should also
 **Law [RVLR reg 27](http://www.legislation.gov.uk/uksi/1989/1796/regulation/27/made)**
 
 Control of the vehicle (rules 117 to 126)
-------------------------------------------
+-----------------------------------------
 
 ### Braking
 
@@ -245,7 +245,7 @@ Rule 126: Use a fixed point such as a sign to help measure a two-second gap**Tai
 Tailgating is dangerous, intimidating and can cause collisions, especially when driving at speed. Keeping a safe distance from the vehicle in front gives you time to react and stop if necessary. Dangerous and careless driving offences, such as tailgating, are enforced by the police.
 
 Lines and lane markings on the road (rules 127 to 132)
--------------------------------------------------------
+------------------------------------------------------
 
 See ‘[Road markings](/pages/road-markings.md)’ to see diagrams of all lines.
 
@@ -291,7 +291,7 @@ See ‘[Road markings](/pages/road-markings.md)’ to see diagrams of all lines.
 Rule 132: Reflective road studs mark the lanes and edge of the carriageway
 
 Multi-lane carriageways (rules 133 to 143)
--------------------------------------------
+------------------------------------------
 
 ### Lane discipline
 
@@ -374,7 +374,7 @@ Where HOV lanes are in operation, they **MUST ONLY** be used by
 **Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [RTRA sects 5](http://www.legislation.gov.uk/ukpga/1984/27/section/5) & [8](http://www.legislation.gov.uk/ukpga/1984/27/section/8)**
 
 General advice (rules 144 to 158)
-----------------------------------
+---------------------------------
 
 ### Rule 144
 
@@ -436,9 +436,13 @@ You **MUST NOT** smoke in public transport vehicles or in vehicles used for work
 
 ### Rule 149
 
-You **MUST** exercise proper control of your vehicle at all times. You **MUST NOT** use a hand-held mobile phone, or similar device, when driving or when supervising a learner driver, except to call 999 or 112 in a genuine emergency when it is unsafe or impractical to stop. Never use a hand-held microphone when driving. Using hands-free equipment is also likely to distract your attention from the road. It is far safer not to use any telephone while you are driving or riding - find a safe place to stop first or use the voicemail facility and listen to messages later.
+You **MUST** exercise proper control of your vehicle at all times. You **MUST NOT** use a hand-held mobile phone, or similar device, capable of interactive communication (such as a tablet) for any purpose when driving or when supervising a learner driver. This ban covers all use of a hand-held interactive communication device and it applies even when the interactive communication capability is turned off or unavailable. You **MUST NOT** pick up the phone or similar device while driving to dial a number and then put it in the cradle for the duration of the conversation. You **MUST NOT** pick up and use your hand-held phone or similar device while stationary in traffic.
 
-You may park your vehicle using a hand-held remote control app or device. The app or device **MUST** be legal, and you should not put other people in danger when you use it.
+There is an exception to call 999 or 112 in a genuine emergency when it is unsafe or impractical to stop. There is also an exception if you are using a hand-held mobile phone or similar device to make a contactless payment at a contactless payment terminal. Your vehicle **MUST** be stationary, and the goods or services **MUST** be received at the same time as, or after, the contactless payment.
+
+Never use a hand-held microphone when driving. Using hands-free equipment is also likely to distract your attention from the road. It is far safer not to use any telephone or similar device while you are driving or riding - find a safe place to stop first or use the voicemail facility and listen to messages later.
+
+You may park your vehicle using a handheld remote control app or device. The app or device **MUST** be legal, and you should not put other people in danger when you use it.
 
 **Laws [RTA 1988 sects 2 & 3](http://www.legislation.gov.uk/ukpga/1988/52), & [CUR regs 104](http://www.legislation.gov.uk/uksi/1986/1078/regulation/104/made) & [110](http://www.legislation.gov.uk/uksi/2003/2695/made)**
 

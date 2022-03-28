@@ -4,7 +4,7 @@ Using the road (159 to 203)
 Rules for using the road, including general rules, overtaking, road junctions, roundabouts, pedestrian crossings and reversing.
 
 General rules (rules 159 to 161)
----------------------------------
+--------------------------------
 
 ### Rule 159
 
@@ -42,7 +42,7 @@ You will need to look round and check.
 **Remember: Mirrors – Signal – Manoeuvre**
 
 Overtaking (rules 162 to 169)
-------------------------------
+-----------------------------
 
 ### Rule 162
 
@@ -132,7 +132,7 @@ You **MUST NOT** overtake
 Do not hold up a long queue of traffic, especially if you are driving a large or slow-moving vehicle. Check your mirrors frequently, and if necessary, pull in where it is safe and let traffic pass.
 
 Road junctions (rules 170 to 183)
-----------------------------------
+---------------------------------
 
 ### Rule 170
 
@@ -249,7 +249,7 @@ When turning
 * give way to any vehicles using a bus lane, cycle lane, cycle track or tramway from either direction, including when they are passing slow moving or stationary vehicles on either side.
 
 Roundabouts (rules 184 to 190)
--------------------------------
+------------------------------
 
 ### Rule 184
 
@@ -329,7 +329,7 @@ At double mini-roundabouts treat each roundabout separately and give way to traf
 Rule 190: Treat each roundabout separately
 
 Pedestrian crossings (rules 191 to 199)
-----------------------------------------
+---------------------------------------
 
 ### Rule 191
 
@@ -406,7 +406,7 @@ Give way to anyone still crossing after the signal for vehicles has changed to g
 **Toucan, puffin and equestrian crossings.** These are similar to pelican crossings, but there is no flashing amber phase; the light sequence for traffic at these three crossings is the same as at traffic lights. If the signal-controlled crossing is not working, proceed with extreme caution. Do not enter the crossing if you are unable to completely clear it, to avoid obstructing pedestrians, cyclists or horse riders.
 
 Reversing (200 to 203)
------------------------
+----------------------
 
 ### Rule 200
 

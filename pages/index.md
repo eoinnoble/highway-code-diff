@@ -4,7 +4,7 @@ Index
 An A to Z index of topics covered by The Highway Code.
 
 A
---
+-
 
 * ABS **see** Braking/brakes
 * Active Traffic Management (ATM) signs [rule 269](/pages/motorways-253-to-273.md#rule-269)
@@ -19,7 +19,7 @@ A
 * Attitude [rule 147](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-149)
 
 B
---
+-
 
 * Baby seats **see** Rear-facing baby seats
 * Battery [vehicle maintenance safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md)
@@ -58,7 +58,7 @@ B
 	+ speed limits [rule 124](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-124)
 
 C
---
+-
 
 * Car phones **see** Mobile phones
 * Caravans - [rule 98](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-98), [rule 124](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-124), [rule 160](/pages/using-the-road-159-to-203.md#rule-160), [rule 250](/pages/waiting-and-parking-238-to-252.md#rule-250) and [rule 265](/pages/motorways-253-to-273.md#rule-265)
@@ -122,7 +122,7 @@ C
 * Cycle-only crossing [rule 82](/pages/rules-for-cyclists-59-to-82.md#rule-82)
 * Cyclists and cycling [rules H1 to H3](/pages/introduction.md#rule-h1), [rules 59 to 82](/pages/rules-for-cyclists-59-to-82.md#rule-59), [rules 211 to 213](/pages/road-users-requiring-extra-care-204-to-225.md#rule-211) and [rule 253](/pages/motorways-253-to-273.md#rule-253)
 	+ horses [rule 63](/pages/rules-for-cyclists-59-to-82.md#rule-63) and [rule 66](/pages/rules-for-cyclists-59-to-82.md#rule-66)
-	+ junctions - [rules 73 to 75](/pages/rules-for-cyclists-59-to-82.md#rule-73), [rule 170](/pages/using-the-road-159-to-203.md#rule-170), [rules 177 to 178](/pages/using-the-road-159-to-203.md#rule-177), [rule 180](/pages/using-the-road-159-to-203.md#rule-180), 
+	+ junctions - [rules 73 to 75](/pages/rules-for-cyclists-59-to-82.md#rule-73), [rule 170](/pages/using-the-road-159-to-203.md#rule-170), [rules 177 to 178](/pages/using-the-road-159-to-203.md#rule-177), [rule 180](/pages/using-the-road-159-to-203.md#rule-180),
 	[rules 182 to 183](/pages/using-the-road-159-to-203.md#rule-182) and [rule 211](/pages/road-users-requiring-extra-care-204-to-225.md#rule-211)
 	+ overtaking/clearance [rule 63](/pages/rules-for-cyclists-59-to-82.md#rule-63), [rule 65](/pages/rules-for-cyclists-59-to-82.md#rule-65), [rule 66](/pages/rules-for-cyclists-59-to-82.md#rule-66), [rule 129](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-129), [rule 160](/pages/using-the-road-159-to-203.md#rule-160), [rule 163](/pages/using-the-road-159-to-203.md#rule-163), [rule 212](/pages/road-users-requiring-extra-care-204-to-225.md#rule-212) and [rule 232](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-232)
 	+ parking [rule 70](/pages/rules-for-cyclists-59-to-82.md#rule-70)
@@ -137,7 +137,7 @@ C
 	+ turning [rule 74](/pages/rules-for-cyclists-59-to-82.md#rule-74), [rule 75](/pages/rules-for-cyclists-59-to-82.md#rule-75) and [rule 212](/pages/road-users-requiring-extra-care-204-to-225.md#rule-212)
 
 D
---
+-
 
 * D plates [Motorcycle licence requirements](/pages/annex-2-motorcycle-licence-requirements.md)
 * Dangerous goods [rules 284 to 285](/pages/breakdowns-and-incidents-274-to-287.md#rule-284)
@@ -172,7 +172,7 @@ D
 * Dull weather [rule 115](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-115)
 
 E
---
+-
 
 * Electric vehicles [rule 224](/pages/road-users-requiring-extra-care-204-to-225.md#rule-224)
 	+ charging points [rule 239](/pages/waiting-and-parking-238-to-252.md#rule-239)
@@ -185,7 +185,7 @@ E
 * Eyesight/vision [rules 92 to 94](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-92)
 
 F
---
+-
 
 * Fatigue [rule 91](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-91), [rule 237](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-237) and [rule 262](/pages/motorways-253-to-273.md#rule-262)
 * Filter lights [rule 177](/pages/using-the-road-159-to-203.md#rule-177)
@@ -225,7 +225,7 @@ F
 * Footway **see** Pavements
 
 G
---
+-
 
 * Give way
 	+ junctions [rule 172](/pages/using-the-road-159-to-203.md#rule-172), [rule 183](/pages/using-the-road-159-to-203.md#rule-183), [rule 185](/pages/using-the-road-159-to-203.md#rule-185), [rule 189](/pages/using-the-road-159-to-203.md#rule-189) and [rule 206](/pages/road-users-requiring-extra-care-204-to-225.md#rule-206)
@@ -234,7 +234,7 @@ G
 * Green Cross Code [rule 7](/pages/rules-for-pedestrians-1-to-35.md#rule-7) and [rule 30](/pages/rules-for-pedestrians-1-to-35.md#rule-30)
 
 H
---
+-
 
 * Hard shoulder **see** Motorways
 * Hazard warning lights [rule 116](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-116), [rule 276](/pages/breakdowns-and-incidents-274-to-287.md#rule-276), [rules 277 to 279](/pages/breakdowns-and-incidents-274-to-287.md#rule-277) and [rule 283](/pages/breakdowns-and-incidents-274-to-287.md#rule-283)
@@ -269,7 +269,7 @@ H
 * HOVs **see** High-Occupancy Vehicle Lanes (HOVs)
 
 I
---
+-
 
 * Ice cream vans [rule 206](/pages/road-users-requiring-extra-care-204-to-225.md#rule-206)
 * Icy weather [rule 126](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-126), [rule 195](/pages/using-the-road-159-to-203.md#rule-195), [rule 213](/pages/road-users-requiring-extra-care-204-to-225.md#rule-213), [rules 228 to 231](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-228) and [rule 260](/pages/motorways-253-to-273.md#rule-260)
@@ -288,13 +288,13 @@ I
 * Islands [rule 7](/pages/rules-for-pedestrians-1-to-35.md#rule-7), [rule 19](/pages/rules-for-pedestrians-1-to-35.md#rule-19), [rule 20](/pages/rules-for-pedestrians-1-to-35.md#rule-20), [rule 28](/pages/rules-for-pedestrians-1-to-35.md#rule-28), [rule 30](/pages/rules-for-pedestrians-1-to-35.md#rule-30), [rule 195](/pages/using-the-road-159-to-203.md#rule-195), [rule 197](/pages/using-the-road-159-to-203.md#rule-197) and [rule 243](/pages/waiting-and-parking-238-to-252.md#rule-243)
 
 J
---
+-
 
 * ​​Journey, preparation [rule 97](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-97)
 * Junction **see** Road Junction
 
 L
---
+-
 
 * L plates [Motorcycle licence requirements](/pages/annex-2-motorcycle-licence-requirements.md) and [Learner drivers](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md)
 * Lamps and lights **see also** Headlamps and headlights conditions/maintenance [rule 113](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-113), [rule 229](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-229) and [Vehicle maintenance, safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md)
@@ -328,7 +328,7 @@ L
 	+ trams [rules 300 to 307](/pages/road-works-level-crossings-and-tramways-288-to-307.md)
 
 M
---
+-
 
 * Maintenance of vehicles [vehicle maintenance, safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md)
 * Manoeuvring [rules 159 to 190](/pages/using-the-road-159-to-203.md#rule-159) and [rules 200 to 203](/pages/using-the-road-159-to-203.md#rule-200)
@@ -388,7 +388,7 @@ M
 * Moving off [rule 159](/pages/using-the-road-159-to-203.md#rule-159)
 
 N
---
+-
 
 * Narrow/winding roads **see** Country roads
 * Navigation systems  [rule 150](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-150)
@@ -405,7 +405,7 @@ N
 	+ speed [rule 125](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-125)
 
 O
---
+-
 
 * Obstructions [rules 279 to 280](/pages/breakdowns-and-incidents-274-to-287.md#rule-279)
 	+ ​​​​breakdowns [rule 276](/pages/breakdowns-and-incidents-274-to-287.md#rule-276)
@@ -440,7 +440,7 @@ O
 	+ trams [rule 167](/pages/using-the-road-159-to-203.md#rule-167), [rule 301](/pages/road-works-level-crossings-and-tramways-288-to-307.md#rule-301) and [rule 303](/pages/road-works-level-crossings-and-tramways-288-to-307.md#rule-303)
 
 P
---
+-
 
 * Parades [rule 5](/pages/rules-for-pedestrians-1-to-35.md#rule-5)
 * Parallel crossings [rule 195](/pages/using-the-road-159-to-203.md#rule-195) and [rule 206](/pages/road-users-requiring-extra-care-204-to-225.md#rule-206)
@@ -518,7 +518,7 @@ P
 * cyclists [rule 81](/pages/rules-for-cyclists-59-to-82.md#rule-81)
 
 Q
---
+-
 
 * Quad bikes **see** Prohibited vehicles
 * Queues [rule 114](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-114) and [rule 169](/pages/using-the-road-159-to-203.md#rule-169)
@@ -529,7 +529,7 @@ Q
 * Quiet lanes [rule 206](/pages/road-users-requiring-extra-care-204-to-225.md#rule-206) and [rule 218](/pages/road-users-requiring-extra-care-204-to-225.md#rule-218)
 
 R
---
+-
 
 * Railway level crossings [rule 34](/pages/rules-for-pedestrians-1-to-35.md#rule-34), [rule 167](/pages/using-the-road-159-to-203.md#rule-167), [rule 243](/pages/waiting-and-parking-238-to-252.md#rule-243) and [rules 291 to 299](/pages/road-works-level-crossings-and-tramways-288-to-307.md#rule-291)
 	+ tactile surfaces [rule 34](/pages/rules-for-pedestrians-1-to-35.md#rule-34)
@@ -587,7 +587,7 @@ R
 * Route guidance and navigation systems [rule 150](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-150)
 
 S
---
+-
 
 * Safety barriers, pedestrian [rule 9](/pages/rules-for-pedestrians-1-to-35.md#rule-9)
 * Safety helmets
@@ -670,7 +670,7 @@ S
 * Street/pavement repairs [rule 35](/pages/rules-for-pedestrians-1-to-35.md#rule-35)
 
 T
---
+-
 
 * Tactile paving [rule 10](/pages/rules-for-pedestrians-1-to-35.md#rule-10)
 	+ shared cycle routes [rule 13](/pages/rules-for-pedestrians-1-to-35.md#rule-13)
@@ -732,12 +732,12 @@ T
 * Tyres [rule 98](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-98), [rule 227](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-227), [You and your bicycle](/pages/annex-1-you-and-your-bicycle.md) and [Vehicle maintenance, safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md)
 
 U
---
+-
 
 * U-turn [rule 188](/pages/using-the-road-159-to-203.md#rule-188)
 
 V
---
+-
 
 * Vehicle Operator Services Agency (VOSA) officers **see** Driver and Vehicle Standards Agency officers
 * Vehicle condition [rule 89](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-89), [rule 97](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-97) and [Vehicle maintenance, safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md)
@@ -761,7 +761,7 @@ V
 	+ priority [rules H2 to H3](/pages/introduction.md#rule-h2), [rule 8](/pages/rules-for-pedestrians-1-to-35.md#rule-8), [rule 38](/pages/rules-for-users-of-powered-wheelchairs-and-mobility-scooters-36-to-46.md#rule-38), [rule 170](/pages/using-the-road-159-to-203.md#rule-170), [rule 185](/pages/using-the-road-159-to-203.md#rule-185), [rule 186](/pages/using-the-road-159-to-203.md#rule-186), [rule 206](/pages/road-users-requiring-extra-care-204-to-225.md#rule-206)
 
 W
---
+-
 
 * Waiting [rule 238](/pages/waiting-and-parking-238-to-252.md#rule-238)
 * Warning lights [Vehicle maintenance, safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md)
@@ -776,7 +776,7 @@ W
 * Winter driving [Vehicle maintenance, safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md) **see also** Snow; Wet/icy/slippery roads
 
 Y
---
+-
 
 * Yellow lines [rule 238](/pages/waiting-and-parking-238-to-252.md#rule-238), [rule 247](/pages/waiting-and-parking-238-to-252.md#rule-247) and [Road markings](/pages/road-markings.md)
 	+ criss cross, box junctions [rule 174](/pages/using-the-road-159-to-203.md#rule-174)
@@ -786,7 +786,7 @@ Y
 	+ seat belts [rules 99 to 102](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-99)
 
 Z
---
+-
 
 * Zebra crossings [rule H2](/pages/introduction.md#rule-h2), [rules 191 to 195](/pages/using-the-road-159-to-203.md#rule-191) and [rule 240](/pages/waiting-and-parking-238-to-252.md#rule-240)
 	+ cyclists [rule H2](/pages/introduction.md#rule-h2) and [rule 81](/pages/rules-for-cyclists-59-to-82.md#rule-81)

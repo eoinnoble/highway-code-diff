@@ -4,14 +4,14 @@ Annex 5. Penalties
 Information and rules about penalties, including points and disqualification, a penalty table, new drivers and other consequences of offending.
 
 Penalties and The Highway Code
--------------------------------
+------------------------------
 
 Parliament sets the maximum penalties for road traffic offences. The seriousness of the offence is reflected in the maximum penalty. It is for the courts to decide what sentence to impose according to circumstances.
 
 The [penalty table](#penaltytable) indicates some of the main offences, and the associated penalties. There is a wide range of other more specific offences which, for the sake of simplicity, are not shown here. The [penalty points and disqualification system](#penaltytable) is described below.
 
 Penalty points and disqualification
-------------------------------------
+-----------------------------------
 
 The penalty point system is intended to deter drivers and motorcyclists from following unsafe motoring practices. Certain non-motoring offences, e.g. failure to rectify vehicle defects, can also attract penalty points.
 
@@ -30,7 +30,7 @@ In the case of serious offences, such as dangerous driving and drink-driving, th
 **Law [RTOA sect 34](http://www.legislation.gov.uk/ukpga/1988/53/section/34)**
 
 Penalty table
---------------
+-------------
 
 | Offence | Maximum penalty | Penalty points |
 | --- | --- | --- |
@@ -63,7 +63,7 @@ Furthermore, in some serious cases, the court **MUST** (in addition to imposing 
 **Law [RTOA sect 36](http://www.legislation.gov.uk/ukpga/1988/53/section/36)**
 
 New drivers
-------------
+-----------
 
 Special rules as set out below apply for a period of two years from the date of passing their first driving test, to drivers and motorcyclists from
 
@@ -78,7 +78,7 @@ Where a person subject to the special rules accumulates 6 or more penalty points
 **Note.** This applies even if they pay for offences by fixed penalty. Drivers in the first group (UK, EU/EEA etc.) who already have a full licence for one type of vehicle are not affected by the special rules if they later pass a test to drive another type of vehicle.
 
 Other consequences of offending
---------------------------------
+-------------------------------
 
 Where an offence is punishable by imprisonment then the vehicle used to commit the offence may be confiscated.
 

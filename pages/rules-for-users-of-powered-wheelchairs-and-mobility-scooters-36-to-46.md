@@ -6,7 +6,7 @@ Rules for powered wheelchairs and mobility scooters, including on pavements and 
 (Called Invalid Carriages in law)
 
 Powered wheelchairs and mobility scooters (rules 36 to 37)
------------------------------------------------------------
+----------------------------------------------------------
 
 ### Rule 36
 
@@ -17,7 +17,7 @@ There is one class of manual wheelchair (called a Class 1 invalid carriage) and 
 When you are on the road you should obey the guidance and rules for other vehicles; when on the pavement you should follow the guidance and rules for pedestrians.
 
 On pavements (rules 38 to 40)
-------------------------------
+-----------------------------
 
 ### Rule 38
 
@@ -34,7 +34,7 @@ Powered wheelchairs and scooters **MUST NOT** travel faster than 4 mph (6 km/h) 
 When moving off the pavement onto the road, you should take special care. Before moving off, always look round and make sure it’s safe to join the traffic. Always try to use dropped kerbs when moving off the pavement, even if this means travelling further to locate one. If you have to climb or descend a kerb, always approach it at right angles and don’t try to negotiate a kerb higher than the vehicle manufacturer’s recommendations.
 
 On the road (rules 41 to 46)
------------------------------
+----------------------------
 
 ### Rule 41
 

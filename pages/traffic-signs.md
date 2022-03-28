@@ -10,7 +10,7 @@ The signs illustrated in **The Highway Code** are not all drawn to the same scal
 [Download ‘Traffic signs’ (PDF, 821KB)](https://assets.publishing.service.gov.uk/media/58170307ed915d61c5000000/the-highway-code-traffic-signs.pdf)
 
 Signs giving orders
---------------------
+-------------------
 
 **Signs with red circles are mostly prohibitive. Plates below signs qualify their message.**
 
@@ -115,7 +115,7 @@ Contra-flow bus lane![With-flow pedal cycle lane](../images/sign-giving-order-wi
 With-flow pedal cycle lane
 
 Warning signs
---------------
+-------------
 
 ### Mostly triangular
 
@@ -234,7 +234,7 @@ Quayside or river bank![Risk of grounding](../images/warning-sign-risk-of-ground
 Risk of grounding
 
 Direction signs
-----------------
+---------------
 
 ### Mostly rectangular
 
@@ -248,7 +248,7 @@ On approaches to junctions (junction number on black background)![Route confirma
 
 Route confirmatory sign after junction![Downward pointing arrows mean ‘Get in lane’ The left-hand lane leads to a different destination from the other lanes.](../images/direction-sign-blue-get-in-lane.jpg)
 
-Downward pointing arrows mean ‘Get in lane’ 
+Downward pointing arrows mean ‘Get in lane’
 The left-hand lane leads to a different destination from the other lanes.![The panel with the inclined arrow indicates the destinations which can be reached by leaving the motorway at the next junction](../images/direction-sign-blue-destination-leaving-motorway.jpg)
 
 The panel with the inclined arrow indicates the destinations which can be reached by leaving the motorway at the next junction### Signs on primary routes - green backgrounds
@@ -319,7 +319,7 @@ Symbols showing emergency diversion route for motorway and other main road traff
 Diversion route
 
 Information signs
-------------------
+-----------------
 
 ### All rectangular
 
@@ -378,7 +378,7 @@ Area in which cameras are used to enforce traffic regulations![Bus lane on road 
 Bus lane on road at junction ahead
 
 Road work signs
-----------------
+---------------
 
 ![Road works](../images/road-work-sign-road-works.jpg)
 

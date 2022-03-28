@@ -4,7 +4,7 @@ Waiting and parking (238 to 252)
 Rules for waiting and parking, including rules on parking at night and decriminalised parking enforcement.
 
 General (rule 238)
--------------------
+------------------
 
 ### Rule 238
 
@@ -13,7 +13,7 @@ You **MUST NOT** wait or park on yellow lines during the times of operation show
 **Law [RTRA sects 5](http://www.legislation.gov.uk/ukpga/1984/27/section/5) & [8](http://www.legislation.gov.uk/ukpga/1984/27/section/8)**
 
 Parking (rules 239 to 247)
----------------------------
+--------------------------
 
 ### Rule 239
 
@@ -110,7 +110,7 @@ You **MUST NOT** park partially or wholly on the pavement in London, and should 
 **Law [RTRA sects 5](http://www.legislation.gov.uk/ukpga/1984/27/section/5) & [8](http://www.legislation.gov.uk/ukpga/1984/27/section/8)**
 
 Parking at night (rules 248 to 252)
-------------------------------------
+-----------------------------------
 
 ### Rule 248
 
@@ -153,10 +153,10 @@ Other vehicles and trailers, and all vehicles with projecting loads, **MUST NOT*
 Rule 252: Turn your wheels away from the kerb when parking facing uphill. Turn them towards the kerb when parking facing downhill
 
 Decriminalised Parking Enforcement (DPE)
------------------------------------------
+----------------------------------------
 
 DPE is becoming increasingly common as more authorities take on this role. The local traffic authority assumes responsibility for enforcing many parking contraventions in place of the police. Further details on DPE may be found at the following websites:
 
-[Traffic Penalty Tribunal](http://www.trafficpenaltytribunal.gov.uk) (outside London)  
+[Traffic Penalty Tribunal](http://www.trafficpenaltytribunal.gov.uk) (outside London)
 
 [London Tribunals](http://www.londontribunals.gov.uk) (inside London)
