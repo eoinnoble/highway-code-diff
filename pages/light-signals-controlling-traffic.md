@@ -44,7 +44,7 @@ Lane ahead closed![Temporary maximum speed advised and information message](../i
 
 Temporary maximum speed advised and information message![Leave motorway at next exit](../images/Obstruction_FINAL_.jpg)
 
-You **MUST NOT** enter or proceed in the left lane, temporary mandatory maximum speed limit and information message![Temporary maximum speed advised](../images/motorway-signal-temporary-speed.jpg)
+You \*\*MUST NOT\*\* enter or proceed in the left lane, temporary mandatory maximum speed limit and information message![Temporary maximum speed advised](../images/motorway-signal-temporary-speed.jpg)
 
 Temporary maximum speed advised![End of restriction](../images/motorway-signal-end-restriction.jpg)
 
