@@ -150,6 +150,40 @@ def markdown_printer(index: int) -> None:
     desired section of the Highway Code (`sections`) you want to print"""
     page = httpx.get(URL_ROOT, follow_redirects=True)
     sections_pattern = r"\"\/guidance\/the-highway-code\/(.*)\""
+    # [
+    # 'updates',
+    # 'introduction',
+    # 'rules-for-pedestrians-1-to-35',
+    # 'rules-for-users-of-powered-wheelchairs-and-mobility-scooters-36-to-46',
+    # 'rules-about-animals-47-to-58',
+    # 'rules-for-cyclists-59-to-82',
+    # 'rules-for-motorcyclists-83-to-88',
+    # 'rules-for-drivers-and-motorcyclists-89-to-102',
+    # 'general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158',
+    # 'using-the-road-159-to-203',
+    # 'road-users-requiring-extra-care-204-to-225',
+    # 'driving-in-adverse-weather-conditions-226-to-237',
+    # 'waiting-and-parking-238-to-252',
+    # 'motorways-253-to-273',
+    # 'breakdowns-and-incidents-274-to-287',
+    # 'road-works-level-crossings-and-tramways-288-to-307',
+    # 'light-signals-controlling-traffic',
+    # 'signals-to-other-road-users',
+    # 'signals-by-authorised-persons',
+    # 'traffic-signs',
+    # 'road-markings',
+    # 'vehicle-markings',
+    # 'annex-1-you-and-your-bicycle',
+    # 'annex-2-motorcycle-licence-requirements',
+    # 'annex-3-motor-vehicle-documentation-and-learner-driver-requirements',
+    # 'annex-4-the-road-user-and-the-law',
+    # 'annex-5-penalties',
+    # 'annex-6-vehicle-maintenance-safety-and-security',
+    # 'annex-7-first-aid-on-the-road',
+    # 'annex-8-safety-code-for-new-drivers',
+    # 'other-information',
+    # 'index'
+    # ]
     sections = re.findall(sections_pattern, page.text)
     filename = sections[index]
 
@@ -157,10 +191,9 @@ def markdown_printer(index: int) -> None:
     response = httpx.get(URL_ROOT + filename, follow_redirects=True)
 
     converter = CustomMarkdownConverter()
-    sub_page = re.search(page_pattern, response.text)
-    markdown = converter.convert(sub_page.groups()[1])
 
-    print(markdown)
+    if sub_page := re.search(page_pattern, response.text):
+        print(converter.convert(sub_page.groups()[1]))
 
 
 if __name__ == "__main__":
