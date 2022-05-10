@@ -34,9 +34,9 @@ Penalty table
 
 | Offence | Maximum penalty | Penalty points |
 | --- | --- | --- |
-| *Causing death by dangerous driving | 14 years’ imprisonment / Unlimited fine / Obligatory disqualification (minimum 2 years) | 3 to 11 (if exceptionally not disqualified) |
-| *Dangerous driving | 2 years’ imprisonment / Unlimited fine / Obligatory disqualification | 3 to 11 (if exceptionally not disqualified) |
-| *Causing death by careless driving under the influence of drink or drugs | 14 years’ imprisonment / Unlimited fine / Obligatory disqualification (minimum 2 years) | 3 to 11 (if exceptionally not disqualified) |
+| \*Causing death by dangerous driving | 14 years’ imprisonment / Unlimited fine / Obligatory disqualification (minimum 2 years) | 3 to 11 (if exceptionally not disqualified) |
+| \*Dangerous driving | 2 years’ imprisonment / Unlimited fine / Obligatory disqualification | 3 to 11 (if exceptionally not disqualified) |
+| \*Causing death by careless driving under the influence of drink or drugs | 14 years’ imprisonment / Unlimited fine / Obligatory disqualification (minimum 2 years) | 3 to 11 (if exceptionally not disqualified) |
 | Careless and inconsiderate driving | Unlimited fine / Discretionary disqualification | 3 to 9 |
 | Driving while unfit through drink or drugs or with excess alcohol: or failing to provide a specimen for analysis | 6 months’ imprisonment / Unlimited fine / Obligatory disqualification | 3 to 11 (if exceptionally not disqualified) |
 | Failing to stop after an accident or failing to report an accident | 6 months’ imprisonment / Unlimited fine / Discretionary disqualification | 5 to 10 |
@@ -56,7 +56,7 @@ Penalty table
 | Cycling on pavement | £500 fine | - |
 | Failing to identify driver of vehicle | £1,000 fine / Discretionary disqualification | - |
 
-*Where a court disqualifies a person on conviction for one of these offences, it must order an extended retest. The courts also have discretion to order a retest for any other offence which carries penalty points, an extended retest where disqualification is obligatory, and an ordinary test where disqualification is not obligatory.
+\*Where a court disqualifies a person on conviction for one of these offences, it must order an extended retest. The courts also have discretion to order a retest for any other offence which carries penalty points, an extended retest where disqualification is obligatory, and an ordinary test where disqualification is not obligatory.
 
 Furthermore, in some serious cases, the court **MUST** (in addition to imposing a fixed period of disqualification) order the offender to be disqualified until they pass a driving test. In other cases the court has a discretionary power to order such disqualification. The test may be an ordinary length test or an extended test according to the nature of the offence.
 

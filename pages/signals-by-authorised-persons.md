@@ -24,7 +24,7 @@ From the side![From the front](../images/police-officer-beckon-from-the-front.jp
 
 From the front![From behind*](../images/police-officer-beckon-from-behind.jpg)
 
-From behind**In Wales, bilingual signs appear on emergency services vehicles and clothing
+From behind\*\*In Wales, bilingual signs appear on emergency services vehicles and clothing
 
 Arm signals to persons controlling traffic
 ------------------------------------------

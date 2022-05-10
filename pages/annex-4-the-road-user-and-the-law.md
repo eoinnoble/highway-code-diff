@@ -57,7 +57,7 @@ Acts and regulations from 1988 onwards
 | [Powers of Criminal Courts (Sentencing) Act 2000](http://www.legislation.gov.uk/ukpga/2000/6/contents/made) | PCC(S)A |
 | [Police Reform Act 2002](http://www.legislation.gov.uk/ukpga/2002/30/contents) | PRA |
 | [Private Crossings (Signs and Barriers) Regulations](https://www.legislation.gov.uk/uksi/1996/1786/contents/made) | PC(SB)R |
-| [Prohibition of Smoking in Certain Premises (Scotland) Regulations 2006. Scottish SI 2006/No 90](http://www.legislation.gov.uk/ssi/2006/90/contents/made) | TPSCP(S)R* |
+| [Prohibition of Smoking in Certain Premises (Scotland) Regulations 2006. Scottish SI 2006/No 90](http://www.legislation.gov.uk/ssi/2006/90/contents/made) | TPSCP(S)R\* |
 | [Road Safety Act 2006](http://www.legislation.gov.uk/ukpga/2006/49/contents) | RSA |
 | [Road Traffic Act 1984](http://www.legislation.gov.uk/ukpga/1984/27/contents), [1988](http://www.legislation.gov.uk/ukpga/1988/52/contents/enacted) or [1991](http://www.legislation.gov.uk/ukpga/1991/40/contents) as indicated | RTA |
 | [Road Traffic Act 1988 (Prescribed Limit)(Scotland) Regulations 2014](http://www.legislation.gov.uk/sdsi/2014/9780111024478) | PLSR |
@@ -67,8 +67,8 @@ Acts and regulations from 1988 onwards
 | [Road Vehicles (Display of Registration Marks) Regulations 2001](http://www.legislation.gov.uk/uksi/2001/561/contents/made) | RV(DRM)R |
 | [Road Vehicles Lighting Regulations 1989](http://www.legislation.gov.uk/uksi/1989/1796/contents/made) | RVLR |
 | [Road Vehicles (Registration & Licensing) Regulations 2002](http://www.legislation.gov.uk/uksi/2002/2742/contents/made) | RV(R&L)R |
-| [Smoke-free (Exemptions and Vehicles) Regulations 2007 SI 2007/765](http://www.legislation.gov.uk/uksi/2007/765/contents/made) | TSf(EV)* |
-| [Smoke-free Premises etc (Wales) Regulations 2007 SI 2007/W787](http://www.legislation.gov.uk/wsi/2007/787/contents/made) | TSfP(W)R* |
+| [Smoke-free (Exemptions and Vehicles) Regulations 2007 SI 2007/765](http://www.legislation.gov.uk/uksi/2007/765/contents/made) | TSf(EV)\* |
+| [Smoke-free Premises etc (Wales) Regulations 2007 SI 2007/W787](http://www.legislation.gov.uk/wsi/2007/787/contents/made) | TSfP(W)R\* |
 | [Smoke-free (Private Vehicles) Regulations 2015](http://www.legislation.gov.uk/ukdsi/2015/9780111126004/contents) | S-f(PV)R |
 | [Smoke-free Premises etc (Wales) (Amendment) Regulations 2015](http://www.legislation.gov.uk/wsi/2015/1363/made) | S-f(W)R |
 | [Smoking Prohibition (Children in Motor Vehicles) (Scotland) Act 2016](http://www.legislation.gov.uk/asp/2016/3/contents) | SP(CIMV)(S)A |
@@ -79,7 +79,7 @@ Acts and regulations from 1988 onwards
 | [Vehicle Excise and Registration Act 1994](http://www.legislation.gov.uk/ukpga/1994/22/contents) | VERA |
 | [Zebra, Pelican and Puffin Pedestrian Crossings Regulations and General Directions 1997](http://www.legislation.gov.uk/uksi/1997/2400/contents/made) | ZPPPCRGD |
 
-*Specific legislation applies to smoking in vehicles which constitute workplaces.
+\*Specific legislation applies to smoking in vehicles which constitute workplaces.
 
 For information, visit:
 

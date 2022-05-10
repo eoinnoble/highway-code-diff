@@ -140,7 +140,7 @@ Rule 20: Zebra crossings with a central island are two separate crossings### Rul
 
 ![Rule 21: At traffic lights, puffin and pelican crossings. *At pelican crossings only.](../images/the-highway-code-rule-21.jpg)
 
-Rule 21: At traffic lights, puffin and pelican crossings. *At pelican crossings only.### Rule 22
+Rule 21: At traffic lights, puffin and pelican crossings. \*At pelican crossings only.### Rule 22
 
 **Pelican crossings.** These are signal-controlled crossings operated by pedestrians. Push the control button to activate the traffic signals. When the red figure shows, do not cross. When a steady green figure shows, check the traffic has stopped then cross with care. When the green figure begins to flash you should not start to cross. If you have already started you should have time to finish crossing safely.
 
