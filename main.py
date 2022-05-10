@@ -30,7 +30,7 @@ class CustomMarkdownConverter(MarkdownConverter):
                 not el.parent.previous_sibling
                 or el.parent.previous_sibling.name != "thead"
             ):
-                overline += "|" * len(cells) + "\n"
+                overline += "|" + "|" * len(cells) + "\n"
             overline += "| " + " | ".join(["---"] * len(cells)) + " |" + "\n"
 
         return overline + "|" + text + "\n" + underline
