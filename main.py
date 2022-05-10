@@ -10,6 +10,10 @@ URL_ROOT = "https://www.gov.uk/guidance/the-highway-code/"
 
 
 class CustomMarkdownConverter(MarkdownConverter):
+    def convert_figcaption(self, el: PageElement, text: str, convert_as_inline: bool):
+        """The library doesn't handle this element for some reason"""
+        return "%s\n\n\n" % text if text else ""
+
     def convert_img(self, el: PageElement, text: str, convert_as_inline: bool) -> str:
         """This fixes https://github.com/matthewwithanm/python-markdownify/issues/61"""
         alt = el.attrs.get("alt", None) or ""
