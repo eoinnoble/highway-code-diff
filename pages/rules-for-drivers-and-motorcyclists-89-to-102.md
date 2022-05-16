@@ -162,7 +162,9 @@ The driver **MUST** ensure that all children under 14 years of age in cars, vans
 
 ![Rule 100: Make sure that a child uses a suitable restraint which is correctly adjusted](../images/the-highway-code-rule-100.jpg)
 
-Rule 100: Make sure that a child uses a suitable restraint which is correctly adjusted### Rule 101
+Rule 100: Make sure that a child uses a suitable restraint which is correctly adjusted
+
+### Rule 101
 
 A rear-facing baby seat **MUST NOT** be fitted into a seat protected by an active frontal airbag, as in a crash it can cause serious injury or death to the child.
 

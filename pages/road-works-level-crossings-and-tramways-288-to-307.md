@@ -74,7 +74,9 @@ A level crossing is where a road crosses a railway or tramway line. Approach and
 
 ![Rule 293: Stop when the traffic lights show](../images/the-highway-code-rule-293.jpg)
 
-Rule 293: Stop when the traffic lights show### Rule 294
+Rule 293: Stop when the traffic lights show
+
+### Rule 294
 
 **Railway telephones.** If you are driving a large or slow- moving vehicle, a long, low vehicle with a risk of grounding, or herding animals, a train could arrive before you are clear of the crossing. You **MUST** obey any sign instructing you to use the railway telephone to obtain permission to cross. You **MUST** also telephone when clear of the crossing if requested to do so.
 

@@ -40,7 +40,9 @@ When using an electric vehicle charge point, you should park close to the charge
 
 ![Rule 239: Check before opening your door](../images/the-highway-code-rule-239.jpg)
 
-Rule 239: Check before opening your door### Rule 240
+Rule 239: Check before opening your door
+
+### Rule 240
 
 You **MUST NOT** stop or park on
 

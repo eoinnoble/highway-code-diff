@@ -12,7 +12,9 @@ Motor vehicles over 7500 kilograms maximum gross weight and trailers over 3500 k
 
 ![Left     Central     Right](../images/large-goods-vehicle-markings.jpg)
 
-Left - Central - RightThe vertical markings are also required to be fitted to builders’ skips placed in the road, commercial vehicles or combinations longer than 13 metres (optional on combinations between 11 and 13 metres)
+Left - Central - Right
+
+The vertical markings are also required to be fitted to builders’ skips placed in the road, commercial vehicles or combinations longer than 13 metres (optional on combinations between 11 and 13 metres)
 
 Hazard warning plates
 ---------------------
@@ -21,19 +23,33 @@ Certain tank vehicles carrying dangerous goods must display hazard information p
 
 ![The panel illustrated is for flammable liquid. Diamond symbols indicating other risks include:](../images/hazard-warning-hazard-info-label.jpg)
 
-The panel illustrated is for flammable liquid. Diamond symbols indicating other risks include:![The above panel will be displayed by vehicles carrying certain dangerous goods in packages](../images/hazard-warning-dangerous-goods.jpg)
+The panel illustrated is for flammable liquid. Diamond symbols indicating other risks include:
 
-The above panel will be displayed by vehicles carrying certain dangerous goods in packages![Toxic substance](../images/hazard-warning-toxic-label.jpg)
+![The above panel will be displayed by vehicles carrying certain dangerous goods in packages](../images/hazard-warning-dangerous-goods.jpg)
 
-Toxic substance![Oxidizing substance](../images/hazard-warning-oxidising-plate.jpg)
+The above panel will be displayed by vehicles carrying certain dangerous goods in packages
 
-Oxidizing substance![Non-flammable compressed gas](../images/hazard-warning-compressed-gas-plate.jpg)
+![Toxic substance](../images/hazard-warning-toxic-label.jpg)
 
-Non-flammable compressed gas![Radioactive substance](../images/hazard-warning-radioactive-plate.jpg)
+Toxic substance
 
-Radioactive substance![Spontaneously combustible substance](../images/hazard-warning-spon-combust-red.jpg)
+![Oxidizing substance](../images/hazard-warning-oxidising-plate.jpg)
 
-Spontaneously combustible substance![Corrosive substance](../images/hazard-warning-corrosive-plate.jpg)
+Oxidizing substance
+
+![Non-flammable compressed gas](../images/hazard-warning-compressed-gas-plate.jpg)
+
+Non-flammable compressed gas
+
+![Radioactive substance](../images/hazard-warning-radioactive-plate.jpg)
+
+Radioactive substance
+
+![Spontaneously combustible substance](../images/hazard-warning-spon-combust-red.jpg)
+
+Spontaneously combustible substance
+
+![Corrosive substance](../images/hazard-warning-corrosive-plate.jpg)
 
 Corrosive substance
 
@@ -42,9 +58,13 @@ Projections markers
 
 ![Side marker](../images/projection-marker-side.jpg)
 
-Side marker![End marker](../images/projection-marker-end.jpg)
+Side marker
 
-End markerBoth required when load or equipment (eg crane jib) overhangs front or rear by more than two metres
+![End marker](../images/projection-marker-end.jpg)
+
+End marker
+
+Both required when load or equipment (eg crane jib) overhangs front or rear by more than two metres
 
 Other
 -----

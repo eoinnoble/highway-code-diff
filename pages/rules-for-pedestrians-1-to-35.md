@@ -25,7 +25,9 @@ It may be safer to cross the road well before a sharp right-hand bend so that on
 
 ![Rule 3: Help yourself to be seen](../images/the-highway-code-rule-3.jpg)
 
-Rule 3: Help yourself to be seen### Rule 4
+Rule 3: Help yourself to be seen
+
+### Rule 4
 
 **Young children** should not be out alone on the pavement or road (see [Rule 7](#rule-7)). When taking children out, keep between them and the traffic and hold their hands firmly. Strap very young children into pushchairs or use reins. When pushing a young child in a buggy, do not push the buggy into the road when checking to see if it is clear to cross, particularly from between parked vehicles.
 
@@ -50,7 +52,9 @@ Crossing the road (rules 7 to 17)
 
 ![Rule 7: Look all around and listen for traffic before crossing](../images/the-highway-code-rule-7.jpg)
 
-Rule 7: Look all around and listen for traffic before crossing**B Stop just before you get to the kerb,** where you can see if anything is coming. Do not get too close to the traffic. If there’s no pavement, keep back from the edge of the road but make sure you can still see approaching traffic.
+Rule 7: Look all around and listen for traffic before crossing
+
+**B Stop just before you get to the kerb,** where you can see if anything is coming. Do not get too close to the traffic. If there’s no pavement, keep back from the edge of the road but make sure you can still see approaching traffic.
 
 **C Look all around for traffic and listen.** Traffic could come from any direction. Listen as well, because you can sometimes hear traffic before you see it.
 
@@ -124,7 +128,9 @@ You **MUST NOT** loiter on any type of crossing.
 
 ![Rule 19: Zebra crossings have flashing beacons](../images/the-highway-code-rule-19.jpg)
 
-Rule 19: Zebra crossings have flashing beaconsA zebra crossing with a central island is two separate crossings (see [Rule 20](#rule-20)).
+Rule 19: Zebra crossings have flashing beacons
+
+A zebra crossing with a central island is two separate crossings (see [Rule 20](#rule-20)).
 
 **Law [TSRGD Schedule 14 part 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
@@ -134,13 +140,17 @@ Where there is an island in the middle of a zebra crossing, wait on the island a
 
 ![Rule 20: Zebra crossings with a central island are two separate cross ings](../images/the-highway-code-rule-20.jpg)
 
-Rule 20: Zebra crossings with a central island are two separate crossings### Rule 21
+Rule 20: Zebra crossings with a central island are two separate crossings
+
+### Rule 21
 
 **At traffic lights.** There may be special signals for pedestrians. You should only start to cross the road when the green figure shows. If you have started to cross the road and the green figure goes out, you should still have time to reach the other side, but do not delay. If no pedestrian signals have been provided, watch carefully and do not cross until the traffic lights are red and the traffic has stopped. Keep looking and check for traffic that may be turning the corner. Remember that traffic lights may let traffic move in some lanes while traffic in other lanes has stopped.
 
 ![Rule 21: At traffic lights, puffin and pelican crossings. *At pelican crossings only.](../images/the-highway-code-rule-21.jpg)
 
-Rule 21: At traffic lights, puffin and pelican crossings. \*At pelican crossings only.### Rule 22
+Rule 21: At traffic lights, puffin and pelican crossings. \*At pelican crossings only.
+
+### Rule 22
 
 **Pelican crossings.** These are signal-controlled crossings operated by pedestrians. Push the control button to activate the traffic signals. When the red figure shows, do not cross. When a steady green figure shows, check the traffic has stopped then cross with care. When the green figure begins to flash you should not start to cross. If you have already started you should have time to finish crossing safely.
 
@@ -158,7 +168,9 @@ When the road is congested, traffic on your side of the road may be forced to st
 
 ![Rule 25: Toucan crossings can be used by both cyclists and pedestrians](../images/the-highway-code-rule-25.jpg)
 
-Rule 25: Toucan crossings can be used by both cyclists and pedestrians### Rule 26
+Rule 25: Toucan crossings can be used by both cyclists and pedestrians
+
+### Rule 26
 
 At some crossings there is a bleeping sound or voice signal to indicate to blind or partially sighted people when the steady green figure is showing, and there may be a tactile signal to help deafblind people.
 
@@ -168,13 +180,17 @@ At some crossings there is a bleeping sound or voice signal to indicate to blind
 
 ![Rule 27: Equestrian crossings are used by horse riders. There is often a parallel crossing](../images/the-highway-code-rule-27.jpg)
 
-Rule 27: Equestrian crossings are used by horse riders. There is often a parallel crossing### Rule 28
+Rule 27: Equestrian crossings are used by horse riders. There is often a parallel crossing
+
+### Rule 28
 
 **Staggered’ pelican or puffin crossings.** When the crossings on each side of the central refuge are not in line they are two separate crossings. On reaching the central island, press the button again and wait for a steady green figure.
 
 ![Rule 28: Staggered crossings (with an island in the middle) are two separate crossings](../images/the-highway-code-rule-28.jpg)
 
-Rule 28: Staggered crossings (with an island in the middle) are two separate crossings### Rule 29
+Rule 28: Staggered crossings (with an island in the middle) are two separate crossings
+
+### Rule 29
 
 **Crossings controlled by an authorised person.** Do not cross the road unless you are signalled to do so by a police officer, traffic warden or school crossing patrol. Always cross in front of them.
 

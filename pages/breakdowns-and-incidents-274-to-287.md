@@ -78,9 +78,13 @@ you should
 
 ![](../images/Rule_277a.jpg)
 
-Rule 277: Keep well away from your vehicle and moving traffic![](../images/Rule_277b.jpg)
+Rule 277: Keep well away from your vehicle and moving traffic
 
-Rule 277: Keep well away from your vehicle and moving traffic**Get help**
+![](../images/Rule_277b.jpg)
+
+Rule 277: Keep well away from your vehicle and moving traffic
+
+**Get help**
 
 * use the free emergency telephone to obtain advice and assistance
 * contact a breakdown recovery service
@@ -91,7 +95,7 @@ Rule 277: Keep well away from your vehicle and moving traffic**Get help**
 
 **Communicating your location.** How to identify your location to the emergency services.
 
-||
+|||
 | --- | --- |
 | **eCall**. Press the SOS button if your vehicle has one. | ![](../images/Rule_277c__1_.png) |
 | **App**. Use a mobile telephone mapping application. | ![](../images/Rule_277d__1_.png) |
@@ -108,7 +112,9 @@ To rejoin the carriageway after a breakdown from
 
 ![](../images/Rule_278.png)
 
-Rule 278: Emergency area information sign**Law [RTA 1988 sect 36](https://www.legislation.gov.uk/ukpga/1988/52/section/36/enacted)**
+Rule 278: Emergency area information sign
+
+**Law [RTA 1988 sect 36](https://www.legislation.gov.uk/ukpga/1988/52/section/36/enacted)**
 
 ### Rule 279
 

@@ -35,7 +35,9 @@ Horse riders (rules 49 to 55)
 
 ![Rule 50: Help yourself to be seen](../images/the-highway-code-rule-50.jpg)
 
-Rule 50: Help yourself to be seen### Rule 51
+Rule 50: Help yourself to be seen
+
+### Rule 51
 
 **At night.** It is safer not to ride on the road at night or in poor visibility, but if you do, make sure you wear reflective clothing and your horse has reflective bands above the fetlock joints. A light which shows white to the front and red to the rear should be fitted, with a band, to the rider’s right arm and/or leg/riding boot. If you are leading a horse at night, carry a light in your right hand, showing white to the front and red to the rear, and wear reflective clothing on both you and your horse. It is strongly recommended that a fluorescent/reflective tail guard is also worn by your horse.
 
