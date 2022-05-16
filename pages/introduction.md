@@ -59,7 +59,9 @@ Pedestrians may use any part of the road and use cycle tracks as well as the pav
 
 ![Rule H2: Wait for the pedestrian to cross the junction before turning. This applies if you are turning right or left into the junction.](../images/the-highway-code-rule-h2.jpg)
 
-Rule H2: Wait for the pedestrian to cross the junction before turning. This applies if you are turning right or left into the junction.**Laws [TSRGD Schedule 14 part 1 and part 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made) & [HA 1835 sect 72](https://www.legislation.gov.uk/ukpga/Will4/5-6/50/section/72), [R(S)A 1984, sect 129](https://www.legislation.gov.uk/ukpga/1984/54/section/129) & [Countryside Act 1968 Sect 1 part 30](https://www.legislation.gov.uk/ukpga/1968/41/section/30)**
+Rule H2: Wait for the pedestrian to cross the junction before turning. This applies if you are turning right or left into the junction.
+
+**Laws [TSRGD Schedule 14 part 1 and part 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made) & [HA 1835 sect 72](https://www.legislation.gov.uk/ukpga/Will4/5-6/50/section/72), [R(S)A 1984, sect 129](https://www.legislation.gov.uk/ukpga/1984/54/section/129) & [Countryside Act 1968 Sect 1 part 30](https://www.legislation.gov.uk/ukpga/1968/41/section/30)**
 
 ### Rule H3 - Rule for drivers and motorcyclists
 

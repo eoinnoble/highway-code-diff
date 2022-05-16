@@ -34,7 +34,9 @@ Remember the letters **D** **R** **A** **B** **C**:
 
 ![If the casualty is unconscious and breathing, place them in the recovery position until medical help arrives](../images/the-highway-code-first-aid.jpg)
 
-If the casualty is unconscious and breathing, place them in the recovery position until medical help arrives**B - Breathing** Check that the casualty is breathing normally. Look for chest movements, look and listen for breathing, and feel for breath on your cheek.
+If the casualty is unconscious and breathing, place them in the recovery position until medical help arrives
+
+**B - Breathing** Check that the casualty is breathing normally. Look for chest movements, look and listen for breathing, and feel for breath on your cheek.
 
 If there are no signs of breathing, start CPR. Interlock your fingers, place them in the centre of the casualty’s chest and press down hard and fast – around 5 to 6 centimetres and about twice a second. You may only need one hand for a child and shouldn’t press down as far. For infants, use two fingers in the middle of the chest and press down about a third of the chest depth. Don’t stop until the casualty starts breathing again or a medical professional takes over.
 

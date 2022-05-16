@@ -37,7 +37,9 @@ There is a risk of pedestrians, especially children, stepping unexpectedly into 
 
 ![Rule 206: Watch out for children in busy areas](../images/the-highway-code-rule-206.jpg)
 
-Rule 206: Watch out for children in busy areas### Rule 207
+Rule 206: Watch out for children in busy areas
+
+### Rule 207
 
 **Particularly vulnerable pedestrians.** These include:
 
@@ -57,7 +59,9 @@ Drive carefully and slowly when passing a stationary bus showing a ‘School Bus
 
 ![School bus (displayed in front and rear window of bus or coach)](../images/other-school-bus.jpg)
 
-School bus (displayed in front and rear window of bus or coach)### Rule 210
+School bus (displayed in front and rear window of bus or coach)
+
+### Rule 210
 
 You **MUST** stop when a school crossing patrol shows a ‘Stop for children’ sign (see ‘[Signals by authorised persons](/pages/signals-by-authorised-persons.md)’ and ‘[Traffic signs](/pages/traffic-signs.md)’).
 
@@ -76,7 +80,9 @@ When turning right across a line of slow-moving or stationary traffic, look out 
 
 ![Rule 211: Look out for motorcyclists and cyclists at junctions](../images/the-highway-code-rule-211.jpg)
 
-Rule 211: Look out for motorcyclists and cyclists at junctions### Rule 212
+Rule 211: Look out for motorcyclists and cyclists at junctions
+
+### Rule 212
 
 Give motorcyclists, cyclists, horse riders, horse drawn vehicles and pedestrians walking in the road (for example, where there is no pavement), at least as much room as you would when overtaking a car (see [Rules 162 to 167](/pages/using-the-road-159-to-203.md#rule-162)). Drivers should take extra care and give more space when overtaking motorcyclists, cyclists, horse riders, horse drawn vehicles and pedestrians in bad weather (including high winds) and at night. If the rider looks over their shoulder it could mean that they intend to pull out, turn right or change direction. Give them time and space to do so.
 
@@ -136,7 +142,9 @@ Other vehicles (rules 219 to 225)
 
 ![Rule 221: Large vehicles need extra room](../images/the-highway-code-rule-221.jpg)
 
-Rule 221: Large vehicles need extra room### Rule 222
+Rule 221: Large vehicles need extra room
+
+### Rule 222
 
 Large vehicles can block your view. Your ability to see and to plan ahead will be improved if you pull back to increase your separation distance. Be patient, as larger vehicles are subject to lower speed limits than cars and motorcycles. Many large vehicles may be fitted with speed limiting devices which will restrict speed to 56 mph (90 km/h) even on a motorway.
 

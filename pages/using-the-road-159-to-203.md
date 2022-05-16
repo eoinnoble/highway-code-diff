@@ -19,7 +19,9 @@ Move off only when it is safe to do so.
 
 ![Rule 159: Check the blind spot before moving off](../images/the-highway-code-rule-159.jpg)
 
-Rule 159: Check the blind spot before moving off### Rule 160
+Rule 159: Check the blind spot before moving off
+
+### Rule 160
 
 **Once moving** you should
 
@@ -75,7 +77,9 @@ Overtaking (rules 162 to 169)
 
 ![Rule 163: Give vulnerable road users at least as much space as you would a car](../images/the-highway-code-rule-163.jpg)
 
-Rule 163: Give vulnerable road users at least as much space as you would a car### Rule 164
+Rule 163: Give vulnerable road users at least as much space as you would a car
+
+### Rule 164
 
 **Large vehicles.** Overtaking these is more difficult. You should
 
@@ -85,7 +89,9 @@ Rule 163: Give vulnerable road users at least as much space as you would a car##
 
 ![Rule 164: Do not cut in too quickly](../images/the-highway-code-rule-164.jpg)
 
-Rule 164: Do not cut in too quickly### Rule 165
+Rule 164: Do not cut in too quickly
+
+### Rule 165
 
 You **MUST NOT** overtake
 
@@ -148,7 +154,9 @@ Take extra care at junctions. You should
 
 ![Rule 170: Give way to pedestrians who have started to cross](../images/the-highway-code-rule-170.jpg)
 
-Rule 170: Give way to pedestrians who have started to cross### Rule 171
+Rule 170: Give way to pedestrians who have started to cross
+
+### Rule 171
 
 You **MUST** stop behind the line at a junction with a ‘Stop’ sign and a solid white line across the road. Wait for a safe gap in the traffic before you move off.
 
@@ -169,7 +177,9 @@ The approach to a junction may have a ‘Give Way’ sign or a triangle marked o
 
 ![Rule 173: Assess your vehicle’s length and do not obstruct traffic](../images/the-highway-code-rule-173.jpg)
 
-Rule 173: Assess your vehicle’s length and do not obstruct traffic### Rule 174
+Rule 173: Assess your vehicle’s length and do not obstruct traffic
+
+### Rule 174
 
 **Box junctions.** These have criss-cross yellow lines painted on the road (see ‘[Road markings](/pages/road-markings.md)’). You **MUST NOT** enter the box until your exit road or lane is clear. However, you may enter the box and wait when you want to turn right, and are only stopped from doing so by oncoming traffic, or by other vehicles waiting to turn right. At signalled roundabouts you **MUST NOT** enter the box unless you can cross over it completely without stopping.
 
@@ -177,7 +187,9 @@ Rule 173: Assess your vehicle’s length and do not obstruct traffic### Rule 174
 
 ![Rule 174: Enter a box junction only if your exit road is clear](../images/the-highway-code-rule-174b.jpg)
 
-Rule 174: Enter a box junction only if your exit road is clear### Junctions controlled by traffic lights
+Rule 174: Enter a box junction only if your exit road is clear
+
+### Junctions controlled by traffic lights
 
 ### Rule 175
 
@@ -205,7 +217,9 @@ Drivers of large vehicles should stop sufficiently far behind the first white li
 
 ![Rule 178: Do not unnecessarily encroach on the cyclists waiting area](../images/rule-178-advanced-stop-lines-cycles.jpg)
 
-Rule 178: Do not unnecessarily encroach on the cyclists waiting area### Turning right
+Rule 178: Do not unnecessarily encroach on the cyclists waiting area
+
+### Turning right
 
 ### Rule 179
 
@@ -224,7 +238,9 @@ Wait until there is a safe gap between you and any oncoming vehicle. Watch out f
 
 ![Rule 180: Position your vehicle correctly to avoid obstructing traffic](../images/the-highway-code-rule-180.jpg)
 
-Rule 180: Position your vehicle correctly to avoid obstructing traffic### Rule 181
+Rule 180: Position your vehicle correctly to avoid obstructing traffic
+
+### Rule 181
 
 **When turning** right at crossroads where an oncoming vehicle is also turning right, there is a choice of two methods
 
@@ -233,7 +249,9 @@ Rule 180: Position your vehicle correctly to avoid obstructing traffic### Rule 1
 
 ![Rule 181: Left - Turning right side to right side. Right - Turning left side to left side](../images/the-highway-code-rule-181.jpg)
 
-Rule 181: Left - Turning right side to right side. Right - Turning left side to left side### Turning left
+Rule 181: Left - Turning right side to right side. Right - Turning left side to left side
+
+### Turning left
 
 ### Rule 182
 
@@ -241,7 +259,9 @@ Use your mirrors and give a left-turn signal well before you turn left. Do not o
 
 ![Rule 182: Do not cut in on cyclists](../images/the-highway-code-rule-182.jpg)
 
-Rule 182: Do not cut in on cyclists### Rule 183
+Rule 182: Do not cut in on cyclists
+
+### Rule 183
 
 When turning
 
@@ -273,7 +293,9 @@ Roundabouts (rules 184 to 190)
 
 ![Rule 185: Follow the correct procedure at roundabouts](../images/the-highway-code-rule-185.jpg)
 
-Rule 185: Follow the correct procedure at roundabouts### Rule 186
+Rule 185: Follow the correct procedure at roundabouts
+
+### Rule 186
 
 **Signals and position.**
 When taking the first exit to the left, unless signs or markings indicate otherwise
@@ -343,7 +365,9 @@ In slow-moving and queuing traffic you should keep crossings completely clear, a
 
 ![Rule 192: Keep the crossing clear](../images/the-highway-code-rule-192.jpg)
 
-Rule 192: Keep the crossing clear### Rule 193
+Rule 192: Keep the crossing clear
+
+### Rule 193
 
 You should take extra care where the view of either side of the crossing is blocked by queuing traffic or incorrectly parked vehicles. Pedestrians may be crossing between stationary vehicles.
 
@@ -391,7 +415,9 @@ A parallel crossing with a central island is two separate crossings (see [Rules 
 
 ![Rule 196: Allow pedestrians to cross when the amber light is flashing](../images/the-highway-code-rule-196.jpg)
 
-Rule 196: Allow pedestrians to cross when the amber light is flashing### Rule 197
+Rule 196: Allow pedestrians to cross when the amber light is flashing
+
+### Rule 197
 
 Pelican crossings which go straight across the road are one crossing, even when there is a central island. You **MUST** wait for pedestrians who are crossing from the other side of the island.
 
@@ -434,7 +460,9 @@ Get someone to guide you if you cannot see clearly.
 
 ![Rule 202: Check all round when reversing](../images/the-highway-code-rule-202.jpg)
 
-Rule 202: Check all round when reversing### Rule 203
+Rule 202: Check all round when reversing
+
+### Rule 203
 
 You **MUST NOT** reverse your vehicle further than necessary.
 

@@ -18,7 +18,9 @@ You should wear a cycle helmet that conforms to current regulations, is the corr
 
 ![Rule 59: Help yourself to be seen](../images/the-highway-code-rule-59.jpg)
 
-Rule 59: Help yourself to be seen### Rule 60
+Rule 59: Help yourself to be seen
+
+### Rule 60
 
 **At night** your cycle **MUST** have white front and red rear lights lit. It **MUST** also be fitted with a red rear reflector (and amber pedal reflectors, if manufactured after 1/10/85). White front reflectors and spoke reflectors will also help you to be seen. Flashing lights are permitted but it is recommended that cyclists who are riding in areas without street lighting use a steady front lamp.
 

@@ -151,7 +151,9 @@ Control of the vehicle (rules 117 to 126)
 
 ![Rule 119: Rear of the car skids to the right. Driver steers to the right](../images/the-highway-code-rule-119.jpg)
 
-Rule 119: Rear of the car skids to the right. Driver steers to the right### Rule 120
+Rule 119: Rear of the car skids to the right. Driver steers to the right
+
+### Rule 120
 
 **ABS.** If your vehicle is fitted with anti-lock brakes, you should follow the advice given in the vehicle handbook. However, in the case of an emergency, apply the footbrake firmly; do not release the pressure until the vehicle has slowed to the desired speed. The ABS should ensure that steering control will be retained, but do not assume that a vehicle with ABS will stop in a shorter distance.
 
@@ -211,9 +213,13 @@ For speed limits that apply to special types of vehicles, such as oversized vehi
 
 ![](../images/Rule_124a.jpg)
 
-Rule 124: Examples of speed enforcement![](../images/Rule_124b.jpg)
+Rule 124: Examples of speed enforcement
 
-Rule 124: Examples of speed enforcement### Rule 125
+![](../images/Rule_124b.jpg)
+
+Rule 124: Examples of speed enforcement
+
+### Rule 125
 
 The speed limit is the absolute maximum and does not mean it is safe to drive at that speed irrespective of conditions. Unsafe speed increases the chances of causing a collision (or being unable to avoid one), as well as its severity. Inappropriate speeds are also intimidating, deterring people from walking, cycling or riding horses. Driving at speeds too fast for the road and traffic conditions is dangerous. You should always reduce your speed when
 
@@ -240,7 +246,9 @@ If you have to stop in a tunnel, leave at least a 5-metre gap between you and th
 
 ![Rule 126: Use a fixed point to help measure a two-second gap](../images/the-highway-code-rule-126.jpg)
 
-Rule 126: Use a fixed point such as a sign to help measure a two-second gap**Tailgating** is where the gap between you and the vehicle in front is too small for you to be able to stop safely if the vehicle in front suddenly brakes.
+Rule 126: Use a fixed point such as a sign to help measure a two-second gap
+
+**Tailgating** is where the gap between you and the vehicle in front is too small for you to be able to stop safely if the vehicle in front suddenly brakes.
 
 Tailgating is dangerous, intimidating and can cause collisions, especially when driving at speed. Keeping a safe distance from the vehicle in front gives you time to react and stop if necessary. Dangerous and careless driving offences, such as tailgating, are enforced by the police.
 
@@ -468,7 +476,9 @@ As the driver, you are still responsible for the vehicle if you use a driver ass
 
 ![Rule 151: Do not block access to a side road](../images/the-highway-code-rule-151.jpg)
 
-Rule 151: Do not block access to a side road### Driving in built-up areas
+Rule 151: Do not block access to a side road
+
+### Driving in built-up areas
 
 ### Rule 152
 
@@ -487,7 +497,9 @@ Rule 151: Do not block access to a side road### Driving in built-up areas
 
 ![Rule 153: Chicanes may be used to slow traffic down](../images/the-highway-code-rule-153.jpg)
 
-Rule 153: Chicanes may be used to slow traffic down### Country roads
+Rule 153: Chicanes may be used to slow traffic down
+
+### Country roads
 
 ### Rule 154
 

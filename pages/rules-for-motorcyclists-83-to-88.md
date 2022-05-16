@@ -32,7 +32,9 @@ You **MUST NOT** carry more than one pillion passenger who **MUST** sit astride 
 
 ![Rule 86: Help yourself to be seen](../images/the-highway-code-rule-86.jpg)
 
-Rule 86: Help yourself to be seen### Rule 87
+Rule 86: Help yourself to be seen
+
+### Rule 87
 
 **Riding in the dark.** Wear reflective clothing or strips to improve your visibility in the dark. These reflect light from the headlamps of other vehicles, making you visible from a longer distance. See [Rules 113 to 116](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-113) for lighting requirements.
 

@@ -46,7 +46,9 @@ Before you set off
 
 ![Rule 229: Make sure your windscreen is completely clear](../images/the-highway-code-rule-229.jpg)
 
-Rule 229: Make sure your windscreen is completely clear### Rule 230
+Rule 229: Make sure your windscreen is completely clear
+
+### Rule 230
 
 **When driving** in icy or snowy weather
 

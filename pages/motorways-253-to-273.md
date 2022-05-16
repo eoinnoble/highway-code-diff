@@ -47,7 +47,9 @@ Lane specific signs and signals can display advice, restrictions and warnings th
 
 ![](../images/Rule_257.jpg)
 
-Rule 257: Signal warning of a hazard### Rule 258
+Rule 257: Signal warning of a hazard
+
+### Rule 258
 
 **Red flashing light** signals and a red ‘X’ on a sign identify a closed lane in which people, stopped vehicles or other hazards are present. You
 
@@ -56,9 +58,13 @@ Rule 257: Signal warning of a hazard### Rule 258
 
 ![](../images/Rule_258a.jpg)
 
-Rule 258: signals and signs indicating lane closures![](../images/Rule_258b.jpg)
+Rule 258: signals and signs indicating lane closures
 
-Rule 258: signals and signs indicating lane closuresBe aware that
+![](../images/Rule_258b.jpg)
+
+Rule 258: signals and signs indicating lane closures
+
+Be aware that
 
 * there can be several hazards in a closed lane
 * emergency services and traffic authorities use closed lanes to reach incidents and help people in need
@@ -70,7 +76,9 @@ Where **red flashing light** signals and closure of all lanes are shown on a sig
 
 ![](../images/Rule_258d.png)
 
-Rule 258: signals and signs indicating lane closuresLane and road closures indicated by red flashing lights are enforced by the police.
+Rule 258: signals and signs indicating lane closures
+
+Lane and road closures indicated by red flashing lights are enforced by the police.
 
 **Laws [RTA 1988 sects 35](https://www.legislation.gov.uk/ukpga/1988/52/section/35) & [36](https://www.legislation.gov.uk/ukpga/1988/52/section/36) as amended by [TMA sect 6](https://www.legislation.gov.uk/ukpga/2004/18/section/6), [TSRGD reg 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/3/made) and [sched 15](https://www.legislation.gov.uk/uksi/2016/362/schedule/15/made), [MT(E&W)R reg 9](https://www.legislation.gov.uk/uksi/1982/1163/regulation/9/made) & [MT(S)R reg 8](https://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made).**
 
@@ -201,9 +209,13 @@ They are marked by blue signs with an orange SOS telephone symbol and may have o
 
 ![](../images/Rule_270a.jpg)
 
-Rule 270: emergency area![](../images/Rule_270b.png)
+Rule 270: emergency area
 
-Rule 270: sign indicating distance to next emergency areaFollow the requirements and advice in
+![](../images/Rule_270b.png)
+
+Rule 270: sign indicating distance to next emergency area
+
+Follow the requirements and advice in
 
 * [Rule 277](/pages/breakdowns-and-incidents-274-to-287.md#rule-277) if your vehicle develops a problem on the motorway
 * [Rule 278](/pages/breakdowns-and-incidents-274-to-287.md#rule-278) to rejoin the carriageway from an emergency area.
