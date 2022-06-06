@@ -507,7 +507,7 @@ The change made to rule 160 on 3 June 2018 about using driver assistance systems
 
 The change made to rule 239 on 3 June 2018 about using remote control parking has not completed the statutory process to allow it to be included in The Highway Code. The change has been removed.
 
-###  3 June 2018 published amendments
+### 3 June 2018 published amendments
 
 [General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md)
 
@@ -546,7 +546,7 @@ Update rule 108 to make it clear that traffic officers have powers to stop vehic
 
 Updated the guidance on providing emergency care with the help of St John Ambulance, the British Heart Foundation and the British Red Cross.
 
-###  1 March 2017 published amendments
+### 1 March 2017 published amendments
 
 [Annex 5. Penalties](/pages/annex-5-penalties.md)
 
@@ -555,7 +555,7 @@ Updated the penalty table to increase penalty points for using a hand-held mobil
 2016
 ----
 
-###  5 December 2016 published amendments
+### 5 December 2016 published amendments
 
 [General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md)
 
@@ -573,7 +573,7 @@ Updated the Pass Plus email address to passplus@dvsa.gov.uk
 
 New section added.
 
-###  3 February 2016 published amendments
+### 3 February 2016 published amendments
 
 [Road users requiring extra care (204 to 225)](/pages/road-users-requiring-extra-care-204-to-225.md)
 
@@ -582,7 +582,7 @@ Updated Rule 209 to add an image of the school bus road sign.
 2015
 ----
 
-###  1 October 2015 published amendments
+### 1 October 2015 published amendments
 
 [Rules for cyclists (59 to 82)](/pages/rules-for-cyclists-59-to-82.md)
 
@@ -592,11 +592,19 @@ New section added.
 
 New section added.
 
+[General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md)
+
 1 October 2015: Updated rule 148 to include that you MUST NOT smoke in a private vehicle carrying under 18s.
+
+[General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md)
 
 6 April 2015: Updated the national speed limit for goods vehicles (of more than 7.5 tonnes maximum laden weight) in England and Wales on single carriageways from 40 miles per hour (mph) to 50mph, and on dual carriageways from 50mph to 60mph.
 
+[General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md)
+
 2 September 2014: Updated rule 147 about throwing things out of a vehicle from 'should not' to 'MUST NOT'.
+
+[General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md)
 
 2 April 2014: Changed 'Vehicle and Operator Services Agency (VOSA)' to 'Driver and Vehicle Standards Agency (DVSA)' in rule 107.
 
@@ -611,6 +619,8 @@ New section added.
 [Introduction](/pages/introduction.md)
 
 New section added.
+
+[Introduction](/pages/introduction.md)
 
 On GOV.UK, The Highway Code now includes a list of updates. All updates made after 1 October 2015 will show on this list as and when they’re made. These are the updates that were made between 1 January 2014 and 1 October 2015.
 
@@ -638,7 +648,11 @@ New section added.
 
 New section added.
 
+[Rules for drivers and motorcyclists (89 to 102)](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md)
+
 2 March 2015 : Updated rule 96 to reflect the change in law that you MUST NOT drive if you have illegal drugs or certain medicines in your blood above specified limits.
+
+[Rules for drivers and motorcyclists (89 to 102)](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md)
 
 5 December 2014: Updated rule 95 to reflect the change in law for lower drink drive limits in Scotland.
 
@@ -650,7 +664,11 @@ New section added.
 
 New section added.
 
+[Annex 3. Motor vehicle documentation and learner driver requirements](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md)
+
 8 June 2015: Removed references to needing a paper counterpart to the photocard driving licence.
+
+[Annex 3. Motor vehicle documentation and learner driver requirements](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md)
 
 1 October 2014: Removed references of needing to display a tax disc in vehicles following their abolition.
 
@@ -673,6 +691,8 @@ New section added.
 [Annex 5. Penalties](/pages/annex-5-penalties.md)
 
 New section added.
+
+[Annex 5. Penalties](/pages/annex-5-penalties.md)
 
 5 June 2015: Updated the penalty table to remove the £5,000 limit on fines for the most serious offences.
 
