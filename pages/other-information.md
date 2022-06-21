@@ -46,9 +46,9 @@ Further reading
 
 ### Best practice
 
-Further information about good driving and riding practice can be found in the Driver and Vehicle Standards Agency books [‘The Official DVSA Guide to Driving - the essential skills’](http://www.safedrivingforlife.info/shop/product/official-dvsa-guide-driving-essential-skills-book) and [‘The Official DVSA Guide to Riding - the essential skills’](http://www.safedrivingforlife.info/shop/product/official-dvsa-guide-riding-essential-skills-book-book).
+Further information about good driving and riding practice can be found in the Driver and Vehicle Standards Agency books [‘The Official DVSA Guide to Driving - the essential skills’](http://www.safedrivingforlife.info/shop/product/official-dvsa-guide-driving-essential-skills-book) and [‘The Official DVSA Guide to Riding - the essential skills’](https://www.safedrivingforlife.info/shop/official-dvsa-guide-riding-essential-skills/).
 
-Information specifically for drivers of large vehicles can be found in [‘The Official DVSA Guide to Driving Goods Vehicles’](http://www.safedrivingforlife.info/shop/product/official-dvsa-guide-driving-goods-vehicles-book-book) and [‘The Official DVSA Guide to Driving Buses and Coaches’](http://www.safedrivingforlife.info/shop/product/official-dvsa-guide-driving-buses-and-coaches-book-book).
+Information specifically for drivers of large vehicles can be found in [‘The Official DVSA Guide to Driving Goods Vehicles’](https://www.safedrivingforlife.info/shop/official-dvsa-guide-driving-goods-vehicles/).
 
 ### The Blue Badge Scheme
 
