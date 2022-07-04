@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Who The Highway Code is for, how it's worded, the consequences of not following the rules, and the hierarchy of road users (Rules H1 to H3).
+Who The Highway Code is for, how it's worded, the consequences of not following the rules, self-driving vehicles, and the hierarchy of road users (Rules H1 to H3).
 
 Introduction
 ------------
@@ -21,6 +21,31 @@ Knowing and applying the rules
 ------------------------------
 
 Knowing and applying the rules contained in The Highway Code could significantly reduce road casualties. Cutting the number of deaths and injuries that occur on our roads every day is a responsibility we all share. The Highway Code can help us discharge that responsibility. Further information on driving/riding techniques can be found in ‘[The Official DVSA Guide to Driving - the essential skills](https://www.safedrivingforlife.info/shop/official-dvsa-guide-driving-essential-skills/)’ and ‘[The Official DVSA Guide to Riding - the essential skills](https://www.safedrivingforlife.info/shop/official-dvsa-guide-riding-essential-skills/)’.
+
+Self-driving vehicles
+---------------------
+
+By ‘self-driving vehicles’, we mean those listed as automated vehicles by the Secretary of State for Transport under the [Automated and Electric Vehicles Act 2018](https://www.legislation.gov.uk/ukpga/2018/18/contents/enacted).
+
+To check if your vehicle is self-driving, visit [Self-driving vehicles listed for use in Great Britain](/guidance/self-driving-vehicles-listed-for-use-in-great-britain).
+
+These vehicles are capable of safely driving themselves when the self-driving function is correctly turned on and the driver follows the manufacturer’s instructions. While the vehicle is driving itself, you do not need to monitor it.
+
+Self-driving vehicles differ from vehicles that are fitted only with assisted driving features (like cruise control and lane-keeping assistance). Assisted driving features can do some of the driving, but the driver still needs to be responsible for driving at all times. If you are driving a vehicle using only its assisted driving features, [Rule 150](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-150) applies.
+
+A self-driving vehicle’s ability to drive itself may be limited to certain situations or parts of a journey. Things like the type of road, time of day, weather, location and speed may affect this. You should follow the manufacturer’s instructions about when and how to use the self-driving function safely.
+
+While a self-driving vehicle is driving itself in a valid situation, you are not responsible for how it drives. You may turn your attention away from the road and you may also view content through the vehicle’s built-in infotainment apparatus, if available.
+
+But you **MUST** still follow all relevant laws
+
+* You **MUST** be fit to drive (for example, you must be within the drink-drive legal limits and not be under the influence of drugs). See [Rules 90 to 96](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-90).
+* The vehicle **MUST** be road legal (for example, it must have an MOT certificate, if applicable, and it must be taxed and insured). The vehicle must be roadworthy (see [Rules 89](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-89) and [97](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-97); and [Annexes 3](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md) and [6](/pages/annex-6-vehicle-maintenance-safety-and-security.md)). You will also still be responsible for your passengers and anything else you are carrying (see [Rules 98 to 102](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-98)).
+* You **MUST NOT** do anything illegal – like using a handheld mobile phone, or similar hand-held device. There are exceptions to this, which are set out in [Rule 149](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-149).
+
+If a self-driving vehicle needs to hand control back to the driver, it will give you enough warning to do this safely. You **MUST** always be able and ready to take control, and do it when the vehicle prompts you. For example, you should stay in the driving seat and stay awake. When you have taken back control or turned off the self-driving function, you are responsible for all aspects of driving.
+
+**Laws [RTA sects 2](http://www.legislation.gov.uk/ukpga/1988/52/section/2), [3](http://www.legislation.gov.uk/ukpga/1988/52/section/3), [4](http://www.legislation.gov.uk/ukpga/1988/52/section/4), [5](http://www.legislation.gov.uk/ukpga/1988/52/section/5), [5A](https://www.legislation.gov.uk/ukpga/1988/52/section/5A), [14](https://www.legislation.gov.uk/ukpga/1988/52/section/14) & [15](https://www.legislation.gov.uk/ukpga/1988/52/section/15), [AEVA section 1](https://www.legislation.gov.uk/ukpga/2018/18/section/1) & [CUR regs 100](https://www.legislation.gov.uk/uksi/1986/1078/regulation/100/), [104](https://www.legislation.gov.uk/uksi/1986/1078/regulation/104/), [109](https://www.legislation.gov.uk/uksi/1986/1078/regulation/109/) (as modified by the [Road Vehicles (Construction and Use) (Automated Vehicles) Order 2022)](https://www.legislation.gov.uk/uksi/2022/470) & [110 as amended by CUR(A)(No.2 Regulations 2022)](https://www.legislation.gov.uk/uksi/2022/81/regulation/3/made#regulation-3-1-b)**
 
 Hierarchy of Road Users
 -----------------------
