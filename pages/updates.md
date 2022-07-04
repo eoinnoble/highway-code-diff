@@ -4,6 +4,12 @@ Updates: The Highway Code
 2022
 ----
 
+### 1 July 2022 published amendments
+
+[Introduction](/pages/introduction.md)
+
+Added a new section about the ‘self-driving vehicles’.
+
 ### 25 March 2022 published amendments
 
 [General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md)
