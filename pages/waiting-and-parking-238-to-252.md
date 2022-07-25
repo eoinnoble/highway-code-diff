@@ -47,7 +47,7 @@ Rule 239: Check before opening your door
 You **MUST NOT** stop or park on
 
 * the carriageway, an emergency area or a hard shoulder of a motorway except in an emergency (see [Rules 270](/pages/motorways-253-to-273.md#rule-270) and [271](/pages/motorways-253-to-273.md#rule-271))
-* a pedestrian crossing, including the area marked by the zig-zag lines (see [Rule 191](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-91)
+* a pedestrian crossing, including the area marked by the zig-zag lines (see [Rule 191](/pages/using-the-road-159-to-203.md#rule-191))
 * a clearway (see [Traffic signs](/pages/traffic-signs.md))
 * taxi bays as indicated by upright signs and markings
 * an urban clearway within its hours of operation, except to pick up or set down passengers (see [Traffic signs](/pages/traffic-signs.md))
