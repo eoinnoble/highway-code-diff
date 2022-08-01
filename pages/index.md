@@ -17,6 +17,7 @@ A
 	+ Animals on motorways [rule 253](/pages/motorways-253-to-273.md#rule-253) and [rule 277](/pages/breakdowns-and-incidents-274-to-287.md#rule-277)
 * Arm signals - [rule 53](/pages/rules-about-animals-47-to-58.md#rule-53), [rule 55](/pages/rules-about-animals-47-to-58.md#rule-55), [rule 67](/pages/rules-for-cyclists-59-to-82.md#rule-67), [rule 74](/pages/rules-for-cyclists-59-to-82.md#rule-74), [rule 103](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-103) and [signals to other road users](/pages/signals-to-other-road-users.md)
 * Attitude [rule 147](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-149)
+* Automated vehicles [Self-driving vehicles](/pages/introduction.md#self-driving-vehicles)
 
 B
 -
@@ -601,6 +602,7 @@ S
 	+ pole positions [School crossing patrols](/pages/signals-by-authorised-persons.md)
 * Seat belts [rules 99 to 100](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-99), [rule 102](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-102) and [Vehicle maintenance, safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md)
 * Security of vehicles [rule 239](/pages/waiting-and-parking-238-to-252.md#rule-239) and [Vehicle maintenance, safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md)
+* [Self-driving vehicles](/pages/introduction.md#self-driving-vehicles)
 * Separation distance
 	+ cyclists [rule 160](/pages/using-the-road-159-to-203.md#rule-160), [rule 163](/pages/using-the-road-159-to-203.md#rule-163) and [rule 212](/pages/road-users-requiring-extra-care-204-to-225.md#rule-212)
 	+ fog [rule 235](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-235)
@@ -747,6 +749,10 @@ V
 * Vehicle security [rule 239](/pages/waiting-and-parking-238-to-252.md#rule-239) and [Vehicle maintenance, safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md)
 * [Vehicle tax](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md)
 * [Vehicle Test Certificate (MOT)](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md)
+* Vehicles
+	+ [automated](/pages/introduction.md#self-driving-vehicles)
+	+ [self-driving](/pages/introduction.md#self-driving-vehicles)
+	+ [special types](/pages/other-information.md#special-types-of-vehicles)
 * Visibility/view [rule 94](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md#rule-94), [rules 159 to 160](/pages/using-the-road-159-to-203.md#rule-159), [rules 162 to 164](/pages/using-the-road-159-to-203.md#rule-162), [rule 229](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-229) and [rule 276](/pages/breakdowns-and-incidents-274-to-287.md#rule-276)
 	+ fog [rule 226](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-226), [rule 234](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-234) and [rule 236](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-236)
 	+ junctions [rule 88](/pages/rules-for-motorcyclists-83-to-88.md#rule-88), [rule 170](/pages/using-the-road-159-to-203.md#rule-170) and [rule 211](/pages/road-users-requiring-extra-care-204-to-225.md#rule-211)
