@@ -4,6 +4,20 @@ Updates: The Highway Code
 2022
 ----
 
+### 27 July 2022 published amendments
+
+[Annex 4. The road user and the law](/pages/annex-4-the-road-user-and-the-law.md)
+
+Replaced Powers of Criminal Courts (Sentencing) Act 2000 with the Sentencing Act 2020 in the list of acts and regulations from 1988 onwards.
+
+[Annex 5. Penalties](/pages/annex-5-penalties.md)
+
+Updated the penalties for causing death by dangerous driving and causing death by careless driving under the influence of drink or drugs. Updated the legislative reference for other consequences of offending.
+
+[Index](/pages/index.md)
+
+Added entries for automated vehicles and self-driving vehicles.
+
 ### 1 July 2022 published amendments
 
 [Introduction](/pages/introduction.md)

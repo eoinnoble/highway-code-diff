@@ -34,9 +34,9 @@ Penalty table
 
 | Offence | Maximum penalty | Penalty points |
 | --- | --- | --- |
-| \*Causing death by dangerous driving | 14 years’ imprisonment / Unlimited fine / Obligatory disqualification (minimum 2 years) | 3 to 11 (if exceptionally not disqualified) |
-| \*Dangerous driving | 2 years’ imprisonment / Unlimited fine / Obligatory disqualification | 3 to 11 (if exceptionally not disqualified) |
-| \*Causing death by careless driving under the influence of drink or drugs | 14 years’ imprisonment / Unlimited fine / Obligatory disqualification (minimum 2 years) | 3 to 11 (if exceptionally not disqualified) |
+| Causing death by dangerous driving | Life imprisonment / Unlimited fine / Obligatory - 5 years minimum | 3 to 11 (if exceptionally not disqualified) |
+| Dangerous driving | 2 years’ imprisonment / Unlimited fine / Obligatory disqualification | 3 to 11 (if exceptionally not disqualified) |
+| Causing death by careless driving under the influence of drink or drugs | Life imprisonment / Unlimited fine / Obligatory - 5 years minimum | 3 to 11 (if exceptionally not disqualified) |
 | Careless and inconsiderate driving | Unlimited fine / Discretionary disqualification | 3 to 9 |
 | Driving while unfit through drink or drugs or with excess alcohol: or failing to provide a specimen for analysis | 6 months’ imprisonment / Unlimited fine / Obligatory disqualification | 3 to 11 (if exceptionally not disqualified) |
 | Failing to stop after an accident or failing to report an accident | 6 months’ imprisonment / Unlimited fine / Discretionary disqualification | 5 to 10 |
@@ -54,7 +54,7 @@ Penalty table
 | Dangerous cycling | £2,500 fine | - |
 | Careless cycling | £1,000 fine | - |
 | Cycling on pavement | £500 fine | - |
-| Failing to identify driver of vehicle | £1,000 fine / Discretionary disqualification | - |
+| Failing to identify driver of vehicle | £1,000 fine / Discretionary disqualification | 6 |
 
 \*Where a court disqualifies a person on conviction for one of these offences, it must order an extended retest. The courts also have discretion to order a retest for any other offence which carries penalty points, an extended retest where disqualification is obligatory, and an ordinary test where disqualification is not obligatory.
 
@@ -82,7 +82,7 @@ Other consequences of offending
 
 Where an offence is punishable by imprisonment then the vehicle used to commit the offence may be confiscated.
 
-**Law [PCC(S)A sect 143](http://www.legislation.gov.uk/ukpga/2000/6/section/143/made)**
+**Law [SA sects 152](https://www.legislation.gov.uk/ukpga/2020/17/section/152), [153](https://www.legislation.gov.uk/ukpga/2020/17/section/153), [154](https://www.legislation.gov.uk/ukpga/2020/17/section/154) & [155](https://www.legislation.gov.uk/ukpga/2020/17/section/155)**
 
 In addition to the penalties a court may decide to impose, the cost of insurance is likely to rise considerably following conviction for a serious driving offence. This is because insurance companies consider such drivers are more likely to be involved in a collision.
 

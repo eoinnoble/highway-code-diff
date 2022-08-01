@@ -63,7 +63,7 @@ If you can’t
 you should
 
 * stay in your vehicle
-* keep your seatbelts and hazard warning lights on
+* keep your seat belts and hazard warning lights on
 * call 999 immediately and ask for the police. Alternatively, press your SOS button if your vehicle has one and ask for the police.
 
 * put on high-visibility clothing if you have it and it is within easy reach

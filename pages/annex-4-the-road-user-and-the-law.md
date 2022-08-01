@@ -50,11 +50,10 @@ Acts and regulations from 1988 onwards
 | [Motor Vehicles (Driving Licences) Regulations 1999](http://www.legislation.gov.uk/uksi/1999/2864/contents/made) | MV(DL)R |
 | [Motor Vehicles (Variation of Speed Limits) (England & Wales) Regulations 2014](http://www.legislation.gov.uk/uksi/2014/3552/contents/made) | MV(VSL)(E&W) |
 | [Motor Vehicles (Wearing of Seat Belts) Regulations 1993](http://www.legislation.gov.uk/uksi/1993/176/contents/made) | MV(WSB)R |
-| [Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations 2006](http://www.legislation.gov.uk/uksi/2006/1892/contents/made) | MV(WSB)(A)R |
+| [Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations 2005](https://www.legislation.gov.uk/uksi/2005/27/contents/made) or [2006](http://www.legislation.gov.uk/uksi/2006/1892/contents/made) (as applicable) | MV(WSB)(A)R |
 | [Motor Vehicles (Wearing of Seat Belts by Children in Front Seats) Regulations 1993](http://www.legislation.gov.uk/uksi/1993/31/contents/made) | MV(WSBCFS)R |
 | [New Roads and Streetworks Act 1991](http://www.legislation.gov.uk/ukpga/1991/22/contents/made) | NRSWA |
 | [Pedal Cycles (Construction & Use) Regulations 1983](http://www.legislation.gov.uk/uksi/1983/1176/made) | PCUR |
-| [Powers of Criminal Courts (Sentencing) Act 2000](http://www.legislation.gov.uk/ukpga/2000/6/contents/made) | PCC(S)A |
 | [Police Reform Act 2002](http://www.legislation.gov.uk/ukpga/2002/30/contents) | PRA |
 | [Private Crossings (Signs and Barriers) Regulations](https://www.legislation.gov.uk/uksi/1996/1786/contents/made) | PC(SB)R |
 | [Prohibition of Smoking in Certain Premises (Scotland) Regulations 2006. Scottish SI 2006/No 90](http://www.legislation.gov.uk/ssi/2006/90/contents/made) | TPSCP(S)R\* |
@@ -67,6 +66,7 @@ Acts and regulations from 1988 onwards
 | [Road Vehicles (Display of Registration Marks) Regulations 2001](http://www.legislation.gov.uk/uksi/2001/561/contents/made) | RV(DRM)R |
 | [Road Vehicles Lighting Regulations 1989](http://www.legislation.gov.uk/uksi/1989/1796/contents/made) | RVLR |
 | [Road Vehicles (Registration & Licensing) Regulations 2002](http://www.legislation.gov.uk/uksi/2002/2742/contents/made) | RV(R&L)R |
+| [Sentencing Act 2020](https://www.legislation.gov.uk/ukpga/2020/17/contents) | SA |
 | [Smoke-free (Exemptions and Vehicles) Regulations 2007 SI 2007/765](http://www.legislation.gov.uk/uksi/2007/765/contents/made) | TSf(EV)\* |
 | [Smoke-free Premises etc (Wales) Regulations 2007 SI 2007/W787](http://www.legislation.gov.uk/wsi/2007/787/contents/made) | TSfP(W)R\* |
 | [Smoke-free (Private Vehicles) Regulations 2015](http://www.legislation.gov.uk/ukdsi/2015/9780111126004/contents) | S-f(PV)R |
