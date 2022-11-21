@@ -74,8 +74,6 @@ Temporary maximum speed advised
 
 End of restriction
 
-You **MUST NOT** enter or proceed in the left lane, temporary mandatory maximum speed limit and information message
-
 Lane control signals
 --------------------
 

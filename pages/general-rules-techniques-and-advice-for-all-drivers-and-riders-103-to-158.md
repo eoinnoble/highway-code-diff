@@ -173,7 +173,7 @@ Rule 119: Rear of the car skids to the right. Driver steers to the right
 
 ### Rule 123
 
-**The Driver and the Environment.** You **MUST NOT** leave a parked vehicle unattended with the engine running or leave a vehicle engine running unnecessarily while that vehicle is stationary on a public road. Generally, if the vehicle is stationary and is likely to remain so for more than a couple of minutes, you should apply the parking brake and switch off the engine to reduce emissions and noise pollution. However it is permissible to leave the engine running if the vehicle is stationary in traffic or for diagnosing faults.
+**The driver and the environment.** You **MUST NOT** leave a parked vehicle unattended with the engine running or leave a vehicle engine running unnecessarily while that vehicle is stationary on a public road. Generally, if the vehicle is stationary and is likely to remain so for more than a couple of minutes, you should apply the parking brake and switch off the engine to reduce emissions and noise pollution. However it is permissible to leave the engine running if the vehicle is stationary in traffic or for diagnosing faults.
 
 **Law [CUR regs 98](http://www.legislation.gov.uk/uksi/1986/1078/regulation/98/made) & [107](http://www.legislation.gov.uk/uksi/1986/1078/regulation/107/made)**
 
