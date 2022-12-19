@@ -22,7 +22,7 @@ Wet weather (rule 227)
 * you should keep well back from the vehicle in front. This will increase your ability to see and plan ahead
 * if the steering becomes unresponsive, it probably means that water is preventing the tyres from gripping the road. Ease off the accelerator and slow down gradually
 * the rain and spray from vehicles may make it difficult to see and be seen
-* be aware of the dangers of spilt diesel that will make the surface very slippery (see [Annex 6: Vehicle maintenance, safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md))
+* be aware of the dangers of spilt diesel that will make the surface very slippery (see [Vehicle maintenance, safety and security](/pages/annex-6-vehicle-maintenance-safety-and-security.md))
 * take extra care around pedestrians, cyclists, motorcyclists and horse riders.
 
 Icy and snowy weather (rules 228 to 231)

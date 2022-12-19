@@ -80,8 +80,8 @@ Before setting off (rule 97)
 
 **Before setting off.** You **MUST** ensure that
 
-* you have a valid licence and insurance to drive the vehicle you intend to use (see [Annex 3](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md))
-* your vehicle is legal and roadworthy (see [Annexes 3](https://www.gov.uk/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md) and [6](https://www.gov.uk/guidance/the-highway-code/annex-6-vehicle-maintenance-safety-and-security) for important vehicle maintenance and safety checks).
+* you have a valid licence and insurance to drive the vehicle you intend to use (see [Motor vehicle documentation and learner driver requirements](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md))
+* your vehicle is legal and roadworthy (see [Motor vehicle documentation and learner driver requirements](https://www.gov.uk/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md) and [Vehicle maintenance, safety and security](https://www.gov.uk/guidance/the-highway-code/annex-6-vehicle-maintenance-safety-and-security) for important vehicle maintenance and safety checks).
 
 You **SHOULD** ensure that
 
