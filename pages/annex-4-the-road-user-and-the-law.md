@@ -83,6 +83,6 @@ Acts and regulations from 1988 onwards
 
 For information, visit:
 
-* <www.smokefreeengland.co.uk>
-* <www.ashscotland.org.uk/go-smoke-free>
-* <www.gov.wales/smoking>
+* [www.smokefreeengland.co.uk](https://www.smokefreeengland.co.uk)
+* [www.ashscotland.org.uk](https://www.ashscotland.org.uk)
+* [www.gov.wales/smoking](https://www.gov.wales/smoking)

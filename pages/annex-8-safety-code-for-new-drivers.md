@@ -15,7 +15,7 @@ The safety code
 * Make sure everyone in the car is wearing a seat belt throughout the journey.
 * Keep your speed down - many serious collisions happen because the driver loses control, particularly on bends.
 * Most new drivers have no experience of driving high-powered or sporty cars. Unless you have learnt to drive in such a vehicle you need to get plenty of experience driving on your own before driving a more powerful car.
-* Driving while uninsured is an offence. See [Annex 3](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md) for information on types of insurance cover.
+* Driving while uninsured is an offence. See [Motor vehicle documentation and learner driver requirements](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md) for information on types of insurance cover.
 
 New Drivers Act
 ---------------
@@ -28,5 +28,4 @@ Further training
 You could consider taking further training such as Pass Plus, which could also save you money on your insurance, as well as helping you reduce your risk of being involved in a collision. There are three ways to find out more:
 
 * internet - [www.gov.uk](https://www.gov.uk/pass-plus)
-* telephone 0115 936 6504
 * email - [passplus@dvsa.gov.uk](mailto:passplus@dvsa.gov.uk)

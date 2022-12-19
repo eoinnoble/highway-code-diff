@@ -160,7 +160,7 @@ The right-hand lane of a motorway with three or more lanes **MUST NOT** be used 
 
 **Approaching a junction.** Look well ahead for signals, signs and road markings. Direction signs may be placed over the road. If you need to, you should change lanes well ahead of a junction. At some junctions, a lane may lead directly off the road. Only get in that lane if you wish to go in the direction indicated by signs or road markings.
 
-Overtaking (rules 267 to 269)
+Overtaking (rules 267 to 268)
 -----------------------------
 
 ### Rule 267
@@ -178,6 +178,9 @@ Do not overtake unless you are sure it is safe and legal to do so. Overtake only
 ### Rule 268
 
 Do not overtake on the left or move to a lane on your left to overtake. In congested conditions, where adjacent lanes of traffic are moving at similar speeds, traffic in left-hand lanes may sometimes be moving faster than traffic to the right. In these conditions you may keep up with the traffic in your lane even if this means passing traffic in the lane to your right. Do not weave in and out of lanes to overtake.
+
+Hard shoulder (rule 269)
+------------------------
 
 ### Rule 269
 

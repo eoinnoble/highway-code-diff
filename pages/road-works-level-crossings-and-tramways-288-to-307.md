@@ -11,11 +11,11 @@ Road works (rule 288)
 When the ‘Road Works Ahead’ sign is displayed, take extra care and look for additional signs providing more specific instructions. Observe all signs – they are there for your safety and the safety of road workers.
 
 * You **MUST NOT** exceed any temporary maximum speed limit.
-* Keep a safe distance from the vehicle in front (see Rule 126).
+* Keep a safe distance from the vehicle in front (see [Rule 126](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-126)).
 * Use your mirrors and get into the correct lane for your vehicle in good time and as signs direct.
 * Do not switch lanes to overtake queuing traffic.
 * Take extra care near cyclists and motorcyclists as they are vulnerable to skidding on grit, mud or other debris at road works.
-* Where lanes are restricted due to road works, merge in turn (see Rule 134).
+* Where lanes are restricted due to road works, merge in turn (see [Rule 134](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-134)).
 * Do not drive through an area marked off by traffic cones.
 * Watch out for vehicles entering or leaving the works area. Where vehicles are travelling in the road and are displaying amber warning lights, leave extra space and expect them to slow or turn into a works area.
 * Concentrate on the road ahead, not the road works.
@@ -31,8 +31,8 @@ Additional rules for high-speed roads (rules 289 to 290)
 Take special care on motorways and other high-speed dual carriageways.
 
 * Lanes may be closed to traffic and a lower speed limit may apply.
-* Works vehicles may be used to close lanes or carriageways for repairs. Where large ‘Keep Left’ or ‘Keep Right’ signs are displayed on the back, you MUST move over and pass the works vehicle on the side indicated and not return to the closed lane until you can see it is safe to do so.
-* Where a vehicle displays the sign ‘CONVOY VEHICLE NO OVERTAKING’, you MUST NOT pass the vehicle. A flashing light arrow or red ‘X’ may also be used to make the works vehicle more visible from a distance and give earlier warning to drivers.
+* Works vehicles may be used to close lanes or carriageways for repairs. Where large ‘Keep Left’ or ‘Keep Right’ signs are displayed on the back, you **MUST** move over and pass the works vehicle on the side indicated and not return to the closed lane until you can see it is safe to do so.
+* Where a vehicle displays the sign ‘CONVOY VEHICLE NO OVERTAKING’, you **MUST NOT** pass the vehicle. A flashing light arrow or red ‘X’ may also be used to make the works vehicle more visible from a distance and give earlier warning to drivers.
 
 **Laws [RTA 1988 sect 36](https://www.legislation.gov.uk/ukpga/1988/52/section/36/), [TSRGD reg 3](https://www.legislation.gov.uk/uksi/2002/3113/regulation/3/made) and [sched 13](https://www.legislation.gov.uk/uksi/2002/3113/schedule/13/made)**
 

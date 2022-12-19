@@ -163,7 +163,7 @@ If you are involved in an incident or collision or stop to give assistance
 * move uninjured people away from the vehicles to a place of relative safety (see [Rule 275](/pages/breakdowns-and-incidents-274-to-287.md#rule-275))
 * **DO NOT** move injured people from their vehicles unless they are in immediate danger
 * **DO NOT** remove a motorcyclist’s helmet unless it is essential and you are trained to do so
-* be prepared to give first aid (see [Annex 7](/pages/annex-7-first-aid-on-the-road.md) and [Useful websites](/pages/other-information.md#websites))
+* be prepared to give first aid (see [First aid on the road](/pages/annex-7-first-aid-on-the-road.md) and [Useful websites](/pages/other-information.md#websites))
 * stay at the scene until the emergency services arrive
 * be prepared to exchange details (see [Rule 286](/pages/breakdowns-and-incidents-274-to-287.md#rule-286)).
 

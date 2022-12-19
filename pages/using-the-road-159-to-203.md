@@ -357,7 +357,7 @@ Pedestrian crossings (rules 191 to 199)
 
 You **MUST NOT** park on a crossing or in the area covered by the zig-zag lines. You **MUST NOT** overtake the moving vehicle nearest the crossing or the vehicle nearest the crossing which has stopped to give way to pedestrians.
 
-**Laws [RTRA sect 25(5)](https://www.legislation.gov.uk/ukpga/1984/27/section/25) & [TSRGD schedule 14 parts 1 and 5](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
+**Laws [RTRA sect 25(5)](https://www.legislation.gov.uk/ukpga/1984/27/section/25) & [TSRGD schedule 14 parts 1 and 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
 ### Rule 192
 
