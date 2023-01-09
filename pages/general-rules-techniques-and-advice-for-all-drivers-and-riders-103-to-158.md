@@ -263,11 +263,11 @@ See ‘[Road markings](/pages/road-markings.md)’ to see diagrams of all lines.
 
 ### Rule 128
 
-**Double white lines where the line nearest to you is broken.** This means you may cross the lines to overtake if it is safe, provided you can complete the manoeuvre before reaching a solid white line on your side. White direction arrows on the road indicate that you need to get back onto your side of the road.
+**Double white lines where the line nearer to you is broken.** This means you may cross the lines to overtake if it is safe, provided you can complete the manoeuvre before reaching a solid white line on your side. White direction arrows on the road indicate that you need to get back onto your side of the road.
 
 ### Rule 129
 
-**Double white lines where the line nearest you is solid.** This means you **MUST NOT** cross or straddle it unless it is safe and you need to enter adjoining premises or a side road. You may cross the line if necessary, provided the road is clear, to pass a stationary vehicle, or overtake a pedal cycle, horse or road maintenance vehicle, if they are travelling at 10 mph (16 km/h) or less.
+**Double white lines where the line nearer to you is solid.** This means you **MUST NOT** cross or straddle it unless it is safe and you need to enter adjoining premises or a side road. You may cross the line if necessary, provided the road is clear, to pass a stationary vehicle, or overtake a pedal cycle, horse or road maintenance vehicle, if they are travelling at 10 mph (16 km/h) or less.
 
 **Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 part 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
 

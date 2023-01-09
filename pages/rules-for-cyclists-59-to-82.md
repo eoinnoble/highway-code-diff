@@ -5,7 +5,7 @@ Rules for cyclists, including an overview, road junctions, roundabouts and cross
 
 These rules are in addition to those in the following sections, which apply to all vehicles (except the [motorway section](/pages/motorways-253-to-273.md)). See also [You and your bicycle](/pages/annex-1-you-and-your-bicycle.md).
 
-Overview (rules 59 to 71)
+Overview (rules 59 to 72)
 -------------------------
 
 ### Rule 59
@@ -112,9 +112,6 @@ Some junctions have an advanced stop line to enable you to position yourself ahe
 
 **Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD Schedule 14 part 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
-Road junctions (rules 72 to 75)
--------------------------------
-
 ### Rule 72
 
 **Road positioning.** When riding on the roads, there are two basic road positions you should adopt, depending on the situation.
@@ -126,6 +123,9 @@ Road junctions (rules 72 to 75)
 * at the approach to junctions or road narrowings where it would be unsafe for drivers to overtake you
 
 2) When riding on busy roads, with vehicles moving faster than you, allow them to overtake where it is safe to do so whilst keeping at least 0.5 metres away, and further where it is safer, from the kerb edge. Remember that traffic on most dual carriageways moves quickly. Take extra care crossing slip roads.
+
+Road junctions (rules 73 to 77)
+-------------------------------
 
 ### Rule 73
 
@@ -151,9 +151,6 @@ Stage 1: When the traffic lights turn green, cyclists wishing to make the turn s
 
 Stage 2: When the traffic lights on the far side of the junction, now facing the cyclists, turn green, they should then complete the manoeuvre
 
-Roundabouts (rules 76 to 80)
-----------------------------
-
 ### Rule 76
 
 **Going straight ahead.** If you are going straight ahead at a junction, you have priority over traffic waiting to turn into or out of the side road, unless road signs or markings indicate otherwise (see [Rule H3](/pages/introduction.md#rule-h3)). Check that you can proceed safely, particularly when approaching junctions on the left alongside stationary or slow-moving traffic. Watch out for drivers intending to turn across your path. Remember the driver ahead may not be able to see you, so bear in mind your speed and position in the road.
@@ -167,6 +164,9 @@ Take great care when deciding whether it is safe to pass stationary or slow-movi
 * dismount and push your cycle across
 * wait for a safe gap in the traffic before doing so, especially on faster roads and dual carriageways
 * make use of traffic islands or central reservations to help you where appropriate.
+
+Roundabouts (rules 78 to 80)
+----------------------------
 
 ### Rule 78
 
