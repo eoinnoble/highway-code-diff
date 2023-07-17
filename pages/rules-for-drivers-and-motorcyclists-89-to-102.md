@@ -148,11 +148,11 @@ You **MUST** wear a seat belt in cars, vans and other goods vehicles if one is f
 
 |  | Front seat | Rear seat | Who is responsible? |
 | --- | --- | --- | --- |
-| **Driver** | Seat belt **MUST** be worn if fitted | - | **Driver** |
-| **Child** under 3 years of age | Correct child restraint **MUST** be used | Correct child restraint **MUST** be used. If one is not available in a taxi, may travel unrestrained. | **Driver** |
-| **Child** from 3rd birthday up to 1.35 metres in height (or 12th birthday, whichever they reach first) | Correct child restraint **MUST** be used | Correct child restraint **MUST** be used where seat belts fitted. **MUST** use adult belt if correct child restraint is not available in a licensed taxi or private hire vehicle, or for reasons of unexpected necessity over a short distance, or if two occupied restraints prevent fitment of a third. | **Driver** |
-| **Child** over 1.35 metres (approx 4ft 5ins) in height or 12 or 13 years | Seat belt **MUST** be worn if available | Seat belt **MUST** be worn if available | **Driver** |
-| **Adult** passengers aged 14 and over | Seat belt **MUST** be worn if available | Seat belt **MUST** be worn if available | **Passenger** |
+| Driver | Seat belt **MUST** be worn if fitted | - | **Driver** |
+| Child under 3 years of age | Correct child restraint **MUST** be used | Correct child restraint **MUST** be used. If one is not available in a taxi, may travel unrestrained. | **Driver** |
+| Child from 3rd birthday up to 1.35 metres in height (or 12th birthday, whichever they reach first) | Correct child restraint **MUST** be used | Correct child restraint **MUST** be used where seat belts fitted. **MUST** use adult belt if correct child restraint is not available in a licensed taxi or private hire vehicle, or for reasons of unexpected necessity over a short distance, or if two occupied restraints prevent fitment of a third. | **Driver** |
+| Child over 1.35 metres (approx 4ft 5ins) in height or 12 or 13 years | Seat belt **MUST** be worn if available | Seat belt **MUST** be worn if available | **Driver** |
+| Adult passengers aged 14 and over | Seat belt **MUST** be worn if available | Seat belt **MUST** be worn if available | **Passenger** |
 
 ### Rule 100
 
