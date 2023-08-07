@@ -1,5 +1,5 @@
 Rules for users of powered wheelchairs and mobility scooters (36 to 46)
-=======================================================================
+=========================================================================
 
 Rules for powered wheelchairs and mobility scooters, including on pavements and on the road.
 

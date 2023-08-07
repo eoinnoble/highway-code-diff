@@ -1,5 +1,5 @@
 Signals by authorised persons
-=============================
+===============================
 
 Signals used by authorised persons, including police officers, arm signals to persons controlling traffic, Driver and Vehicle Standards Agency officers and traffic officers and school crossing patrols.
 

@@ -1,8 +1,8 @@
 Updates: The Highway Code
-=========================
+===========================
 
-2022
-----
+ 2022
+------
 
 ### 27 July 2022 published amendments
 
@@ -172,8 +172,8 @@ Added information about daily walkaround checks for commercial vehicles.
 
 Updated references to reflect all the changes made to The Highway Code on 29 January 2022.
 
-2021
-----
+ 2021
+------
 
 ### 14 September 2021 published amendments
 
@@ -475,8 +475,8 @@ Additional references to ensure that readers understand where to find informatio
 
 Updated the vehicle maintenance section to add information about the ages of tyres allowed to be used on goods vehicles with a maximum gross weight of more than 3.5 tonnes and passenger vehicles with more than 8 passenger seats.
 
-2019
-----
+ 2019
+------
 
 ### 20 August 2019 published amendments
 
@@ -496,8 +496,8 @@ Updated rule 258 to clarify that if red lights flash on a signal and a red “X�
 
 Updated rule 160 to make it clear that you should ride with both hands on the handlebars where possible.
 
-2018
-----
+ 2018
+------
 
 ### 30 November 2018 published amendments
 
@@ -557,8 +557,8 @@ Updated the rule about vehicles that need an MOT, as cars, vans, motorcycles and
 
 Update rule 108 to make it clear that traffic officers have powers to stop vehicles on most motorways and some ‘A’ class roads in both England and Wales - not just England.
 
-2017
-----
+ 2017
+------
 
 ### 28 July 2017 published amendments
 
@@ -572,8 +572,8 @@ Updated the guidance on providing emergency care with the help of St John Ambula
 
 Updated the penalty table to increase penalty points for using a hand-held mobile phone when driving from 3 to 6.
 
-2016
-----
+ 2016
+------
 
 ### 5 December 2016 published amendments
 
@@ -599,8 +599,8 @@ New section added.
 
 Updated Rule 209 to add an image of the school bus road sign.
 
-2015
-----
+ 2015
+------
 
 ### 1 October 2015 published amendments
 

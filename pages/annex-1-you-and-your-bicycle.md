@@ -1,10 +1,10 @@
 Annex 1. You and your bicycle
-=============================
+===============================
 
 Information and rules about you and your bicycle.
 
-You and your bicycle
---------------------
+ You and your bicycle
+----------------------
 
 Make sure that you feel confident of your ability to ride safely on the road. Be sure that
 

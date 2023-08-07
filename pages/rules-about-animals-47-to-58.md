@@ -1,5 +1,5 @@
 Rules about animals (47 to 58)
-==============================
+================================
 
 Rules about animals, including horse-drawn vehicles, horse riders and other animals.
 

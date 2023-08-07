@@ -1,5 +1,5 @@
 Motorways (253 to 274)
-======================
+========================
 
 Rules for motorways, including rules for signals, joining the motorway, driving on the motorway, lane discipline, overtaking, stopping and leaving the motorway. A number of the rules for motorways also apply to other high-speed roads.
 
@@ -154,7 +154,7 @@ The right-hand lane of a motorway with three or more lanes **MUST NOT** be used 
 * a passenger vehicle with a maximum laden weight exceeding 7.5 tonnes constructed or adapted to carry more than eight seated passengers in addition to the driver
 * a passenger vehicle with a maximum laden weight not exceeding 7.5 tonnes which is constructed or adapted to carry more than eight seated passengers in addition to the driver, which is required to be fitted with a speed limiter.
 
-**Laws [MT(E&W)R reg 12](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [MT(E&W)(A)R](http://www.legislation.gov.uk/uksi/2004/3258/pdfs/uksi_20043258_en.pdf), [MT(S)R reg 11](http://www.legislation.gov.uk/uksi/1995/2507/regulation/11/made) & [MT(S)(A)R](http://www.legislation.gov.uk/ssi/2004/53/contents/made)**
+**Laws [MT(E&W)R reg 12](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [MT(E&W)(A)R](https://www.legislation.gov.uk/uksi/1982/1163/regulation/12), [MT(S)R reg 11](http://www.legislation.gov.uk/uksi/1995/2507/regulation/11/made) & [MT(S)(A)R](http://www.legislation.gov.uk/ssi/2004/53/contents/made)**
 
 ### Rule 266
 

@@ -1,5 +1,5 @@
 Annex 5. Penalties
-==================
+====================
 
 Information and rules about penalties, including points and disqualification, a penalty table, new drivers and other consequences of offending.
 

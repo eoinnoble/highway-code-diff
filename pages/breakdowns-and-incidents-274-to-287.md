@@ -1,5 +1,5 @@
 Breakdowns and incidents (275 to 287)
-=====================================
+=======================================
 
 Rules for breakdowns and incidents, including rules for motorways, obstructions, incidents, incidents involving dangerous goods and documents.
 
@@ -95,11 +95,11 @@ Rule 277: Keep well away from your vehicle and moving traffic
 
 **Communicating your location.** How to identify your location to the emergency services.
 
-|||
-| --- | --- |
-| **eCall**. Press the SOS button if your vehicle has one. | ![](../images/Rule_277c__1_.png) |
-| **App**. Use a mobile telephone mapping application. | ![](../images/Rule_277d__1_.png) |
-| **Marker post or driver location sign**. Quote the numbers and letters on marker posts or driver location signs which are located along the edge of the road. | ![](../images/Rule_277e-f.png) |
+| Method | What to do |  |
+| --- | --- | --- |
+| eCall | Press the SOS button if your vehicle has one. | ![](../images/Rule_277c__1_.png) |
+| App | Use a mobile telephone mapping application. | ![](../images/Rule_277d__1_.png) |
+| Marker post or driver location sign | Quote the numbers and letters on marker posts or driver location signs which are located along the edge of the road. | ![](../images/Rule_277e-f.png) |
 
 **Laws [MT(E&W)R reg 14](https://www.legislation.gov.uk/uksi/1982/1163/regulation/14/made) & [MT(S)R reg 12](https://www.legislation.gov.uk/uksi/1995/2507/regulation/12/made)**
 

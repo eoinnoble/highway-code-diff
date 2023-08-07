@@ -1,5 +1,5 @@
 Rules for pedestrians (1 to 35)
-===============================
+=================================
 
 Rules for pedestrians, including general guidance, crossing the road, crossings, and situations needing extra care.
 
