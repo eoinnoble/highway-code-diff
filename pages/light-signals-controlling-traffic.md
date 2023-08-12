@@ -1,5 +1,5 @@
 Light signals controlling traffic
-=================================
+===================================
 
 Light signals used to control traffic, including traffic light signals, flashing red lights, motorway signals and lane control signals.
 

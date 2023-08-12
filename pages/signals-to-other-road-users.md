@@ -1,5 +1,5 @@
 Signals to other road users
-===========================
+=============================
 
 Signals used to other road users, including direction indicator signals, brake light signals, reversing light signals and arm signals.
 

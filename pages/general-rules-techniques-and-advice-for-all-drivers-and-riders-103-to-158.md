@@ -1,5 +1,5 @@
 General rules, techniques and advice for all drivers and riders (103 to 158)
-============================================================================
+==============================================================================
 
 Signals, stopping procedures, lighting, control of the vehicle, speed limits, stopping distances, lines and lane markings and multi-lane carriageways, smoking, mobile phones and sat nav.
 
@@ -185,15 +185,15 @@ You **MUST NOT** exceed the maximum speed limits for the road and for your vehic
 
 | Speed Limits | Built-up areas | Single carriageways | Dual carriageways | Motorways |
 | --- | --- | --- | --- | --- |
-| **Type of vehicle** | mph (km/h) | mph (km/h) | mph (km/h) | mph (km/h) |
-| **Cars & motorcycles** (including car derived vans up to 2 tonnes maximum laden weight) | **30** (48) | **60** (96) | **70** (112) | **70** (112) |
-| **Cars towing caravans or trailers** (including car derived vans and motorcycles) | **30** (48) | **50** (80) | **60** (96) | **60** (96) |
-| **Motorhomes or motor caravans** (not exceeding 3.05 tonnes maximum unladen weight) | **30** (48) | **60** (96) | **70** (112) | **70** (112) |
-| **Motorhomes or motor caravans** (exceeding 3.05 tonnes maximum unladen weight) | **30** (48) | **50** (80) | **60** (96) | **70** (112) |
-| **Buses, coaches and minibuses** (not exceeding 12 metres in overall length) | **30** (48) | **50** (80) | **60** (96) | **70†** (112) |
-| **Goods vehicles** (not exceeding 7.5 tonnes maximum laden weight) | **30** (48) | **50** (80) | **60** (96) | **70††** (112) |
-| **Goods vehicles** (exceeding 7.5 tonnes maximum laden weight) in England and Wales | **30** (48) | **50** (80) | **60** (96) | **60** (96) |
-| **Goods vehicles** (exceeding 7.5 tonnes maximum laden weight) in Scotland | **30** (48) | **40** (64) | **50** (80) | **60** (96) |
+| Type of vehicle | mph (km/h) | mph (km/h) | mph (km/h) | mph (km/h) |
+| Cars & motorcycles (including car derived vans up to 2 tonnes maximum laden weight) | **30** (48) | **60** (96) | **70** (112) | **70** (112) |
+| Cars towing caravans or trailers (including car derived vans and motorcycles) | **30** (48) | **50** (80) | **60** (96) | **60** (96) |
+| Motorhomes or motor caravans (not exceeding 3.05 tonnes maximum unladen weight) | **30** (48) | **60** (96) | **70** (112) | **70** (112) |
+| Motorhomes or motor caravans (exceeding 3.05 tonnes maximum unladen weight) | **30** (48) | **50** (80) | **60** (96) | **70** (112) |
+| Buses, coaches and minibuses (not exceeding 12 metres in overall length) | **30** (48) | **50** (80) | **60** (96) | **70†** (112) |
+| Goods vehicles (not exceeding 7.5 tonnes maximum laden weight) | **30** (48) | **50** (80) | **60** (96) | **70††** (112) |
+| Goods vehicles (exceeding 7.5 tonnes maximum laden weight) in England and Wales | **30** (48) | **50** (80) | **60** (96) | **60** (96) |
+| Goods vehicles (exceeding 7.5 tonnes maximum laden weight) in Scotland | **30** (48) | **40** (64) | **50** (80) | **60** (96) |
 
 † 60 mph (96 km/h) if exceeding 12 metres in overall length.
 
