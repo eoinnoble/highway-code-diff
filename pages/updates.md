@@ -1,6 +1,19 @@
 Updates: The Highway Code
 ===========================
 
+ 2023
+------
+
+### 16 September 2023 published amendments
+
+[General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md)
+
+Updated rules 113 and 124 as the national speed limit for built-up areas in Wales has changed from 30mph to 20mph.
+
+[Annex 4. The road user and the law](/pages/annex-4-the-road-user-and-the-law.md)
+
+Added Restricted Roads (20mph Speed Limit) Order 2022 to the list of legislation.
+
  2022
 ------
 
