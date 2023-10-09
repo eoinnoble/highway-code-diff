@@ -35,7 +35,7 @@ There is a risk of pedestrians, especially children, stepping unexpectedly into 
 
 **[Law TSRGD schedule 14 Part 5](http://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
-![Rule 206: Watch out for children in busy areas](../images/the-highway-code-rule-206.jpg)
+![](../images/the-highway-code-rule-206.jpg)
 
 Rule 206: Watch out for children in busy areas
 
@@ -57,7 +57,7 @@ Rule 206: Watch out for children in busy areas
 
 Drive carefully and slowly when passing a stationary bus showing a ‘School Bus’ sign as children may be getting on or off.
 
-![School bus (displayed in front and rear window of bus or coach)](../images/other-school-bus.jpg)
+![](../images/other-school-bus.jpg)
 
 School bus (displayed in front and rear window of bus or coach)
 
@@ -78,7 +78,7 @@ Do not turn at a junction if to do so would cause the cyclist going straight ahe
 
 When turning right across a line of slow-moving or stationary traffic, look out for and give way to cyclists or motorcyclists on the inside of the traffic you are crossing. Be especially careful when moving off, turning, and when changing direction or lane. Be sure to check mirrors and blind spots carefully.
 
-![Rule 211: Look out for motorcyclists and cyclists at junctions](../images/the-highway-code-rule-211.jpg)
+![](../images/the-highway-code-rule-211.jpg)
 
 Rule 211: Look out for motorcyclists and cyclists at junctions
 
@@ -140,7 +140,7 @@ Other vehicles (rules 219 to 225)
 
 **Large vehicles.** These may need extra road space to turn or to deal with a hazard that you are not able to see. If you are following a large vehicle, such as a bus or articulated lorry, be aware that the driver may not be able to see you in the mirrors. Be prepared to stop and wait if it needs room or time to turn.
 
-![Rule 221: Large vehicles need extra room](../images/the-highway-code-rule-221.jpg)
+![](../images/the-highway-code-rule-221.jpg)
 
 Rule 221: Large vehicles need extra room
 
