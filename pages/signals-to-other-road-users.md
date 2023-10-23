@@ -8,11 +8,11 @@ Signals used to other road users, including direction indicator signals, brake l
 Direction indicator signals
 ---------------------------
 
-![I intend to move out to the right or turn right](../images/direction-indicator-signals-right.jpg)
+![](../images/direction-indicator-signals-right.jpg)
 
 I intend to move out to the right or turn right
 
-![I intend to move in to the left or turn left or stop on the left](../images/direction-indicator-signals-left.jpg)
+![](../images/direction-indicator-signals-left.jpg)
 
 I intend to move in to the left or turn left or stop on the left
 
@@ -21,7 +21,7 @@ I intend to move in to the left or turn left or stop on the left
 Brake light signals
 -------------------
 
-![I am applying the brakes](../images/brake-light-signals.jpg)
+![](../images/brake-light-signals.jpg)
 
 I am applying the brakes
 
@@ -30,7 +30,7 @@ I am applying the brakes
 Reversing light signals
 -----------------------
 
-![I intend to reverse](../images/reverse-light-signals.jpg)
+![](../images/reverse-light-signals.jpg)
 
 I intend to reverse
 
@@ -41,27 +41,27 @@ Arm signals
 
 For use when direction indicator signals are not used, or when necessary to reinforce direction indicator signals and stop lights. **Also for use by pedal cyclists and those in charge of horses.**
 
-![I intend to move in to the left or turn left](../images/car-arm-signal-turn-left.jpg)
+![](../images/car-arm-signal-turn-left.jpg)
 
 I intend to move in to the left or turn left
 
-![I intend to move out to the right or turn right](../images/car-arm-signal-turn-right.jpg)
+![](../images/car-arm-signal-turn-right.jpg)
 
 I intend to move out to the right or turn right
 
-![I intend to slow down or stop](../images/car-arm-signal-slow-stop.jpg)
+![](../images/car-arm-signal-slow-stop.jpg)
 
 I intend to slow down or stop
 
-![I intend to move in to the left or turn left](../images/bike-arm-signal-turn-left.jpg)
+![](../images/bike-arm-signal-turn-left.jpg)
 
 I intend to move in to the left or turn left
 
-![I intend to move out to the right or turn right](../images/bike-arm-signal-turn-right.jpg)
+![](../images/bike-arm-signal-turn-right.jpg)
 
 I intend to move out to the right or turn right
 
-![I intend to slow down or stop](../images/bike-arm-signal-slow-stop.jpg)
+![](../images/bike-arm-signal-slow-stop.jpg)
 
 I intend to slow down or stop
 
