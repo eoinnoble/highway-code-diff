@@ -1,6 +1,19 @@
 Updates: The Highway Code
 ===========================
 
+ 2023
+------
+
+### 17 September 2023 published amendments
+
+[General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md)
+
+Updated rules 113 and 124 as the national speed limit for built-up areas in Wales has changed from 30mph to 20mph.
+
+[Annex 4. The road user and the law](/pages/annex-4-the-road-user-and-the-law.md)
+
+Added Restricted Roads (20mph Speed Limit) Order 2022 to the list of legislation.
+
  2022
 ------
 
@@ -527,7 +540,7 @@ The change made to rule 160 on 3 June 2018 about using driver assistance systems
 
 The change made to rule 239 on 3 June 2018 about using remote control parking has not completed the statutory process to allow it to be included in The Highway Code. The change has been removed.
 
-### 3 June 2018 published amendments
+### 4 June 2018 published amendments
 
 [General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md)
 
@@ -545,7 +558,7 @@ Updated rule 239 with information about using a hand-held device to help you to 
 
 Updated rule 253 with information about provisional licence holders driving on the motorway if accompanied by an approved driving instructor in a car with dual controls.
 
-### 19 May 2018 published amendments
+### 20 May 2018 published amendments
 
 [Annex 3. Motor vehicle documentation and learner driver requirements](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md)
 
