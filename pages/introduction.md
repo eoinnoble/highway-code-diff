@@ -20,7 +20,7 @@ Although failure to comply with the other rules of the Code will not, in itself,
 Knowing and applying the rules
 ------------------------------
 
-Knowing and applying the rules contained in The Highway Code could significantly reduce road casualties. Cutting the number of deaths and injuries that occur on our roads every day is a responsibility we all share. The Highway Code can help us discharge that responsibility. Further information on driving/riding techniques can be found in ‘[The Official DVSA Guide to Driving - the essential skills](https://www.safedrivingforlife.info/shop/official-dvsa-guide-driving-essential-skills/)’ and ‘[The Official DVSA Guide to Riding - the essential skills](https://www.safedrivingforlife.info/shop/official-dvsa-guide-riding-essential-skills/)’.
+Knowing and applying the rules contained in The Highway Code could significantly reduce road casualties. Cutting the number of deaths and injuries that occur on our roads every day is a responsibility we all share. The Highway Code can help us discharge that responsibility. Further information on driving/riding techniques can be found in ‘[The Official DVSA Guide to Driving - the essential skills](https://www.safedrivingforlife.info/shop/official-dvsa-guide-driving-essential-skills/?utm_source=gov.uk&utm_medium=website&utm_campaign=highway-code&utm_content=introduction)’ and ‘[The Official DVSA Guide to Riding - the essential skills](https://www.safedrivingforlife.info/shop/official-dvsa-guide-riding-essential-skills/?utm_source=gov.uk&utm_medium=website&utm_campaign=highway-code&utm_content=introduction)’.
 
 Self-driving vehicles
 ---------------------
