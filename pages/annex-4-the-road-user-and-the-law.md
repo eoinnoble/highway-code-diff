@@ -57,6 +57,7 @@ Acts and regulations from 1988 onwards
 | [Police Reform Act 2002](http://www.legislation.gov.uk/ukpga/2002/30/contents) | PRA |
 | [Private Crossings (Signs and Barriers) Regulations](https://www.legislation.gov.uk/uksi/1996/1786/contents/made) | PC(SB)R |
 | [Prohibition of Smoking in Certain Premises (Scotland) Regulations 2006. Scottish SI 2006/No 90](http://www.legislation.gov.uk/ssi/2006/90/contents/made) | TPSCP(S)R\* |
+| [Restricted Roads (20mph Speed Limit) Order 2022 (SI 2022/800)](https://www.legislation.gov.uk/wsi/2022/800/contents/made) | RR(20)O |
 | [Road Safety Act 2006](http://www.legislation.gov.uk/ukpga/2006/49/contents) | RSA |
 | [Road Traffic Act 1984](http://www.legislation.gov.uk/ukpga/1984/27/contents), [1988](http://www.legislation.gov.uk/ukpga/1988/52/contents/enacted) or [1991](http://www.legislation.gov.uk/ukpga/1991/40/contents) as indicated | RTA |
 | [Road Traffic Act 1988 (Prescribed Limit)(Scotland) Regulations 2014](http://www.legislation.gov.uk/sdsi/2014/9780111024478) | PLSR |
@@ -83,6 +84,5 @@ Acts and regulations from 1988 onwards
 
 For information, visit:
 
-* [www.smokefreeengland.co.uk](https://www.smokefreeengland.co.uk)
-* [www.ashscotland.org.uk](https://www.ashscotland.org.uk)
+* <www.gov.uk/health-and-social-care/smoking>
 * [www.gov.wales/smoking](https://www.gov.wales/smoking)
