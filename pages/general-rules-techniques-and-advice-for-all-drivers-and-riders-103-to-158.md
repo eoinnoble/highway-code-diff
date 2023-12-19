@@ -100,12 +100,12 @@ Lighting requirements (rules 113 to 116)
 You **MUST**
 
 * ensure all sidelights and rear registration plate lights are lit between sunset and sunrise
-* use headlights at night, except on a road which has lit street lighting. These roads are generally restricted to a speed limit of 30 mph (48 km/h) unless otherwise specified
+* use headlights at night, except on a road which has lit street lighting. These roads are generally restricted to a speed limit of 30 mph (48 km/h), or 20mph (32km/h) in Wales, unless otherwise specified
 * use headlights when visibility is seriously reduced (see [Rule 226](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-226)).
 
 Night (the hours of darkness) is defined as the period between half an hour after sunset and half an hour before sunrise.
 
-**Laws [RVLR regs 3](http://www.legislation.gov.uk/uksi/1989/1796/regulation/3/made), [24](http://www.legislation.gov.uk/uksi/1989/1796/regulation/24/made) & [25](http://www.legislation.gov.uk/uksi/1989/1796/part/III/made) (In Scotland - [RTRA sect 82 (as amended by NRSWA, para 59 of sched 8)](http://www.legislation.gov.uk/ukpga/1991/22/schedule/8/made)**)
+**Laws [RVLR regs 3](http://www.legislation.gov.uk/uksi/1989/1796/regulation/3/made), [24](http://www.legislation.gov.uk/uksi/1989/1796/regulation/24/made) & [25](http://www.legislation.gov.uk/uksi/1989/1796/part/III/made) (In Scotland - [RTRA sect 82 (as amended by NRSWA, para 59 of sched 8)](http://www.legislation.gov.uk/ukpga/1991/22/schedule/8/made)), [RR(20)O](http://www.legislation.gov.uk/en/wsi/2022/800/made)**
 
 ### Rule 114
 
@@ -149,7 +149,7 @@ Control of the vehicle (rules 117 to 126)
 
 **Skids**. Skidding is usually caused by the driver braking, accelerating or steering too harshly or driving too fast for the road conditions. If skidding occurs, remove the cause by releasing the brake pedal fully or easing off the accelerator. Turn the steering wheel in the direction of the skid. For example, if the rear of the vehicle skids to the right, steer immediately to the right to recover.
 
-![Rule 119: Rear of the car skids to the right. Driver steers to the right](../images/the-highway-code-rule-119.jpg)
+![](../images/the-highway-code-rule-119.jpg)
 
 Rule 119: Rear of the car skids to the right. Driver steers to the right
 
@@ -179,21 +179,21 @@ Rule 119: Rear of the car skids to the right. Driver steers to the right
 
 ### Rule 124
 
-You **MUST NOT** exceed the maximum speed limits for the road and for your vehicle (see the [speed limits table](#speedlimits)). A speed limit of 30 mph (48 km/h) generally applies to all roads with street lights (excluding motorways) unless signs show otherwise.
+You **MUST NOT** exceed the maximum speed limits for the road and for your vehicle (see the table below). A speed limit of 30 mph (48 km/h), or 20mph (32km/h) in Wales, generally applies to all roads with street lights (excluding motorways) unless signs show otherwise.
 
 ### Speed limits
 
-| Speed Limits | Built-up areas | Single carriageways | Dual carriageways | Motorways |
-| --- | --- | --- | --- | --- |
-| Type of vehicle | mph (km/h) | mph (km/h) | mph (km/h) | mph (km/h) |
-| Cars & motorcycles (including car derived vans up to 2 tonnes maximum laden weight) | **30** (48) | **60** (96) | **70** (112) | **70** (112) |
-| Cars towing caravans or trailers (including car derived vans and motorcycles) | **30** (48) | **50** (80) | **60** (96) | **60** (96) |
-| Motorhomes or motor caravans (not exceeding 3.05 tonnes maximum unladen weight) | **30** (48) | **60** (96) | **70** (112) | **70** (112) |
-| Motorhomes or motor caravans (exceeding 3.05 tonnes maximum unladen weight) | **30** (48) | **50** (80) | **60** (96) | **70** (112) |
-| Buses, coaches and minibuses (not exceeding 12 metres in overall length) | **30** (48) | **50** (80) | **60** (96) | **70†** (112) |
-| Goods vehicles (not exceeding 7.5 tonnes maximum laden weight) | **30** (48) | **50** (80) | **60** (96) | **70††** (112) |
-| Goods vehicles (exceeding 7.5 tonnes maximum laden weight) in England and Wales | **30** (48) | **50** (80) | **60** (96) | **60** (96) |
-| Goods vehicles (exceeding 7.5 tonnes maximum laden weight) in Scotland | **30** (48) | **40** (64) | **50** (80) | **60** (96) |
+| Speed Limits | Built-up areas, England, Scotland | Built up areas, Wales | Single carriageways | Dual carriageways | Motorways |
+| --- | --- | --- | --- | --- | --- |
+| Type of vehicle | mph (km/h) | mph (km/h) | mph (km/h) | mph (km/h) | mph (km/h) |
+| Cars & motorcycles (including car derived vans up to 2 tonnes maximum laden weight) | **30** (48) | **20** (32) | **60** (96) | **70** (112) | **70** (112) |
+| Cars towing caravans or trailers (including car derived vans and motorcycles) | **30** (48) | **20** (32) | **50** (80) | **60** (96) | **60** (96) |
+| Motorhomes or motor caravans (not exceeding 3.05 tonnes maximum unladen weight) | **30** (48) | **20** (32) | **60** (96) | **70** (112) | **70** (112) |
+| Motorhomes or motor caravans (exceeding 3.05 tonnes maximum unladen weight) | **30** (48) | **20** (32) | **50** (80) | **60** (96) | **70** (112) |
+| Buses, coaches and minibuses (not exceeding 12 metres in overall length) | **30** (48) | **20** (32) | **50** (80) | **60** (96) | **70†** (112) |
+| Goods vehicles (not exceeding 7.5 tonnes maximum laden weight) | **30** (48) | **20** (32) | **50** (80) | **60** (96) | **70††** (112) |
+| Goods vehicles (exceeding 7.5 tonnes maximum laden weight) in England and Wales | **30** (48) | **20** (32) | **50** (80) | **60** (96) | **60** (96) |
+| Goods vehicles (exceeding 7.5 tonnes maximum laden weight) in Scotland | **30** (48) | **20** (32) | **40** (64) | **50** (80) | **60** (96) |
 
 † 60 mph (96 km/h) if exceeding 12 metres in overall length.
 
@@ -203,13 +203,14 @@ For speed limits that apply to special types of vehicles, such as oversized vehi
 
 **Locally set speed limits** may apply, for example
 
-* 20 mph (32 km/h) in some built-up areas
+* 20 mph (32 km/h) in some built-up areas in England and Scotland
+* 30 mph (48 km/h) in some built-up areas in Wales
 * 50 mph (80 km/h) on single carriageways with known hazards
 * variable speed limit signs are used on some motorways and dual carriageways to change the maximum speed limit.
 
 **Speed limits are enforced by the police.**
 
-**Law [RTRA sects 81](http://www.legislation.gov.uk/ukpga/1984/27/part/VI), [86](http://www.legislation.gov.uk/ukpga/1984/27/part/VI), [89](http://www.legislation.gov.uk/ukpga/1984/27/part/VI) & [sched 6](http://www.legislation.gov.uk/ukpga/1984/27/schedule/6) as amended by [MV(VSL)(E&W)](http://www.legislation.gov.uk/uksi/2014/3552/contents/made)**
+**Law [RTRA sects 81](http://www.legislation.gov.uk/ukpga/1984/27/part/VI), [86](http://www.legislation.gov.uk/ukpga/1984/27/part/VI), [89](http://www.legislation.gov.uk/ukpga/1984/27/part/VI) & [sched 6](http://www.legislation.gov.uk/ukpga/1984/27/schedule/6) as amended by [MV(VSL)(E&W)](http://www.legislation.gov.uk/uksi/2014/3552/contents/made), [RR(20)O](https://www.legislation.gov.uk/en/wsi/2022/800/made)**
 
 ![](../images/Rule_124a.jpg)
 
@@ -244,7 +245,7 @@ You should
 
 If you have to stop in a tunnel, leave at least a 5-metre gap between you and the vehicle in front.
 
-![Rule 126: Use a fixed point to help measure a two-second gap](../images/the-highway-code-rule-126.jpg)
+![](../images/the-highway-code-rule-126.jpg)
 
 Rule 126: Use a fixed point such as a sign to help measure a two-second gap
 
@@ -294,7 +295,7 @@ See ‘[Road markings](/pages/road-markings.md)’ to see diagrams of all lines.
 * Green studs mark the edge of the main carriageway at lay-bys and slip roads.
 * Green/yellow studs indicate temporary adjustments to lane layouts, e.g. where road works are taking place.
 
-![Rule 132: Reflective road studs mark the lanes and edge of the carriageway](../images/the-highway-code-rule-132.jpg)
+![](../images/the-highway-code-rule-132.jpg)
 
 Rule 132: Reflective road studs mark the lanes and edge of the carriageway
 
@@ -474,7 +475,7 @@ As the driver, you are still responsible for the vehicle if you use a driver ass
 * allow pedestrians and cyclists to cross in front of you
 * be aware of cyclists and motorcyclists who may be passing on either side.
 
-![Rule 151: Do not block access to a side road](../images/the-highway-code-rule-151.jpg)
+![](../images/the-highway-code-rule-151.jpg)
 
 Rule 151: Do not block access to a side road
 
@@ -495,7 +496,7 @@ Rule 151: Do not block access to a side road
 
 **Traffic-calming measures.** On some roads there are features such as road humps, chicanes and narrowings which are intended to slow you down. When you approach these features reduce your speed. Allow cyclists and motorcyclists room to pass through them. Maintain a reduced speed along the whole of the stretch of road within the calming measures. Give way to oncoming road users if directed to do so by signs. You should not overtake other moving road users while in these areas.
 
-![Rule 153: Chicanes may be used to slow traffic down](../images/the-highway-code-rule-153.jpg)
+![](../images/the-highway-code-rule-153.jpg)
 
 Rule 153: Chicanes may be used to slow traffic down
 
