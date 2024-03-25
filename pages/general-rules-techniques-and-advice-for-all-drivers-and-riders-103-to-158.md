@@ -231,9 +231,9 @@ The speed limit is the absolute maximum and does not mean it is safe to drive at
 
 ### Rule 126
 
-![](../images/the-highway-code-stopping-distances.jpg)
+![](../images/the-highway-code-stopping-distance.jpg)
 
-[Download ‘Typical stopping distances’ (PDF, 124KB)](https://assets.digital.cabinet-office.gov.uk/media/559afb11ed915d1595000017/the-highway-code-typical-stopping-distances.pdf)
+[Download ‘Typical stopping distances’ (PDF, 124KB)](https://assets.publishing.service.gov.uk/media/65f97642aa9b760011fbda4e/the-highway-code-stopping-distances.pdf)
 
 **Stopping distances.** Drive at a speed that will allow you to stop well within the distance you can see to be clear.
 
