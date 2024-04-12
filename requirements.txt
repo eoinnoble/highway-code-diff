@@ -22,7 +22,7 @@ httpcore==0.16.3
     # via httpx
 httpx==0.23.3
     # via -r requirements.in
-idna==3.4
+idna==3.7
     # via
     #   anyio
     #   rfc3986
