@@ -413,7 +413,7 @@ A parallel crossing with a central island is two separate crossings (see [Rules 
 
 **Laws [TSRGD reg 14](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made) & [RTRA sect 25(5)](https://www.legislation.gov.uk/ukpga/1984/27/section/25)**
 
-![Rule 196: Allow pedestrians to cross when the amber light is flashing](../images/the-highway-code-rule-196.jpg)
+![Rule 196: Allow pedestrians to cross when the amber light is flashing](../images/the-highway-code-rule-196-.jpg)
 
 Rule 196: Allow pedestrians to cross when the amber light is flashing
 
