@@ -623,6 +623,14 @@ New section added.
 
 [General rules, techniques and advice for all drivers and riders (103 to 158)](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md)
 
+New section added.
+
+1 October 2015: Updated rule 148 to include that you MUST NOT smoke in a private vehicle carrying under 18s.
+
+6 April 2015: Updated the national speed limit for goods vehicles (of more than 7.5 tonnes maximum laden weight) in England and Wales on single carriageways from 40 miles per hour (mph) to 50mph, and on dual carriageways from 50mph to 60mph.
+
+2 September 2014: Updated rule 147 about throwing things out of a vehicle from 'should not' to 'MUST NOT'.
+
 2 April 2014: Changed 'Vehicle and Operator Services Agency (VOSA)' to 'Driver and Vehicle Standards Agency (DVSA)' in rule 107.
 
 [Using the road (159 to 203)](/pages/using-the-road-159-to-203.md)
@@ -634,6 +642,8 @@ New section added.
 New section added.
 
 [Introduction](/pages/introduction.md)
+
+New section added.
 
 On GOV.UK, The Highway Code now includes a list of updates. All updates made after 1 October 2015 will show on this list as and when they’re made. These are the updates that were made between 1 January 2014 and 1 October 2015.
 
@@ -659,6 +669,10 @@ New section added.
 
 [Rules for drivers and motorcyclists (89 to 102)](/pages/rules-for-drivers-and-motorcyclists-89-to-102.md)
 
+New section added.
+
+2 March 2015 : Updated rule 96 to reflect the change in law that you MUST NOT drive if you have illegal drugs or certain medicines in your blood above specified limits.
+
 5 December 2014: Updated rule 95 to reflect the change in law for lower drink drive limits in Scotland.
 
 [Signals by authorised persons](/pages/signals-by-authorised-persons.md)
@@ -666,6 +680,10 @@ New section added.
 New section added.
 
 [Annex 3. Motor vehicle documentation and learner driver requirements](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md)
+
+New section added.
+
+8 June 2015: Removed references to needing a paper counterpart to the photocard driving licence.
 
 1 October 2014: Removed references of needing to display a tax disc in vehicles following their abolition.
 
@@ -686,6 +704,8 @@ New section added.
 New section added.
 
 [Annex 5. Penalties](/pages/annex-5-penalties.md)
+
+New section added.
 
 5 June 2015: Updated the penalty table to remove the £5,000 limit on fines for the most serious offences.
 
