@@ -1,7 +1,7 @@
 General rules, techniques and advice for all drivers and riders (103 to 158)
 ==============================================================================
 
-Signals, stopping procedures, lighting, control of the vehicle, speed limits, stopping distances, lines and lane markings and multi-lane carriageways, smoking, mobile phones and sat nav.
+ Signals, stopping procedures, lighting, control of the vehicle, speed limits, stopping distances, lines and lane markings and multi-lane carriageways, smoking, mobile phones and sat nav.
 
 This section should be read by all drivers, motorcyclists, cyclists and horse riders. The rules in **The Highway Code** do not give you the right of way in any circumstance, but they advise you when you should give way to others. Always give way if it can help to avoid an incident.
 
