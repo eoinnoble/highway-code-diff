@@ -1,7 +1,7 @@
 Annex 4. The road user and the law
 ====================================
 
-Information about the road user and the law, including acts and regulations.
+ Information about the road user and the law, including acts and regulations.
 
 Road traffic law
 ----------------
