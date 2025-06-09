@@ -1,7 +1,7 @@
 Other information
 ===================
 
-Metric conversions, useful websites, further reading, the blue badge scheme and code of practice horse-drawn vehicles.
+ Metric conversions, useful websites, further reading, the blue badge scheme and code of practice horse-drawn vehicles.
 
 Metric conversions
 ------------------
