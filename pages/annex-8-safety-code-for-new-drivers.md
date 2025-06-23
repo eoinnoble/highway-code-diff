@@ -1,7 +1,7 @@
 Annex 8. Safety code for new drivers
 ======================================
 
-Information about the safety code for new drivers, including the New Drivers Act and further training.
+ Information about the safety code for new drivers, including the New Drivers Act and further training.
 
 Once you have passed the driving test you will be able to drive on your own. This will provide you with lots of opportunities but you need to remain safe. Even though you have shown you have the skills you need to drive safely, many newly qualified drivers lack experience. You need to continue to develop your skills, especially anticipating other road users’ behaviour to avoid having a collision. As many as one new driver in five has some kind of collision in their first year of driving. This code provides advice to help you get through the first 12 months after passing the driving test, when you are most vulnerable, as safely as possible.
 
