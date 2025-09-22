@@ -1,7 +1,7 @@
 Breakdowns and incidents (275 to 287)
 =======================================
 
-Rules for breakdowns and incidents, including rules for motorways, obstructions, incidents, incidents involving dangerous goods and documents.
+ Rules for breakdowns and incidents, including rules for motorways, obstructions, incidents, incidents involving dangerous goods and documents.
 
 Place of relative safety (rule 275)
 -----------------------------------
