@@ -1,7 +1,7 @@
 Rules about animals (47 to 58)
 ================================
 
-Rules about animals, including horse-drawn vehicles, horse riders and other animals.
+ Rules about animals, including horse-drawn vehicles, horse riders and other animals.
 
 Horse-drawn vehicles (rules 47 to 48)
 -------------------------------------
