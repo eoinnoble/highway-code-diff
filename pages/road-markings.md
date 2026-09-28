@@ -1,7 +1,7 @@
 Road markings
 ===============
 
-Road markings used, including those across the carriageway, along the carriageway, along the edge of the carriageway, on the kerb or at the edge of the carriageway and other road markings.
+ Road markings used, including those across the carriageway, along the carriageway, along the edge of the carriageway, on the kerb or at the edge of the carriageway and other road markings.
 
 [Download ‘Road markings’ (PDF, 715KB)](https://assets.digital.cabinet-office.gov.uk/media/560aa6c7ed915d035900001a/the-highway-code-road-markings.pdf)
 
