@@ -1,7 +1,7 @@
 Index
 =======
 
-An A to Z index of topics covered by The Highway Code.
+ An A to Z index of topics covered by The Highway Code.
 
 A
 -
@@ -311,7 +311,7 @@ L
 	+ roundabouts [rules 184 to 187](/pages/using-the-road-159-to-203.md#rule-184)
 	+ single carriageways [rules 135 to 136](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-135)
 * Lane dividers [rule 131](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-131) and [Road markings](/pages/road-markings.md)
-* Large vehicles [rule 126](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-126), [rule 160](/pages/using-the-road-159-to-203.md#rule-160%5D), [rule 164](/pages/using-the-road-159-to-203.md#rule-164), [rules 221 to 222](/pages/road-users-requiring-extra-care-204-to-225.md#rule-221), [rule 233](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-233) and [rule 294](/pages/road-works-level-crossings-and-tramways-288-to-307.md#rule-294) **see also** Long/large vehicles
+* Large vehicles [rule 126](/pages/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule-126), [rule 160](/pages/using-the-road-159-to-203.md#rule-160]), [rule 164](/pages/using-the-road-159-to-203.md#rule-164), [rules 221 to 222](/pages/road-users-requiring-extra-care-204-to-225.md#rule-221), [rule 233](/pages/driving-in-adverse-weather-conditions-226-to-237.md#rule-233) and [rule 294](/pages/road-works-level-crossings-and-tramways-288-to-307.md#rule-294) **see also** Long/large vehicles
 * Lay-bys [rules 249 to 250](/pages/waiting-and-parking-238-to-252.md#rule-249)
 * Learner drivers [rule 204](/pages/road-users-requiring-extra-care-204-to-225.md#rule-204), [rule 217](/pages/road-users-requiring-extra-care-204-to-225.md#rule-217), [rule 253](/pages/motorways-253-to-273.md#rule-253) and [Learner drivers](/pages/annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md)
 * Level crossings [rule 34](/pages/rules-for-pedestrians-1-to-35.md#rule-34), [rule 54](/pages/rules-about-animals-47-to-58.md#rule-54), [rule 82](/pages/rules-for-cyclists-59-to-82.md#rule-82), [rule 167](/pages/using-the-road-159-to-203.md#rule-167), [rule 243](/pages/waiting-and-parking-238-to-252.md#rule-243) and [rules 291 to 299](/pages/road-works-level-crossings-and-tramways-288-to-307.md#rule-291)
