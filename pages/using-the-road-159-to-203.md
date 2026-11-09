@@ -1,7 +1,7 @@
 Using the road (159 to 203)
 =============================
 
-Rules for using the road, including general rules, overtaking, road junctions, roundabouts, pedestrian crossings and reversing.
+ Rules for using the road, including general rules, overtaking, road junctions, roundabouts, pedestrian crossings and reversing.
 
 General rules (rules 159 to 161)
 --------------------------------
@@ -101,7 +101,7 @@ You **MUST NOT** overtake
 * if you would have to enter a lane reserved for buses, trams or cycles during its hours of operation
 * after a ‘No Overtaking’ sign and until you pass a sign cancelling the restriction.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 1](https://www.legislation.gov.uk/uksi/2002/3113/schedule/1/made), [schedule 9 part 7](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made), [schedule 14 part 1](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/1/made), [schedule 9 part 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/9/made), [schedule 14 part 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
 ### Rule 166
 
@@ -160,13 +160,13 @@ Rule 170: Give way to pedestrians who have started to cross
 
 You **MUST** stop behind the line at a junction with a ‘Stop’ sign and a solid white line across the road. Wait for a safe gap in the traffic before you move off.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/9/made)**
 
 ### Rule 172
 
 The approach to a junction may have a ‘Give Way’ sign or a triangle marked on the road. You **MUST** give way to traffic on the main road when emerging from a junction with broken white lines across the road.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/9/made)**
 
 ### Rule 173
 
@@ -183,7 +183,7 @@ Rule 173: Assess your vehicle’s length and do not obstruct traffic
 
 **Box junctions.** These have criss-cross yellow lines painted on the road (see ‘[Road markings](/pages/road-markings.md)’). You **MUST NOT** enter the box until your exit road or lane is clear. However, you may enter the box and wait when you want to turn right, and are only stopped from doing so by oncoming traffic, or by other vehicles waiting to turn right. At signalled roundabouts you **MUST NOT** enter the box unless you can cross over it completely without stopping.
 
-**Law [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
+**Law [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/9/made)**
 
 ![Rule 174: Enter a box junction only if your exit road is clear](../images/the-highway-code-rule-174b.jpg)
 
@@ -195,13 +195,13 @@ Rule 174: Enter a box junction only if your exit road is clear
 
 You **MUST** stop behind the white ‘Stop’ line across your side of the road unless the light is green. If the amber light appears you may go on only if you have already crossed the stop line or are so close to it that to stop might cause a collision.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 14 parts 1 and 4](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 14 parts 1 and 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
 ### Rule 176
 
 You **MUST NOT** move forward over the white line when the red light is showing. Only go forward when the traffic lights are green if there is room for you to clear the junction safely or you are taking up a position to turn right. If the traffic lights are not working, treat the situation as you would an unmarked junction and proceed with great care.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 14 parts 1 and 4](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 14 parts 1 and 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
 ### Rule 177
 
@@ -336,7 +336,7 @@ Cyclists, horse riders and horse drawn vehicles may stay in the left-hand lane w
 
 **Mini-roundabouts.** Approach these in the same way as normal roundabouts. All vehicles **MUST** pass round the central markings except large vehicles which are physically incapable of doing so. Remember, there is less space to manoeuvre and less time to signal. Avoid making U-turns at mini-roundabouts. Beware of others doing this.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/9/made)**
 
 ### Rule 189
 
@@ -411,7 +411,7 @@ A parallel crossing with a central island is two separate crossings (see [Rules 
 
 **Pelican crossings.** These are signal-controlled crossings where flashing amber follows the red ‘Stop’ light. You **MUST** stop when the red light shows. When the amber light is flashing, you **MUST** give way to any pedestrians on the crossing. If the amber light is flashing and there are no pedestrians on the crossing, you may proceed with caution.
 
-**Laws [TSRGD reg 14](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made) & [RTRA sect 25(5)](https://www.legislation.gov.uk/ukpga/1984/27/section/25)**
+**Laws [TSRGD reg 14](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made) & [RTRA sect 25(5)](https://www.legislation.gov.uk/ukpga/1984/27/section/25)**
 
 ![Rule 196: Allow pedestrians to cross when the amber light is flashing](../images/the-highway-code-rule-196-.jpg)
 
@@ -421,7 +421,7 @@ Rule 196: Allow pedestrians to cross when the amber light is flashing
 
 Pelican crossings which go straight across the road are one crossing, even when there is a central island. You **MUST** wait for pedestrians who are crossing from the other side of the island.
 
-**Law [TSRGD reg 14](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
+**Law [TSRGD reg 14](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
 ### Rule 198
 
