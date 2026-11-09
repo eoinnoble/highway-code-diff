@@ -1,7 +1,7 @@
 Waiting and parking (238 to 252)
 ==================================
 
-Rules for waiting and parking, including rules on parking at night and decriminalised parking enforcement.
+ Rules for waiting and parking, including rules on parking at night and decriminalised parking enforcement.
 
 General (rule 238)
 ------------------
@@ -56,7 +56,7 @@ You **MUST NOT** stop or park on
 * a cycle track
 * red lines, in the case of specially designated ‘red routes’, unless otherwise indicated by signs. Any vehicle may enter a bus lane to stop, load or unload where this is not prohibited (see [Rule 141](https://www.gov.uk/guidance/the-highway-code/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158#rule-141)).
 
-**Laws [MT(E&W)R regs 7](https://www.legislation.gov.uk/uksi/1982/1163/regulation/7/made) & [9](https://www.legislation.gov.uk/uksi/1982/1163/regulation/9/made) as amended by [MT(E&W)(A)(E)R](https://www.legislation.gov.uk/uksi/2015/392/contents/made), [MT(S)R regs 6](http://www.legislation.gov.uk/uksi/1995/2507/regulation/6/made) & [8](http://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made), [RTRA sects 5](http://www.legislation.gov.uk/ukpga/1984/27/section/5), [6](http://www.legislation.gov.uk/ukpga/1984/27/section/6) and [8](http://www.legislation.gov.uk/ukpga/1984/27/section/8), [TSRGD schedule 7 parts 2, 3, 4, 5 and 7](https://www.legislation.gov.uk/uksi/2002/3113/schedule/7/made), [schedule 9 part 6](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made), [schedule 14 parts 1 and 5](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
+**Laws [MT(E&W)R regs 7](https://www.legislation.gov.uk/uksi/1982/1163/regulation/7/made) & [9](https://www.legislation.gov.uk/uksi/1982/1163/regulation/9/made) as amended by [MT(E&W)(A)(E)R](https://www.legislation.gov.uk/uksi/2015/392/contents/made), [MT(S)R regs 6](http://www.legislation.gov.uk/uksi/1995/2507/regulation/6/made) & [8](http://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made), [RTRA sects 5](http://www.legislation.gov.uk/ukpga/1984/27/section/5), [6](http://www.legislation.gov.uk/ukpga/1984/27/section/6) and [8](http://www.legislation.gov.uk/ukpga/1984/27/section/8), [TSRGD schedule 7 parts 2, 3, 4, 5 and 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/7/made), [schedule 9 part 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/9/made), [schedule 14 parts 1 and 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
 ### Rule 241
 
@@ -89,11 +89,15 @@ You **MUST NOT** leave your vehicle or trailer in a dangerous position or where 
 
 **except** when forced to do so by stationary traffic.
 
+In Scotland you **MUST NOT** double park or park anywhere the kerb has been lowered to help pedestrians or cyclists. Exceptions are allowed in limited circumstances.
+
+**Law [T(Scot)A part 6](https://www.legislation.gov.uk/asp/2019/17/part/6/enacted)**
+
 ### Rule 244
 
-You **MUST NOT** park partially or wholly on the pavement in London, and should not do so elsewhere unless signs permit it. Parking on the pavement can obstruct and seriously inconvenience pedestrians, people in wheelchairs or with visual impairments and people with prams or pushchairs.
+You **MUST NOT** park partially or wholly on the pavement in London or Scotland. Exceptions are allowed in limited circumstances. You should not park partially or wholly on the pavement elsewhere unless signs permit it. Parking on the pavement can obstruct and seriously inconvenience pedestrians, people in wheelchairs or with visual impairments and people with prams or pushchairs.
 
-**Law [GL(GP)A sect 15](http://www.legislation.gov.uk/ukla/1974/24/section/15)**
+**Law [GL(GP)A sect 15](http://www.legislation.gov.uk/ukla/1974/24/section/15) & [T(Scot)A part 6](https://www.legislation.gov.uk/asp/2019/17/part/6/enacted)**
 
 ### Rule 245
 

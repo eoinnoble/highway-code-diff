@@ -1,7 +1,7 @@
 Signals by authorised persons
 ===============================
 
-Signals used by authorised persons, including police officers, arm signals to persons controlling traffic, Driver and Vehicle Standards Agency officers and traffic officers and school crossing patrols.
+ Signals used by authorised persons, including police officers, arm signals to persons controlling traffic, Driver and Vehicle Standards Agency officers and traffic officers and school crossing patrols.
 
 [Download ‘Signals by authorised persons’ (PDF, 468KB)](https://assets.digital.cabinet-office.gov.uk/media/560aa62bed915d035c00001b/the-highway-code-signals-by-authorised-persons.pdf)
 

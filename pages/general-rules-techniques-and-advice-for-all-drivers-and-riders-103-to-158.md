@@ -1,7 +1,7 @@
 General rules, techniques and advice for all drivers and riders (103 to 158)
 ==============================================================================
 
-Signals, stopping procedures, lighting, control of the vehicle, speed limits, stopping distances, lines and lane markings and multi-lane carriageways, smoking, mobile phones and sat nav.
+ Signals, stopping procedures, lighting, control of the vehicle, speed limits, stopping distances, lines and lane markings and multi-lane carriageways, smoking, mobile phones and sat nav.
 
 This section should be read by all drivers, motorcyclists, cyclists and horse riders. The rules in **The Highway Code** do not give you the right of way in any circumstance, but they advise you when you should give way to others. Always give way if it can help to avoid an incident.
 
@@ -71,7 +71,7 @@ You **MUST** then pull over and stop as soon as it is safe to do so. Then switch
 
 **Traffic light signals and traffic signs.** You **MUST** obey all traffic light signals (see ‘[Light signals controlling traffic](/pages/light-signals-controlling-traffic.md)’) and traffic signs giving orders, including temporary signals & signs (see ‘[Traffic signs](/pages/traffic-signs.md)’). Make sure you know, understand and act on all other traffic and information signs and road markings (see ‘[Traffic signs](/pages/traffic-signs.md)’, ‘[Road markings](/pages/road-markings.md)’ and ‘[Vehicle markings](/pages/vehicle-markings.md)’).
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 3 part 4](https://www.legislation.gov.uk/uksi/2002/3113/schedule/3/made), [schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made), [schedule 14 parts 1 and 5](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made), [schedule 7 part 6](https://www.legislation.gov.uk/uksi/2002/3113/schedule/7/made), [schedule 15 part 1](https://www.legislation.gov.uk/uksi/2002/3113/schedule/15/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 3 part 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/3/made), [schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/9/made), [schedule 14 parts 1 and 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made), [schedule 7 part 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/7/made), [schedule 15 part 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/15/made)**
 
 ### Rule 110
 
@@ -270,7 +270,7 @@ See ‘[Road markings](/pages/road-markings.md)’ to see diagrams of all lines.
 
 **Double white lines where the line nearer to you is solid.** This means you **MUST NOT** cross or straddle it unless it is safe and you need to enter adjoining premises or a side road. You may cross the line if necessary, provided the road is clear, to pass a stationary vehicle, or overtake a pedal cycle, horse or road maintenance vehicle, if they are travelling at 10 mph (16 km/h) or less.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 part 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 part 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/9/made)**
 
 ### Rule 130
 
@@ -279,7 +279,7 @@ See ‘[Road markings](/pages/road-markings.md)’ to see diagrams of all lines.
 * If the area is bordered by a broken white line, you should not enter the area unless it is necessary and you can see that it is safe to do so.
 * If the area is marked with chevrons and bordered by solid white lines you **MUST NOT** enter it except in an emergency.
 
-**Laws [MT(E&W)R regs 5](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [9](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [10](http://www.legislation.gov.uk/uksi/1982/1163/contents/made) & [16](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [MT(S)R regs 4](http://www.legislation.gov.uk/uksi/1995/2507/regulation/4/made), [8](http://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made), [9](http://www.legislation.gov.uk/uksi/1995/2507/regulation/9/made) & [14](http://www.legislation.gov.uk/uksi/1995/2507/regulation/14/made), [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 part 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
+**Laws [MT(E&W)R regs 5](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [9](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [10](http://www.legislation.gov.uk/uksi/1982/1163/contents/made) & [16](http://www.legislation.gov.uk/uksi/1982/1163/contents/made), [MT(S)R regs 4](http://www.legislation.gov.uk/uksi/1995/2507/regulation/4/made), [8](http://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made), [9](http://www.legislation.gov.uk/uksi/1995/2507/regulation/9/made) & [14](http://www.legislation.gov.uk/uksi/1995/2507/regulation/14/made), [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 part 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/9/made)**
 
 ### Rule 131
 

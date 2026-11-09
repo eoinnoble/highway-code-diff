@@ -1,7 +1,7 @@
 Rules for drivers and motorcyclists (89 to 102)
 =================================================
 
-Rules for drivers and motorcyclists, including vehicle condition, fitness to drive, alcohol and drugs, what to do before setting off, vehicle towing and loading, and seat belts and child restraints.
+ Rules for drivers and motorcyclists, including vehicle condition, fitness to drive, alcohol and drugs, what to do before setting off, vehicle towing and loading, and seat belts and child restraints.
 
 Vehicle condition (rule 89)
 ---------------------------

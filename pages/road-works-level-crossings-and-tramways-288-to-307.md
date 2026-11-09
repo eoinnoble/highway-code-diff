@@ -1,7 +1,7 @@
 Road works, level crossings and tramways (288 to 307)
 =======================================================
 
-Rules for road works (including on motorways and other high-speed roads), level crossings and tramways.
+ Rules for road works (including on motorways and other high-speed roads), level crossings and tramways.
 
 Road works (rule 288)
 ---------------------
@@ -34,7 +34,7 @@ Take special care on motorways and other high-speed dual carriageways.
 * Works vehicles may be used to close lanes or carriageways for repairs. Where large ‘Keep Left’ or ‘Keep Right’ signs are displayed on the back, you **MUST** move over and pass the works vehicle on the side indicated and not return to the closed lane until you can see it is safe to do so.
 * Where a vehicle displays the sign ‘CONVOY VEHICLE NO OVERTAKING’, you **MUST NOT** pass the vehicle. A flashing light arrow or red ‘X’ may also be used to make the works vehicle more visible from a distance and give earlier warning to drivers.
 
-**Laws [RTA 1988 sect 36](https://www.legislation.gov.uk/ukpga/1988/52/section/36/), [TSRGD reg 3](https://www.legislation.gov.uk/uksi/2002/3113/regulation/3/made) and [sched 13](https://www.legislation.gov.uk/uksi/2002/3113/schedule/13/made)**
+**Laws [RTA 1988 sect 36](https://www.legislation.gov.uk/ukpga/1988/52/section/36/), [TSRGD reg 3](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/3) and [sched 13](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/made)**
 
 ### Rule 290
 
@@ -55,7 +55,7 @@ A level crossing is where a road crosses a railway or tramway line. Approach and
 
 **Overhead electric lines.** It is dangerous to touch overhead electric lines. You **MUST** obey the safe height warning road signs and you should not continue forward onto the railway if your vehicle touches any height barrier or bells. The clearance available is usually 5 metres (16 feet 6 inches) but may be lower.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 2 part 7](https://www.legislation.gov.uk/uksi/2002/3113/schedule/2/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 2 part 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/2/made)**
 
 ### Rule 293
 
@@ -70,7 +70,7 @@ A level crossing is where a road crosses a railway or tramway line. Approach and
 * Never zig-zag around half-barriers, they lower automatically because a train is approaching.
 * At crossings where there are no barriers, a train is approaching when the lights show.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 14 parts 1 and 4](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 14 parts 1 and 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
 ![Rule 293: Stop when the traffic lights show](../images/the-highway-code-rule-293.jpg)
 
@@ -80,7 +80,7 @@ Rule 293: Stop when the traffic lights show
 
 **Railway telephones.** If you are driving a large or slow- moving vehicle, a long, low vehicle with a risk of grounding, or herding animals, a train could arrive before you are clear of the crossing. You **MUST** obey any sign instructing you to use the railway telephone to obtain permission to cross. You **MUST** also telephone when clear of the crossing if requested to do so.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2002/3113/schedule/9/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 9 parts 7 and 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/9/made)**
 
 ### Rule 295
 
