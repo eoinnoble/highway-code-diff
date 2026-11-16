@@ -1,7 +1,7 @@
 Vehicle markings
 ==================
 
-Vehicle markings used, including large goods vehicle rear markings, hazard warning plates, projection markers and other markings.
+ Vehicle markings used, including large goods vehicle rear markings, hazard warning plates, projection markers and other markings.
 
 [Download ‘Vehicle markings’ (PDF, 537KB)](https://assets.digital.cabinet-office.gov.uk/media/560aa745e5274a036c000020/the-highway-code-vehicle-markings.pdf)
 

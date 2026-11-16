@@ -1,7 +1,7 @@
 Light signals controlling traffic
 ===================================
 
-Light signals used to control traffic, including traffic light signals, flashing red lights, motorway signals and lane control signals.
+ Light signals used to control traffic, including traffic light signals, flashing red lights, motorway signals and lane control signals.
 
 [Download ‘Light signals controlling traffic’ (PDF, 80KB)](https://assets.digital.cabinet-office.gov.uk/media/560aa3f9e5274a036900001c/the-highway-code-light-signals-controlling-traffic.pdf)
 
