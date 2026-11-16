@@ -1,7 +1,7 @@
 Rules for cyclists (59 to 82)
 ===============================
 
-Rules for cyclists, including an overview, road junctions, roundabouts and crossing the road.
+ Rules for cyclists, including an overview, road junctions, roundabouts and crossing the road.
 
 These rules are in addition to those in the following sections, which apply to all vehicles (except the [motorway section](/pages/motorways-253-to-273.md)). See also [You and your bicycle](/pages/annex-1-you-and-your-bicycle.md).
 
@@ -93,7 +93,7 @@ You **MUST NOT**
 
 You **MUST** obey all traffic signs and traffic light signals.
 
-**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 3 part 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/3/made), [schedule 7 part 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/7/made), [schedule 9 parts 4 and 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/9/made), [schedule 13 part 6](https://www.legislation.gov.uk/uksi/2002/3113/schedule/13/made), [schedule 14 part 2](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
+**Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD schedule 3 part 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/3/made), [schedule 7 part 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/7/made), [schedule 9 parts 4 and 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/9/made), [schedule 13 part 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/made), [schedule 14 part 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**
 
 ### Rule 70
 
@@ -207,4 +207,4 @@ Cycle track crossings can be in spacious pedestrian environments. Cyclists shoul
 
 Take extra care when crossing level crossings and tramways (see [Rule 306](/pages/road-works-level-crossings-and-tramways-288-to-307.md#rule-306)). You should dismount at level crossings where a ‘cyclist dismount’ sign is displayed.
 
-**Law [TSRGD schedule 14 part 1](https://www.legislation.gov.uk/uksi/2002/3113/schedule/14/made)**
+**Law [TSRGD schedule 14 part 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/14/made)**

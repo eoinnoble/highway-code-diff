@@ -1,7 +1,7 @@
 Annex 3. Motor vehicle documentation and learner driver requirements
 ======================================================================
 
-Information and rules about motor vehicle documentation and learner driver requirements.
+ Information and rules about motor vehicle documentation and learner driver requirements.
 
 Documents
 ---------
