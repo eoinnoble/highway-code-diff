@@ -1,7 +1,7 @@
 Other information
 ===================
 
-Metric conversions, useful websites, further reading, the blue badge scheme and code of practice horse-drawn vehicles.
+ Metric conversions, useful websites, further reading, the blue badge scheme and code of practice horse-drawn vehicles.
 
 Metric conversions
 ------------------
@@ -59,15 +59,10 @@ Get [information about the Blue Badge Scheme](https://www.gov.uk/blue-badge-sche
 The [Code of Practice](https://www.gov.uk/government/publications/code-of-practice-for-horse-drawn-vehicles) is available from
 
 Department for Transport
-
 International Vehicle Standards
-
 Great Minster House
-
 33 Horseferry Road
-
 London
-
 SW1P 4DR
 
 Tel 0300 330 3000

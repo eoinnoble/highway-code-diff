@@ -1,13 +1,13 @@
 Traffic signs
 ===============
 
-Traffic signs used, including signs giving orders, warning signs, direction signs, information signs and road works signs.
+ Traffic signs used, including signs giving orders, warning signs, direction signs, information signs and road works signs.
 
 Although **The Highway Code** shows many of the signs commonly in use, a comprehensive explanation of our signing system is given in the Department’s booklet [Know Your Traffic Signs](https://www.gov.uk/government/publications/know-your-traffic-signs), which is on sale at booksellers. The booklet also illustrates and explains the vast majority of signs the road user is likely to encounter.
 
 The signs illustrated in **The Highway Code** are not all drawn to the same scale. In Wales, bilingual versions of some signs are used including Welsh and English versions of place names. Some older designs of signs may still be seen on the roads.
 
-[Download ‘Traffic signs’ (PDF, 821KB)](https://assets.publishing.service.gov.uk/media/58170307ed915d61c5000000/the-highway-code-traffic-signs.pdf)
+[Download ‘Traffic signs’ (PDF, 821KB)](https://assets.publishing.service.gov.uk/media/68f8d5c5ec6267c615ed8f99/the-highway-code-traffic-signs.pdf)
 
 Signs giving orders
 -------------------

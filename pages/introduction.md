@@ -1,7 +1,7 @@
 Introduction
 ==============
 
-Who The Highway Code is for, how it's worded, the consequences of not following the rules, self-driving vehicles, and the hierarchy of road users (Rules H1 to H3).
+ Who The Highway Code is for, how it's worded, the consequences of not following the rules, self-driving vehicles, and the hierarchy of road users (Rules H1 to H3).
 
 Introduction
 ------------
