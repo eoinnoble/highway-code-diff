@@ -1,7 +1,7 @@
 Annex 1. You and your bicycle
 ===============================
 
-Information and rules about you and your bicycle.
+ Information and rules about you and your bicycle.
 
  You and your bicycle
 ----------------------

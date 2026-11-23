@@ -1,7 +1,7 @@
 Annex 7. First aid on the road
 ================================
 
-Information about first aid on the road, including dealing with danger, getting help, helping those involved, and providing emergency care.
+ Information about first aid on the road, including dealing with danger, getting help, helping those involved, and providing emergency care.
 
 The following information was compiled with the help of St John Ambulance, the British Heart Foundation and the British Red Cross. It’s intended as a general guide for those without first-aid training but shouldn’t be considered a substitute for proper training. Any first aid given at the scene of an incident should be looked on only as a temporary measure until the emergency services arrive.
 
@@ -49,4 +49,4 @@ anything that’s sticking to the burn.
 
 ### Be prepared
 
-Always carry a first aid kit – you might never need it, but it could save a life. Learn first aid – you can get first aid training from a qualified organisation such as [St John Ambulance](http://www.sja.org.uk/sja/default.aspx), [St Andrew’s First Aid](http://www.firstaid.org.uk), [British Red Cross](http://www.redcross.org.uk/What-we-do/First-aid/First-aid-training), or any suitable, qualified body.
+Always carry a first aid kit – you might never need it, but it could save a life. Learn first aid – you can get first aid training from a qualified organisation such as [St John Ambulance](http://www.sja.org.uk/sja/default.aspx), [St Andrew’s First Aid](http://www.firstaid.org.uk), [British Red Cross](https://www.redcross.org.uk/first-aid/learn-first-aid), or any suitable, qualified body.
